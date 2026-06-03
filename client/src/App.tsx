@@ -37,7 +37,7 @@ function AppContent() {
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
             <div className="logo-box">
             </div>
-            <h2 style={{ fontSize: '1.2rem' }}>MCID 工具箱</h2>
+            <h2 style={{ fontSize: '1.2rem', margin: 0, lineHeight: 1.2 }}>MCID<br/>工具箱</h2>
           </div>
           <button 
             onClick={() => setIsLightMode(!isLightMode)}
