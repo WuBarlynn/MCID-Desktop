@@ -1,6 +1,6 @@
 # MCID-Desktop (MCID 工具箱)
 
-本项目是一个跨平台的 Minecraft 游戏数据工具箱桌面客户端，由 **暮风径羽** 授权进行二次开发。
+本项目是一个 Minecraft 游戏数据工具箱桌面客户端，由 **暮风径羽** 授权进行二次开发。
 
 本项目的所有信息数据（包括方块物品 ID、实体数据、群系、结构、图片素材等）均来源于：
 [https://mcid.lingningyu.cn/](https://mcid.lingningyu.cn/)
