@@ -1,0 +1,3479 @@
+[{
+    "v":100,"b":2,"n":"空气","ID":"num.0,107.air","zj":"yn"
+},{
+    "v":100,"b":1,"n":"石头","ID":"num.1,107.stone","t":"0,2","oP":"113"
+},{
+    "v":108,"b":1,"n":"花岗岩","ID":"num.1_1,108.stone/1,113.granite","t":"0,2","oP":"113"
+},{
+    "v":108,"b":1,"n":"磨制花岗岩","ID":"num.1_2,108.stone/2,113.polished_granite","t":"0","oP":"113"
+},{
+    "v":108,"b":1,"n":"闪长岩","ID":"num.1_3,108.stone/3,113.diorite","t":"0,2","oP":"113"
+},{
+    "v":108,"b":1,"n":"磨制闪长岩","ID":"num.1_4,108.stone/4,113.polished_diorite","t":"0","oP":"113"
+},{
+    "v":108,"b":1,"n":"安山岩","ID":"num.1_5,108.stone/5,113.andesite","t":"0,2","oP":"113"
+},{
+    "v":108,"b":1,"n":"磨制安山岩","ID":"num.1_6,108.stone/6,113.polished_andesite","t":"0","oP":"113"
+},{
+    "v":100,"b":1,"n":"草方块","ID":"num.2,107.grass,113.grass_block","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"泥土","ID":"num.3,107.dirt","t":"2","oP":"113"
+},{
+    "v":107,"b":1,"n":"砂土","ID":"num.3_1,107.dirt/1,113.coarse_dirt","t":"2","oP":"113"
+},{
+    "v":107,"b":1,"n":"灰化土","ID":"num.3_2,107.dirt/2,113.podzol","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"圆石","ID":"num.4,107.cobblestone","t":"0","oP":"113"
+},{
+    "v":100,"b":1,"n":"橡木木板","ID":"num.5,107.planks,113.oak_planks","t":"0","oN":"102.木板","oP":"113"
+},{
+    "v":102,"b":1,"n":"云杉木板","ID":"num.5_1,107.planks/1,113.spruce_planks","t":"0","oN":"102.木板","oP":"113"
+},{
+    "v":102,"b":1,"n":"白桦木板","ID":"num.5_2,107.planks/2,113.birch_planks","t":"0","oN":"102.木板,106.桦木木板","oP":"113"
+},{
+    "v":102,"b":1,"n":"丛林木板","ID":"num.5_3,107.planks/3,113.jungle_planks","t":"0","oN":"102.木板","oP":"113"
+},{
+    "v":107,"b":1,"n":"金合欢木板","ID":"num.5_4,107.planks/4,113.acacia_planks","t":"0","oP":"113"
+},{
+    "v":107,"b":1,"n":"深色橡木木板","ID":"num.5_5,107.planks/5,113.dark_oak_planks","t":"0","oP":"113"
+},{
+    "v":100,"b":1,"n":"橡树树苗","ID":"num.6,107.sapling,113.oak_sapling","t":"2","oN":"102.树苗","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"云杉树苗","ID":"num.6_1,107.sapling/1,113.spruce_sapling","t":"2","oN":"102.树苗","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"白桦树苗","ID":"num.6_2,107.sapling/2,113.birch_sapling","t":"2","oN":"102.树苗,106.桦木树苗","oP":"113","zj":"yn"
+},{
+    "v":102,"b":1,"n":"丛林树苗","ID":"num.6_3,107.sapling/3,113.jungle_sapling","t":"2","oN":"102.树苗","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"金合欢树苗","ID":"num.6_4,107.sapling/4,113.acacia_sapling","t":"2","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"深色橡树树苗","ID":"num.6_5,107.sapling/5,113.dark_oak_sapling","t":"2","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"基岩","ID":"num.7,107.bedrock","t":"2","oP":"113"
+},{
+    "v":100,"b":2,"n":"流动水","ID":"num.8,107.flowing_water","yc":113
+},{
+    "v":100,"b":2,"n":"水","ID":"num.9,107.water"
+},{
+    "v":100,"b":2,"n":"流动熔岩","ID":"num.10,107.flowing_lava","oN":"109.流动岩浆","oP":"104","yc":113
+},{
+    "v":100,"b":2,"n":"熔岩","ID":"num.11,107.lava","oN":"109.岩浆","oP":"104"
+},{
+    "v":100,"b":1,"n":"沙子","ID":"num.12,107.sand","t":"2","oP":"113"
+},{
+    "v":107,"b":1,"n":"红沙","ID":"num.12_1,107.sand/1,113.red_sand","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"沙砾","ID":"num.13,107.gravel","t":"2","oN":"101.砂砾","oP":"113"
+},{
+    "v":100,"b":1,"n":"金矿石","ID":"num.14,107.gold_ore","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"铁矿石","ID":"num.15,107.iron_ore","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"煤矿石","ID":"num.16,107.coal_ore","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"橡木原木","ID":"num.17,107.log,113.oak_log","t":"0,2","oN":"101.原木,102.木头,112.橡木","oP":"113"
+},{
+    "v":100,"b":1,"n":"云杉原木","ID":"num.17_1,107.log/1,113.spruce_log","t":"0,2","oN":"101.原木,102.木头,112.云杉木","oP":"106,113"
+},{
+    "v":100,"b":1,"n":"白桦原木","ID":"num.17_2,107.log/2,113.birch_log","t":"0,2","oN":"101.原木,102.木头,112.白桦木","oP":"106,113"
+},{
+    "v":102,"b":1,"n":"丛林原木","ID":"num.17_3,107.log/3,113.jungle_log","t":"0,2","oN":"101.原木,102.木头,112.丛林木","oP":"106,113"
+},{
+    "v":103,"b":1,"n":"橡木","ID":"num.17_12,107.log/12,113.oak_wood","t":"0","oP":"113"
+},{
+    "v":103,"b":1,"n":"云杉木","ID":"num.17_13,107.log/13,113.spruce_wood","t":"0","oP":"113"
+},{
+    "v":103,"b":1,"n":"白桦木","ID":"num.17_14,107.log/14,113.birch_wood","t":"0","oP":"113"
+},{
+    "v":103,"b":1,"n":"丛林木","ID":"num.17_15,107.log/15,113.jungle_wood","t":"0","oP":"113"
+},{
+    "v":100,"b":1,"n":"橡树树叶","ID":"num.18,107.leaves,113.oak_leaves","t":"2","oN":"101.叶子,102.树叶","oP":"113"
+},{
+    "v":100,"b":1,"n":"云杉树叶","ID":"num.18_1,107.leaves/1,113.spruce_leaves","t":"2","oN":"101.叶子,102.树叶","oP":"113"
+},{
+    "v":100,"b":1,"n":"白桦树叶","ID":"num.18_2,107.leaves/2,113.birch_leaves","t":"2","oN":"101.叶子,102.树叶","oP":"113"
+},{
+    "v":102,"b":1,"n":"丛林树叶","ID":"num.18_3,107.leaves/3,113.jungle_leaves","t":"2","oN":"101.叶子,102.树叶","oP":"113"
+},{
+    "v":100,"b":1,"n":"海绵","ID":"num.19,107.sponge","t":"2","oP":"107,113"
+},{
+    "v":108,"b":1,"n":"湿海绵","ID":"num.19_1,107.wet_sponge","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"玻璃","ID":"num.20,107.glass","t":"1","oP":"113"
+},{
+    "v":100,"b":1,"n":"青金石矿石","EN":"Lapis Lazuli Ore","ID":"num.21,107.lapis_ore","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"青金石块","EN":"Block of Lapis Lazuli","ID":"num.22,107.lapis_block","t":"0","oN":"101.青金石方块","oP":"113"
+},{
+    "v":100,"b":1,"n":"发射器","ID":"num.23,107.dispenser","t":"4","oP":"101,102,113"
+},{
+    "v":100,"b":1,"n":"砂岩","ID":"num.24,107.sandstone","t":"0","oN":"101.砂岩,111.沙石","oP":"113"
+},{
+    "v":102,"b":1,"n":"雕纹砂岩","ID":"num.24_1,107.sandstone/1,113.chiseled_sandstone","t":"0","oN":"102.沙石,111.錾制沙石,11902.錾制砂岩","oP":"113"
+},{
+    "v":102,"b":1,"n":"切制砂岩","ID":"num.24_2,107.sandstone/2,113.cut_sandstone","t":"0","oN":"102.沙石,111.平滑沙石,112.平滑砂岩","oP":"113"
+},{
+    "v":100,"b":1,"n":"音符盒","ID":"num.25,107.noteblock,113.note_block","t":"4","oP":"113"
+},{
+    "v":100,"b":3,"n":"床","ID":"num.26,107.bed","zj":"ny","yc":112
+},{
+    "v":100,"b":1,"n":"动力铁轨","ID":"num.27,107.golden_rail,113.powered_rail","t":"4","oN":"107.动力铁轨,116.充能铁轨","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"探测铁轨","ID":"num.28,107.detector_rail","t":"4","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"黏性活塞","ID":"num.29,107.sticky_piston","t":"4","oN":"114.粘性活塞","oP":"113,118"
+},{
+    "v":100,"b":1,"n":"蜘蛛网","ID":"num.30,107.web,113.cobweb","t":"2","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"枯萎的灌木","ID":"num.31,107.tallgrass,113.dead_bush","oN":"112.灌木","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"矮草丛","ID":"num.31_1,107.tallgrass/1,113.grass,12003.short_grass","t":"2","oN":"12002.草","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"蕨","ID":"num.31_2,107.tallgrass/2,113.fern","t":"2","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"枯萎的灌木","ID":"num.32,107.deadbush,113.dead_bush","t":"2","oN":"101.枯草,112.枯死的灌木","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"活塞","ID":"num.33,107.piston","t":"4","oP":"113,118"
+},{
+    "v":100,"b":2,"n":"活塞头","ID":"num.34,107.piston_head","oP":"113"
+},{
+    "v":100,"b":1,"n":"白色羊毛","ID":"num.35,107.wool,113.white_wool","t":"1,4","oN":"110.羊毛","oP":"111"
+},{
+    "v":100,"b":1,"n":"橙色羊毛","ID":"num.35_1,107.wool/1,113.orange_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"品红色羊毛","ID":"num.35_2,107.wool/2,113.magenta_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"淡蓝色羊毛","ID":"num.35_3,107.wool/3,113.light_blue_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"黄色羊毛","ID":"num.35_4,107.wool/4,113.yellow_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"黄绿色羊毛","ID":"num.35_5,107.wool/5,113.lime_wool","t":"1","oN":"101.柠檬黄色羊毛","oP":"111"
+},{
+    "v":100,"b":1,"n":"粉红色羊毛","ID":"num.35_6,107.wool/6,113.pink_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"灰色羊毛","ID":"num.35_7,107.wool/7,113.gray_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"淡灰色羊毛","ID":"num.35_8,107.wool/8,113.light_gray_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"青色羊毛","ID":"num.35_9,107.wool/9,113.cyan_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"紫色羊毛","ID":"num.35_10,107.wool/10,113.purple_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"蓝色羊毛","ID":"num.35_11,107.wool/11,113.blue_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"棕色羊毛","ID":"num.35_12,107.wool/12,113.brown_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"绿色羊毛","ID":"num.35_13,107.wool/13,113.green_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"红色羊毛","ID":"num.35_14,107.wool/14,113.red_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":1,"n":"黑色羊毛","ID":"num.35_15,107.wool/15,113.black_wool","t":"1","oP":"111"
+},{
+    "v":100,"b":2,"n":"移动的活塞","ID":"num.36,107.piston_extension,113.moving_piston","zj":"yn"
+},{
+    "v":100,"b":1,"n":"蒲公英","ID":"num.37,107.yellow_flower,113.dandelion","t":"2","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"虞美人","ID":"num.38,107.red_flower,113.poppy","t":"2","oN":"106.玫瑰,111.罂粟","oP":"106,113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"兰花","ID":"num.38_1,107.red_flower/1,113.blue_orchid","t":"2","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"绒球葱","ID":"num.38_2,107.red_flower/2,113.allium","t":"2","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"蓝花美耳草","ID":"num.38_3,107.red_flower/3,113.azure_bluet","t":"2","oN":"114.茜草花","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"红色郁金香","ID":"num.38_4,107.red_flower/4,113.red_tulip","t":"2","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"橙色郁金香","ID":"num.38_5,107.red_flower/5,113.orange_tulip","t":"2","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"白色郁金香","ID":"num.38_6,107.red_flower/6,113.white_tulip","t":"2","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"粉红色郁金香","ID":"num.38_7,107.red_flower/7,113.pink_tulip","t":"2","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"滨菊","ID":"num.38_8,107.red_flower/8,113.oxeye_daisy","t":"2","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"棕色蘑菇","ID":"num.39,107.brown_mushroom","t":"2","oN":"112.蘑菇","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"红色蘑菇","ID":"num.40,107.red_mushroom","t":"2","oN":"112.蘑菇","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"金块","EN":"Block of Gold","ID":"num.41,107.gold_block","t":"0","oN":"101.金方块","oP":"113"
+},{
+    "v":100,"b":1,"n":"铁块","EN":"Block of Iron","ID":"num.42,107.iron_block","t":"0","oN":"101.铁方块","oP":"113"
+},{
+    "v":100,"b":2,"n":"双层石台阶","EN":"Double Stone Slab","ID":"num.43,107.double_stone_slab,113.stone_slab[type=double],114.smooth_stone_slab[type=double]","oN":"101.双层半石块"
+},{
+    "v":100,"b":2,"n":"双层砂岩台阶","EN":"Double Sandstone Slab","ID":"num.43_1,107.double_stone_slab/1,113.sandstone_slab[type=double]","oN":"101.双层半砂岩块,111.双层沙石台阶"
+},{
+    "v":100,"b":2,"n":"双层木台阶","EN":"Double Wooden Slab","ID":"num.43_2,107.double_stone_slab/2,113.petrified_oak_slab[type=double]"
+},{
+    "v":100,"b":2,"n":"双层圆石台阶","EN":"Double Cobblestone Slab","ID":"num.43_3,107.double_stone_slab/3,113.cobblestone_slab[type=double]","oN":"101.双层半圆石块"
+},{
+    "v":100,"b":2,"n":"双层砖台阶","EN":"Double Brick Slab","ID":"num.43_4,107.double_stone_slab/4,113.brick_slab[type=double]","oN":"101.双层半砖块"
+},{
+    "v":100,"b":2,"n":"双层石砖台阶","EN":"Double Stone Brick Slab","ID":"num.43_5,107.double_stone_slab/5,113.stone_brick_slab[type=double]","oN":"101.双层半石砖"
+},{
+    "v":104,"b":2,"n":"双层地狱砖台阶","EN":"Double Nether Brick Slab","ID":"num.43_6,107.double_stone_slab/6,113.nether_brick_slab[type=double]"
+},{
+    "v":105,"b":2,"n":"双层石英台阶","EN":"Double Quartz Slab","ID":"num.43_7,107.double_stone_slab/7,113.quartz_slab[type=double]"
+},{
+    "v":100,"b":1,"n":"平滑石头","ID":"num.43_6(100)+7(104)+8(105),107.double_stone_slab/8,113.smooth_stone","t":"0","oP":"113"
+},{
+    "v":105,"b":1,"n":"平滑砂岩","ID":"num.43_9,107.double_stone_slab/9,113.smooth_sandstone","t":"0","oN":"111.平滑砂石","oP":"113"
+},{
+    "v":107,"b":1,"n":"平滑石英块","EN":"Smooth Quartz Block","ID":"num.43_15,107.double_stone_slab/15,113.smooth_quartz","t":"0","oN":"115.平滑石英","oP":"113"
+},{
+    "v":100,"b":1,"n":"平滑石头台阶","ID":"num.44,107.stone_slab,114.smooth_stone_slab","t":"0","oN":"101.半石块,113.石台阶,116.平滑石台阶","oP":"113"
+},{
+    "v":100,"b":1,"n":"砂岩台阶","ID":"num.44_1,107.stone_slab/1,113.sandstone_slab","t":"0","oN":"101.半砂岩块,111.沙石台阶","oP":"113"
+},{
+    "v":100,"b":1,"n":"石化橡木台阶","ID":"num.44_2,107.stone_slab/2,113.petrified_oak_slab","oN":"101.半木块,112.木台阶","oP":"113"
+},{
+    "v":100,"b":1,"n":"圆石台阶","ID":"num.44_3,107.stone_slab/3,113.cobblestone_slab","t":"0","oN":"101.半圆石块","oP":"113"
+},{
+    "v":100,"b":1,"n":"红砖台阶","ID":"num.44_4,107.stone_slab/4,113.brick_slab","t":"0","oN":"101.半砖块,116.砖台阶","oP":"113"
+},{
+    "v":100,"b":1,"n":"石砖台阶","ID":"num.44_5,107.stone_slab/5,113.stone_brick_slab","t":"0","oN":"101.半石砖","oP":"113"
+},{
+    "v":104,"b":1,"n":"下界砖台阶","ID":"num.44_6,107.stone_slab/6,113.nether_brick_slab","t":"0","oN":"113.地狱砖台阶","oP":"113"
+},{
+    "v":105,"b":1,"n":"石英台阶","ID":"num.44_7,107.stone_slab/7,113.quartz_slab","t":"0","oP":"113"
+},{
+    "v":100,"b":1,"n":"红砖块","ID":"num.45,107.brick_block,113.bricks","t":"0","oN":"101.红砖,116.砖块","oP":"113"
+},{
+    "v":100,"b":1,"n":"TNT","EN":"TNT","ID":"num.46,107.tnt","t":"4","oP":"113"
+},{
+    "v":100,"b":1,"n":"书架","ID":"num.47,107.bookshelf","t":"3","oP":"113"
+},{
+    "v":100,"b":1,"n":"苔石","ID":"num.48,107.mossy_cobblestone","t":"0","oP":"113"
+},{
+    "v":100,"b":1,"n":"黑曜石","ID":"num.49,107.obsidian","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"火把","ID":"num.50,107.torch","t":"3","oP":"113","zj":"yn"
+},{
+    "v":100,"b":2,"n":"火","ID":"num.51,107.fire","zj":"yn","dt":1
+},{
+    "v":100,"b":1,"n":"刷怪笼","EN":"Monster Spawner","ID":"num.52,107.mob_spawner,113.spawner","t":"9","oN":"113.刷怪箱","oP":"113"
+},{
+    "v":100,"b":1,"n":"橡木楼梯","ID":"num.53,107.oak_stairs","t":"0","oN":"102.木楼梯","oP":"108,113"
+},{
+    "v":100,"b":1,"n":"箱子","ID":"num.54,107.chest","t":"3,4","oP":"102"
+},{
+    "v":100,"b":2,"n":"红石线","ID":"num.55,107.redstone_wire","oP":"108","zj":"yn"
+},{
+    "v":100,"b":1,"n":"钻石矿石","ID":"num.56,107.diamond_ore","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"钻石块","EN":"Block of Diamond","ID":"num.57,107.diamond_block","t":"0","oN":"101.钻石方块","oP":"113"
+},{
+    "v":100,"b":1,"n":"工作台","ID":"num.58,107.crafting_table","t":"3","oP":"113"
+},{
+    "v":100,"b":2,"n":"小麦植株","EN":"Wheat Crops","ID":"num.59,107.wheat","oP":"113","zj":"yn","dt":1
+},{
+    "v":100,"b":1,"n":"耕地","ID":"num.60,107.farmland","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"熔炉","ID":"num.61,107.furnace","t":"3","oP":"102,113"
+},{
+    "v":100,"b":2,"n":"燃烧中的熔炉","EN":"Burning Furnace","ID":"num.62,107.lit_furnace,113.furnace[lit=true]"
+},{
+    "v":100,"b":2,"n":"橡木告示牌","ID":"num.63,107.standing_sign,113.sign,114.oak_sign","oN":"112.站立的告示牌","oP":"116","zj":"yn"
+},{
+    "v":100,"b":2,"n":"橡木门","ID":"num.64,107.wooden_door,113.oak_door","oN":"107.木门","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"梯子","ID":"num.65,107.ladder","t":"3","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"铁轨","ID":"num.66,107.rail","t":"4","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"圆石楼梯","ID":"num.67,107.stone_stairs,113.cobblestone_stairs","t":"0","oN":"108.石楼梯","oP":"108,113"
+},{
+    "v":100,"b":2,"n":"墙上的橡木告示牌","ID":"num.68,107.wall_sign,114.oak_wall_sign","oN":"113.墙上的告示牌","oP":"116","zj":"yn"
+},{
+    "v":100,"n":"拉杆","ID":"num.69,107.lever","t":"4","oP":"113","zj":"ny","dt":1
+},{
+    "v":100,"b":1,"n":"石头压力板","ID":"num.70,107.stone_pressure_plate","t":"0,4","oN":"107.压力板,116.石质压力板","oP":"108,113"
+},{
+    "v":100,"b":2,"n":"铁门","ID":"num.71,107.iron_door","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"橡木压力板","ID":"num.72,107.wooden_pressure_plate,113.oak_pressure_plate","t":"0,4","oN":"107.压力板,112.木制压力板","oP":"108,113"
+},{
+    "v":100,"b":1,"n":"红石矿石","ID":"num.73,107.redstone_ore","t":"2","oP":"113"
+},{
+    "v":100,"b":2,"n":"点亮的红石矿石","EN":"Lit Redstone Ore","ID":"num.74,107.lit_redstone_ore,113.redstone_ore[lit=true]"
+},{
+    "v":100,"b":2,"n":"熄灭的红石火把","EN":"Unlit Redstone Torch","ID":"num.75,107.unlit_redstone_torch,113.redstone_torch[lit=false]","zj":"yn"
+},{
+    "v":100,"b":1,"n":"红石火把","ID":"num.76,107.redstone_torch","t":"4","oP":"113,12101","zj":"yn"
+},{
+    "v":100,"b":1,"n":"石头按钮","ID":"num.77,107.stone_button","t":"4","oN":"112.按钮","oP":"113"
+},{
+    "v":100,"b":1,"n":"雪","ID":"num.78,107.snow_layer,113.snow","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"冰","ID":"num.79,107.ice","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"雪块","ID":"num.80,107.snow,113.snow_block","t":"2","oN":"112.雪","oP":"113"
+},{
+    "v":100,"b":1,"n":"仙人掌","ID":"num.81,107.cactus","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"黏土","ID":"num.82,107.clay","t":"2","oN":"101.粘土,114.粘土块,12004.黏土块","oP":"113"
+},{
+    "v":100,"b":2,"n":"甘蔗","ID":"num.83,107.reeds,113.sugar_cane","zj":"yn"
+},{
+    "v":100,"b":1,"n":"唱片机","ID":"num.84,107.jukebox","t":"3","oP":"102,113"
+},{
+    "v":100,"b":1,"n":"橡木栅栏","ID":"num.85,107.fence,113.oak_fence","t":"0","oN":"107.栅栏","oP":"113"
+},{
+    "v":100,"b":1,"n":"南瓜","ID":"num.86,107.pumpkin","t":"2","oP":"102,112,113"
+},{
+    "v":100,"b":1,"n":"下界岩","ID":"num.87,107.netherrack","t":"2","oN":"113.地狱岩","oP":"113"
+},{
+    "v":100,"b":1,"n":"灵魂沙","ID":"num.88,107.soul_sand","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"荧石","ID":"num.89,107.glowstone","t":"2,3","oN":"111.萤石","oP":"113"
+},{
+    "v":100,"b":2,"n":"下界传送门","ID":"num.90,107.portal,113.nether_portal","zj":"yn","dt":1
+},{
+    "v":100,"b":1,"n":"南瓜灯","EN":"Jack o'Lantern","ID":"num.91,107.lit_pumpkin,113.jack_o_lantern","t":"2","oP":"102,113"
+},{
+    "v":100,"b":2,"n":"蛋糕","ID":"num.92,107.cake","oP":"113","zj":"ny"
+},{
+    "v":100,"b":2,"n":"红石中继器","EN":"Redstone Repeater","oN":"102.红石中继器,103.雷石东直放站","ID":"num.93,107.unpowered_repeater,113.repeater","oP":"113,12101"
+},{
+    "v":100,"b":3,"n":"激活的红石中继器","EN":"Powered Redstone Repeater","ID":"num.94,107.powered_repeater,113.repeater[powered=true]","zj":"ny"
+},{
+    "v":107,"b":1,"n":"白色染色玻璃","ID":"num.95,107.stained_glass,113.white_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"橙色染色玻璃","ID":"num.95_1,107.stained_glass/1,113.orange_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"品红色染色玻璃","ID":"num.95_2,107.stained_glass/2,113.magenta_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"淡蓝色染色玻璃","ID":"num.95_3,107.stained_glass/3,113.light_blue_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"黄色染色玻璃","ID":"num.95_4,107.stained_glass/4,113.yellow_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"黄绿色染色玻璃","ID":"num.95_5,107.stained_glass/5,113.lime_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"粉红色染色玻璃","ID":"num.95_6,107.stained_glass/6,113.pink_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"灰色染色玻璃","ID":"num.95_7,107.stained_glass/7,113.gray_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"淡灰色染色玻璃","ID":"num.95_8,107.stained_glass/8,113.light_gray_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"青色染色玻璃","ID":"num.95_9,107.stained_glass/9,113.cyan_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"紫色染色玻璃","ID":"num.95_10,107.stained_glass/10,113.purple_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"蓝色染色玻璃","ID":"num.95_11,107.stained_glass/11,113.blue_stained_glass","t":"1","oP":"113,117"
+},{
+    "v":107,"b":1,"n":"棕色染色玻璃","ID":"num.95_12,107.stained_glass/12,113.brown_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"绿色染色玻璃","ID":"num.95_13,107.stained_glass/13,113.green_stained_glass","t":"1","oP":"113"
+},{
+    "v":107,"b":1,"n":"红色染色玻璃","ID":"num.95_14,107.stained_glass/14,113.red_stained_glass","t":"1","oP":"113,117"
+},{
+    "v":107,"b":1,"n":"黑色染色玻璃","ID":"num.95_15,107.stained_glass/15,113.black_stained_glass","t":"1","oP":"113"
+},{
+    "v":100,"b":1,"n":"橡木活板门","ID":"num.96,107.trapdoor,113.oak_trapdoor","t":"0,4","oN":"101.陷阱门,112.活板门","oP":"107,113"
+},{
+    "v":103,"b":1,"n":"虫蚀石头","ID":"num.97,107.monster_egg,113.infested_stone","t":"3","oN":"112.石头怪物蛋,11902.被虫蚀的石头","oP":"113"
+},{
+    "v":103,"b":1,"n":"虫蚀圆石","ID":"num.97_1,107.monster_egg/1,113.infested_cobblestone","t":"3","oN":"112.圆石怪物蛋,11902.被虫蚀的圆石","oP":"113"
+},{
+    "v":103,"b":1,"n":"虫蚀石砖","ID":"num.97_2,107.monster_egg/2,113.infested_stone_bricks","t":"3","oN":"112.石砖怪物蛋,11902.被虫蚀的石砖","oP":"113"
+},{
+    "v":107,"b":1,"n":"虫蚀苔石砖","ID":"num.97_3,107.monster_egg/3,113.infested_mossy_stone_bricks","t":"3","oN":"112.苔石砖怪物蛋,11902.被虫蚀的苔石砖","oP":"113"
+},{
+    "v":107,"b":1,"n":"虫蚀裂纹石砖","ID":"num.97_4,107.monster_egg/4,113.infested_cracked_stone_bricks","t":"3","oN":"112.裂石砖怪物蛋,114.被虫蚀的裂石砖,11902.被虫蚀的裂纹石砖","oP":"113"
+},{
+    "v":107,"b":1,"n":"虫蚀雕纹石砖","ID":"num.97_5,107.monster_egg/5,113.infested_chiseled_stone_bricks","t":"3","oN":"112.錾制石砖怪物蛋,11902.被虫蚀的錾制石砖","oP":"113"
+},{
+    "v":100,"b":1,"n":"石砖","ID":"num.98,107.stonebrick,113.stone_bricks","t":"0","oP":"113"
+},{
+    "v":100,"b":1,"n":"苔石砖","ID":"num.98_1,107.stonebrick/1,113.mossy_stone_bricks","t":"0","oN":"102.石砖","oP":"113"
+},{
+    "v":100,"b":1,"n":"裂纹石砖","ID":"num.98_2,107.stonebrick/2,113.cracked_stone_bricks","t":"0","oN":"102.石砖,114.裂石砖","oP":"113"
+},{
+    "v":102,"b":1,"n":"雕纹石砖","ID":"num.98_3,107.stonebrick/3,113.chiseled_stone_bricks","t":"0","oN":"102.石砖,11902.錾制石砖","oP":"113"
+},{
+    "v":100,"b":1,"n":"棕色蘑菇方块","ID":"num.99,107.brown_mushroom_block","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"红色蘑菇方块","ID":"num.100,107.red_mushroom_block","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"蘑菇柄","ID":"num.100_15,107.red_mushroom_block/15,113.mushroom_stem","t":"2","oP":"113"
+},{
+    "v":100,"b":1,"n":"铁栏杆","ID":"num.101,107.iron_bars","t":"0","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"玻璃板","ID":"num.102,107.glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"西瓜","ID":"num.103,107.melon_block,113.melon","t":"2","oP":"113"
+},{
+    "v":100,"b":2,"n":"南瓜茎","ID":"num.104,107.pumpkin_stem","zj":"yn","dt":1
+},{
+    "v":100,"b":2,"n":"结果的南瓜茎","ID":"num.104_7,107.pumpkin_stem/7,113.attached_pumpkin_stem","zj":"yn"
+},{
+    "v":100,"b":2,"n":"西瓜茎","ID":"num.105,107.melon_stem","zj":"yn","dt":1
+},{
+    "v":100,"b":2,"n":"结果的西瓜茎","ID":"num.105_7,107.melon_stem/7,113.attached_melon_stem","zj":"yn"
+},{
+    "v":100,"b":1,"n":"藤蔓","EN":"Vines","ID":"num.106,107.vine","t":"2","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"橡木栅栏门","ID":"num.107,107.fence_gate,113.oak_fence_gate","t":"0,4","oN":"107.栅栏门","oP":"113"
+},{
+    "v":100,"b":1,"n":"红砖楼梯","ID":"num.108,107.brick_stairs","t":"0","oN":"116.砖楼梯","oP":"108,113"
+},{
+    "v":100,"b":1,"n":"石砖楼梯","ID":"num.109,107.stone_brick_stairs","t":"0","oP":"108,113"
+},{
+    "v":100,"b":1,"n":"菌丝体","ID":"num.110,107.mycelium","t":"2","oN":"11902.菌丝","oP":"113"
+},{
+    "v":100,"b":1,"n":"睡莲","ID":"num.111,107.waterlily,113.lily_pad","t":"2","oP":"113","zj":"yn"
+},{
+    "v":100,"b":1,"n":"下界砖块","ID":"num.112,107.nether_brick,113.nether_bricks","t":"0","oN":"112.地狱砖,113.地狱砖块","oP":"113"
+},{
+    "v":100,"b":1,"n":"下界砖栅栏","ID":"num.113,107.nether_brick_fence","t":"0","oN":"113.地狱砖栅栏","oP":"113"
+},{
+    "v":100,"b":1,"n":"下界砖楼梯","ID":"num.114,107.nether_brick_stairs","t":"0","oN":"113.地狱砖楼梯","oP":"108,113"
+},{
+    "v":100,"b":2,"n":"下界疣","ID":"num.115,107.nether_wart","t":"2","oN":"113.地狱疣","oP":"113","zj":"yn","dt":1
+},{
+    "v":100,"b":1,"n":"附魔台","ID":"num.116,107.enchanting_table","t":"3","oP":"113"
+},{
+    "v":100,"b":2,"n":"酿造台","ID":"num.117,107.brewing_stand","oN":"101.炼药台","oP":"113"
+},{
+    "v":100,"b":1,"n":"炼药锅","ID":"num.118,107.cauldron","oP":"113"
+},{
+    "v":100,"b":2,"n":"装有水的炼药锅","ID":"num.118_1,107.cauldron/1,117.water_cauldron","oP":"113"
+},{
+    "v":100,"b":2,"n":"末地传送门","ID":"num.119,107.end_portal","zj":"yn"
+},{
+    "v":100,"b":1,"n":"末地传送门框架","ID":"num.120,107.end_portal_frame","t":"3","oN":"112.末地传送门","oP":"113"
+},{
+    "v":100,"b":1,"n":"末地石","ID":"num.121,107.end_stone","t":"0,2","oP":"113"
+},{
+    "v":100,"b":1,"n":"龙蛋","ID":"num.122,107.dragon_egg","t":"3","tC":"紫"
+},{
+    "v":102,"b":1,"n":"红石灯","ID":"num.123,107.redstone_lamp","t":"4","oP":"113"
+},{
+    "v":102,"b":2,"n":"发光的红石灯","EN":"Lit Redstone Lamp","ID":"num.124,107.lit_redstone_lamp,113.redstone_lamp[lit=true]"
+},{
+    "v":103,"b":2,"n":"双层橡木台阶","EN":"Double Oak Slab","ID":"num.125,107.double_wooden_slab,113.oak_slab[type=double]"
+},{
+    "v":103,"b":2,"n":"双层云杉木台阶","EN":"Double Spruce Slab","oN":"111.双层云杉台阶","ID":"num.125_1,107.double_wooden_slab/1,113.spruce_slab[type=double]"
+},{
+    "v":103,"b":2,"n":"双层桦木台阶","EN":"Double Birch Slab","ID":"num.125_2,107.double_wooden_slab/2,113.birch_slab[type=double]"
+},{
+    "v":103,"b":2,"n":"双层丛林木台阶","EN":"Double Jungle Slab","oN":"111.双层丛林台阶","ID":"num.125_3,107.double_wooden_slab/3,113.jungle_slab[type=double]"
+},{
+    "v":107,"b":2,"n":"双层金合欢木台阶","EN":"Double Acacia Slab","ID":"num.125_4,107.double_wooden_slab/4,113.acacia_slab[type=double]"
+},{
+    "v":107,"b":2,"n":"双层深色橡木台阶","EN":"Double Dark Oak Slab","ID":"num.125_5,107.double_wooden_slab/5,113.dark_oak_slab[type=double]"
+},{
+    "v":103,"b":1,"n":"橡木台阶","ID":"num.126,107.wooden_slab,113.oak_slab","t":"0","oP":"113"
+},{
+    "v":103,"b":1,"n":"云杉木台阶","ID":"num.126_1,107.wooden_slab/1,113.spruce_slab","oN":"111.云杉台阶","t":"0","oP":"113"
+},{
+    "v":103,"b":1,"n":"白桦木台阶","ID":"num.126_2,107.wooden_slab/2,113.birch_slab","t":"0","oN":"112.桦木台阶","oP":"113"
+},{
+    "v":103,"b":1,"n":"丛林木台阶","ID":"num.126_3,107.wooden_slab/3,113.jungle_slab","oN":"111.丛林台阶","t":"0","oP":"113"
+},{
+    "v":107,"b":1,"n":"金合欢木台阶","ID":"num.126_4,107.wooden_slab/4,113.acacia_slab","t":"0","oP":"113"
+},{
+    "v":107,"b":1,"n":"深色橡木台阶","ID":"num.126_5,107.wooden_slab/5,113.dark_oak_slab","t":"0","oP":"113"
+},{
+    "v":103,"b":3,"n":"可可果","ID":"num.127,107.cocoa","zj":"ny","dt":1
+},{
+    "v":103,"b":1,"n":"砂岩楼梯","ID":"num.128,107.sandstone_stairs","t":"0","oN":"111.沙石楼梯","oP":"108,113"
+},{
+    "v":103,"b":1,"n":"绿宝石矿石","ID":"num.129,107.emerald_ore","t":"2","oP":"113"
+},{
+    "v":103,"b":1,"n":"末影箱","ID":"num.130,107.ender_chest","t":"3","oP":"113"
+},{
+    "v":103,"n":"绊线钩","ID":"num.131,107.tripwire_hook","t":"4","oP":"113","zj":"ny"
+},{
+    "v":103,"b":2,"n":"绊线","ID":"num.132,107.tripwire_hook,113.tripwire"
+},{
+    "v":103,"b":1,"n":"绿宝石块","EN":"Block of Emerald","ID":"num.133,107.emerald_block","t":"0","oP":"113"
+},{
+    "v":103,"b":1,"n":"云杉木楼梯","ID":"num.134,107.spruce_stairs","t":"0","oP":"108,113"
+},{
+    "v":103,"b":1,"n":"白桦木楼梯","ID":"num.135,107.birch_stairs","t":"0","oN":"112.桦木楼梯","oP":"108,113"
+},{
+    "v":103,"b":1,"n":"丛林木楼梯","ID":"num.136,107.jungle_stairs","t":"0","oP":"108,113"
+},{
+    "v":104,"b":1,"n":"命令方块","ID":"num.137,107.command_block","oP":"108,113","tC":"紫"
+},{
+    "v":104,"b":1,"n":"信标","ID":"num.138,107.beacon","t":"3","oP":"113","tC":"淡蓝"
+},{
+    "v":104,"b":1,"n":"圆石墙","ID":"num.139,107.cobblestone_wall","t":"0","oP":"113"
+},{
+    "v":104,"b":1,"n":"苔石墙","ID":"num.139_1,107.cobblestone_wall/1,113.mossy_cobblestone_wall","t":"0","oP":"113"
+},{
+    "v":104,"b":2,"n":"花盆","ID":"num.140,107.flower_pot","oP":"113"
+},{
+    "v":104,"b":2,"n":"胡萝卜","ID":"num.141,107.carrots","oP":"113","zj":"yn","dt":1
+},{
+    "v":104,"b":2,"n":"马铃薯","ID":"num.142,107.potatoes","oP":"113","zj":"yn","dt":1
+},{
+    "v":104,"b":1,"n":"橡木按钮","ID":"num.143,107.wooden_button,113.oak_button","t":"0,4","oN":"112.按钮","oP":"113"
+},{
+    "v":104,"b":2,"n":"墙上的骷髅头颅","ID":"num.144,107.skull,113.skeleton_wall_skull"
+},{
+    "v":104,"b":2,"n":"骷髅头颅","ID":"num.144_1,107.skull/1,113.skeleton_skull","t":"3","oP":"107","zj":"yn"
+},{
+    "v":104,"b":1,"n":"铁砧","ID":"num.145,107.anvil","t":"3","oP":"113"
+},{
+    "v":104,"b":1,"n":"开裂的铁砧","ID":"num.145_1,107.anvil/1,113.chipped_anvil","t":"3","oN":"112.轻微损坏的铁砧","oP":"113"
+},{
+    "v":104,"b":1,"n":"损坏的铁砧","ID":"num.145_2,107.anvil/2,113.damaged_anvil","t":"3","oN":"112.严重损坏的铁砧","oP":"113"
+},{
+    "v":105,"b":1,"n":"陷阱箱","ID":"num.146,107.trapped_chest","t":"4"
+},{
+    "v":105,"b":1,"n":"轻质测重压力板","ID":"num.147,107.light_weighted_pressure_plate","t":"0,4","oN":"112.测重压力板（轻质）","oP":"108,113"
+},{
+    "v":105,"b":1,"n":"重质测重压力板","ID":"num.148,107.heavy_weighted_pressure_plate","t":"0,4","oN":"112.测重压力板（重质）","oP":"108,113"
+},{
+    "v":105,"b":2,"n":"红石比较器","EN":"Redstone Comparator","ID":"num.149,107.unpowered_comparator,113.comparator","oP":"113,12101"
+},{
+    "v":105,"b":3,"n":"激活的红石比较器","EN":"Powered Redstone Comparator","ID":"num.150,107.powered_comparator,113.comparator[powered=true]","zj":"ny"
+},{
+    "v":105,"b":1,"n":"阳光探测器","ID":"num.151,107.daylight_detector","t":"4","oN":"112.阳光传感器"
+},{
+    "v":105,"b":1,"n":"红石块","EN":"Block of Redstone","ID":"num.152,107.redstone_block","t":"0,4","oP":"113"
+},{
+    "v":105,"b":1,"n":"下界石英矿石","ID":"num.153,107.quartz_ore,113.nether_quartz_ore","t":"2","oP":"113"
+},{
+    "v":105,"n":"漏斗","ID":"num.154,107.hopper","t":"4","oP":"113","zj":"ny"
+},{
+    "v":105,"b":1,"n":"石英块","EN":"Block of Quartz","ID":"num.155,107.quartz_block","t":"0","oP":"113"
+},{
+    "v":105,"b":1,"n":"雕纹石英块","ID":"num.155_1,107.quartz_block/1,113.chiseled_quartz_block","t":"0","oN":"11902.錾制石英块","oP":"113"
+},{
+    "v":105,"b":1,"n":"石英柱","ID":"num.155_2,107.quartz_block/2,113.quartz_pillar","t":"0","oN":"114.竖纹石英块","oP":"113"
+},{
+    "v":105,"b":1,"n":"石英楼梯","ID":"num.156,107.quartz_stairs","t":"0","oP":"108,113"
+},{
+    "v":105,"b":1,"n":"激活铁轨","ID":"num.157,107.activator_rail","t":"4","oP":"113","zj":"yn"
+},{
+    "v":105,"b":1,"n":"投掷器","ID":"num.158,107.dropper","t":"4","oP":"113"
+},{
+    "v":106,"b":1,"n":"白色陶瓦","ID":"num.159,107.stained_hardened_clay,113.white_terracotta","t":"1","oN":"109.白色染色粘土,111.白色硬化粘土"
+},{
+    "v":106,"b":1,"n":"橙色陶瓦","ID":"num.159_1,107.stained_hardened_clay/1,113.orange_terracotta","t":"1","oN":"109.橙色染色粘土,111.橙色硬化粘土"
+},{
+    "v":106,"b":1,"n":"品红色陶瓦","ID":"num.159_2,107.stained_hardened_clay/2,113.magenta_terracotta","t":"1","oN":"109.品红色染色粘土,111.品红色硬化粘土"
+},{
+    "v":106,"b":1,"n":"淡蓝色陶瓦","ID":"num.159_3,107.stained_hardened_clay/3,113.light_blue_terracotta","t":"1","oN":"109.淡蓝色染色粘土,111.淡蓝色硬化粘土"
+},{
+    "v":106,"b":1,"n":"黄色陶瓦","ID":"num.159_4,107.stained_hardened_clay/4,113.yellow_terracotta","t":"1","oN":"109.黄色染色粘土,111.黄色硬化粘土"
+},{
+    "v":106,"b":1,"n":"黄绿色陶瓦","ID":"num.159_5,107.stained_hardened_clay/5,113.lime_terracotta","t":"1","oN":"109.黄绿色染色粘土,111.黄绿色硬化粘土"
+},{
+    "v":106,"b":1,"n":"粉红色陶瓦","ID":"num.159_6,107.stained_hardened_clay/6,113.pink_terracotta","t":"1","oN":"109.粉红色染色粘土,111.粉红色硬化粘土"
+},{
+    "v":106,"b":1,"n":"灰色陶瓦","ID":"num.159_7,107.stained_hardened_clay/7,113.gray_terracotta","t":"1","oN":"109.灰色染色粘土,111.灰色硬化粘土"
+},{
+    "v":106,"b":1,"n":"淡灰色陶瓦","ID":"num.159_8,107.stained_hardened_clay/8,113.light_gray_terracotta","t":"1","oN":"109.淡灰色染色粘土,111.淡灰色硬化粘土"
+},{
+    "v":106,"b":1,"n":"青色陶瓦","ID":"num.159_9,107.stained_hardened_clay/9,113.cyan_terracotta","t":"1","oN":"109.青色染色粘土,111.青色硬化粘土"
+},{
+    "v":106,"b":1,"n":"紫色陶瓦","ID":"num.159_10,107.stained_hardened_clay/10,113.purple_terracotta","t":"1","oN":"109.紫色染色粘土,111.紫色硬化粘土"
+},{
+    "v":106,"b":1,"n":"蓝色陶瓦","ID":"num.159_11,107.stained_hardened_clay/11,113.blue_terracotta","t":"1","oN":"109.蓝色染色粘土,111.蓝色硬化粘土"
+},{
+    "v":106,"b":1,"n":"棕色陶瓦","ID":"num.159_12,107.stained_hardened_clay/12,113.brown_terracotta","t":"1","oN":"109.棕色染色粘土,111.棕色硬化粘土"
+},{
+    "v":106,"b":1,"n":"绿色陶瓦","ID":"num.159_13,107.stained_hardened_clay/13,113.green_terracotta","t":"1","oN":"109.绿色染色粘土,111.绿色硬化粘土"
+},{
+    "v":106,"b":1,"n":"红色陶瓦","ID":"num.159_14,107.stained_hardened_clay/14,113.red_terracotta","t":"1","oN":"109.红色染色粘土,111.红色硬化粘土"
+},{
+    "v":106,"b":1,"n":"黑色陶瓦","ID":"num.159_15,107.stained_hardened_clay/15,113.black_terracotta","t":"1","oN":"109.黑色染色粘土,111.黑色硬化粘土"
+},{
+    "v":107,"b":1,"n":"白色染色玻璃板","ID":"num.160,107.stained_glass_pane,113.white_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"橙色染色玻璃板","ID":"num.160_1,107.stained_glass_pane/1,113.orange_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"品红色染色玻璃板","ID":"num.160_2,107.stained_glass_pane/2,113.magenta_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"淡蓝色染色玻璃板","ID":"num.160_3,107.stained_glass_pane/3,113.light_blue_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"黄色染色玻璃板","ID":"num.160_4,107.stained_glass_pane/4,113.yellow_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"黄绿色染色玻璃板","ID":"num.160_5,107.stained_glass_pane/5,113.lime_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"粉红色染色玻璃板","ID":"num.160_6,107.stained_glass_pane/6,113.pink_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"灰色染色玻璃板","ID":"num.160_7,107.stained_glass_pane/7,113.gray_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"淡灰色染色玻璃板","ID":"num.160_8,107.stained_glass_pane/8,113.light_gray_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"青色染色玻璃板","ID":"num.160_9,107.stained_glass_pane/9,113.cyan_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"紫色染色玻璃板","ID":"num.160_10,107.stained_glass_pane/10,113.purple_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"蓝色染色玻璃板","ID":"num.160_11,107.stained_glass_pane/11,113.blue_stained_glass_pane","t":"1","oP":"113,117","zj":"yn"
+},{
+    "v":107,"b":1,"n":"棕色染色玻璃板","ID":"num.160_12,107.stained_glass_pane/12,113.brown_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"绿色染色玻璃板","ID":"num.160_13,107.stained_glass_pane/13,113.green_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"红色染色玻璃板","ID":"num.160_14,107.stained_glass_pane/14,113.red_stained_glass_pane","t":"1","oP":"113,117","zj":"yn"
+},{
+    "v":107,"b":1,"n":"黑色染色玻璃板","ID":"num.160_15,107.stained_glass_pane/15,113.black_stained_glass_pane","t":"1","oP":"113","zj":"yn"
+},{
+    "v":107,"b":1,"n":"金合欢树叶","ID":"num.161,107.leaves2,113.acacia_leaves","t":"2","oP":"113"
+},{
+    "v":107,"b":1,"n":"深色橡树树叶","ID":"num.161_1,107.leaves2/1,113.dark_oak_leaves","t":"2","oP":"113"
+},{
+    "v":107,"b":1,"n":"金合欢原木","ID":"num.162,107.log2,113.acacia_log","t":"2","oN":"112.金合欢木","oP":"113"
+},{
+    "v":107,"b":1,"n":"深色橡木原木","ID":"num.162_1,107.log2/1,113.dark_oak_log","t":"2","oN":"112.深色橡木","oP":"113"
+},{
+    "v":107,"b":1,"n":"金合欢木","ID":"num.162_12,107.log2/12,113.acacia_wood","t":"0","oP":"113"
+},{
+    "v":107,"b":1,"n":"深色橡木","ID":"num.162_13,107.log2/13,113.dark_oak_wood","t":"0","oP":"113"
+},{
+    "v":107,"b":1,"n":"金合欢木楼梯","ID":"num.163,107.acacia_stairs","t":"0","oP":"108,113"
+},{
+    "v":107,"b":1,"n":"深色橡木楼梯","ID":"num.164,107.dark_oak_stairs","t":"0","oP":"108,113"
+},{
+    "v":108,"b":1,"n":"黏液块","ID":"num.165,108.slime,113.slime_block","t":"2,4","oN":"114.粘液块","oP":"113"
+},{
+    "v":108,"b":1,"n":"屏障","ID":"num.166,108.barrier","oP":"113","zj":"yn","tC":"紫"
+},{
+    "v":108,"b":1,"n":"铁活板门","ID":"num.167,108.iron_trapdoor","t":"0,4","oP":"113"
+},{
+    "v":108,"b":1,"n":"海晶石","ID":"num.168,108.prismarine","t":"0,2","oP":"113"
+},{
+    "v":108,"b":1,"n":"海晶石砖","ID":"num.168_1,108.prismarine/1,113.prismarine_bricks","t":"0","oP":"113"
+},{
+    "v":108,"b":1,"n":"暗海晶石","ID":"num.168_2,108.prismarine/2,113.dark_prismarine","t":"0","oP":"113"
+},{
+    "v":108,"b":1,"n":"海晶灯","ID":"num.169,108.sea_lantern","t":"2,3"
+},{
+    "v":106,"b":1,"n":"干草捆","EN":"Hay Bale","ID":"num.170,107.hay_block","t":"2","oN":"11902.干草块","oP":"113"
+},{
+    "v":106,"b":1,"n":"白色地毯","ID":"num.171,107.carpet,113.white_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"橙色地毯","ID":"num.171_1,107.carpet/1,113.orange_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"品红色地毯","ID":"num.171_2,107.carpet/2,113.magenta_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"淡蓝色地毯","ID":"num.171_3,107.carpet/3,113.light_blue_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"黄色地毯","ID":"num.171_4,107.carpet/4,113.yellow_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"黄绿色地毯","ID":"num.171_5,107.carpet/5,113.lime_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"粉红色地毯","ID":"num.171_6,107.carpet/6,113.pink_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"灰色地毯","ID":"num.171_7,107.carpet/7,113.gray_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"淡灰色地毯","ID":"num.171_8,107.carpet/8,113.light_gray_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"青色地毯","ID":"num.171_9,107.carpet/9,113.cyan_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"紫色地毯","ID":"num.171_10,107.carpet/10,113.purple_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"蓝色地毯","ID":"num.171_11,107.carpet/11,113.blue_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"棕色地毯","ID":"num.171_12,107.carpet/12,113.brown_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"绿色地毯","ID":"num.171_13,107.carpet/13,113.green_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"红色地毯","ID":"num.171_14,107.carpet/14,113.red_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"黑色地毯","ID":"num.171_15,107.carpet/15,113.black_carpet","t":"1","oP":"111"
+},{
+    "v":106,"b":1,"n":"陶瓦","ID":"num.172,107.hardened_clay,113.terracotta","t":"1","oN":"111.硬化粘土","oP":"113"
+},{
+    "v":106,"b":1,"n":"煤炭块","EN":"Block of Coal","ID":"num.173,107.coal_block","t":"0","oP":"113"
+},{
+    "v":107,"b":1,"n":"浮冰","ID":"num.174,107.packed_ice","t":"2","oP":"113"
+},{
+    "v":107,"n":"向日葵","ID":"num.175,107.double_plant,113.sunflower","t":"2","oP":"113","zj":"yy"
+},{
+    "v":107,"n":"丁香","ID":"num.175_1,107.double_plant/1,113.lilac","t":"2","oP":"113","zj":"yy"
+},{
+    "v":107,"n":"高草丛","ID":"num.175_2,107.double_plant/2,113.tall_grass","t":"2","oP":"113","zj":"yy"
+},{
+    "v":107,"n":"大型蕨","ID":"num.175_3,107.double_plant/3,113.large_fern","t":"2","oP":"113","zj":"yy"
+},{
+    "v":107,"n":"玫瑰丛","ID":"num.175_4,107.double_plant/4,113.rose_bush","t":"2","oP":"113","zj":"yy"
+},{
+    "v":107,"n":"牡丹","ID":"num.175_5,107.double_plant/5,113.peony","t":"2","oP":"113","zj":"yy"
+},{
+    "v":108,"b":2,"n":"站立的旗帜","ID":"num.176,108.standing_banner","yc":113
+},{
+    "v":108,"b":2,"n":"墙上的旗帜","ID":"num.177,108.wall_banner","yc":113
+},{
+    "v":108,"b":2,"n":"反向阳光传感器","EN":"Daylight Detector Inverted","ID":"num.178,108.daylight_detector_inverted,113.daylight_detector[inverted=true]"
+},{
+    "v":108,"b":1,"n":"红砂岩","ID":"num.179,108.red_sandstone","t":"0,2","oP":"113"
+},{
+    "v":108,"b":1,"n":"雕纹红砂岩","ID":"num.179_1,108.red_sandstone/1,113.chiseled_red_sandstone","t":"0","oN":"11902.錾制红砂岩","oP":"113"
+},{
+    "v":108,"b":1,"n":"切制红砂岩","ID":"num.179_2,108.red_sandstone/2,113.cut_red_sandstone","t":"0","oN":"112.平滑红砂岩","oP":"113"
+},{
+    "v":108,"b":1,"n":"红砂岩楼梯","ID":"num.180,108.red_sandstone_stairs","t":"0","oP":"108,113"
+},{
+    "v":108,"b":2,"n":"双层红砂岩台阶","EN":"Double Red Sandstone Slab","ID":"num.181,108.double_stone_slab2,113.red_sandstone_slab[type=double]"
+},{
+    "v":108,"b":1,"n":"平滑红砂岩","ID":"num.181_8,108.double_stone_slab2/8,113.smooth_red_sandstone","t":"0","oP":"113"
+},{
+    "v":108,"b":1,"n":"红砂岩台阶","ID":"num.182,108.stone_slab2,113.red_sandstone_slab","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"云杉木栅栏门","ID":"num.183,109.spruce_fence_gate","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"白桦木栅栏门","ID":"num.184,109.birch_fence_gate","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"丛林木栅栏门","ID":"num.185,109.jungle_fence_gate","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"深色橡木栅栏门","ID":"num.186,109.dark_oak_fence_gate","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"金合欢木栅栏门","ID":"num.187,109.acacia_fence_gate","t":"0","oN":"114.金合欢栅栏门","oP":"113"
+},{
+    "v":109,"b":1,"n":"云杉木栅栏","ID":"num.188,109.spruce_fence","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"白桦木栅栏","ID":"num.189,109.birch_fence","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"丛林木栅栏","ID":"num.190,109.jungle_fence","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"深色橡木栅栏","ID":"num.191,109.dark_oak_fence","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"金合欢木栅栏","ID":"num.192,109.acacia_fence","t":"0","oN":"114.金合欢栅栏","oP":"113"
+},{
+    "v":109,"b":2,"n":"云杉木门","ID":"num.193,109.spruce_door","t":"0","oP":"113","zj":"yn"
+},{
+    "v":109,"b":2,"n":"白桦木门","ID":"num.194,109.birch_door","t":"0","oP":"113","zj":"yn"
+},{
+    "v":109,"b":2,"n":"丛林木门","ID":"num.195,109.jungle_door","t":"0","oP":"113","zj":"yn"
+},{
+    "v":109,"b":2,"n":"金合欢木门","ID":"num.196,109.acacia_door","t":"0","oP":"113","zj":"yn"
+},{
+    "v":109,"b":2,"n":"深色橡木门","ID":"num.197,109.dark_oak_door","t":"0","oP":"113","zj":"yn"
+},{
+    "v":109,"b":1,"n":"末地烛","ID":"num.198,109.end_rod","t":"3","oP":"113"
+},{
+    "v":109,"b":1,"n":"紫颂植株","ID":"num.199,109.chorus_plant","t":"2","oN":"115.紫颂植物","oP":"113"
+},{
+    "v":109,"b":1,"n":"紫颂花","ID":"num.200,109.chorus_flower","t":"2","oP":"113"
+},{
+    "v":109,"b":1,"n":"紫珀块","ID":"num.201,109.purpur_block","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"紫珀柱","ID":"num.202,109.purpur_pillar","t":"0","oN":"114.竖纹紫珀块","oP":"113"
+},{
+    "v":109,"b":1,"n":"紫珀楼梯","ID":"num.203,109.purpur_stairs","t":"0","oP":"113"
+},{
+    "v":109,"b":2,"n":"双层紫珀台阶","EN":"Purpur Double Slab","ID":"num.204,109.purpur_double_slab,113.purpur_slab[type=double]"
+},{
+    "v":109,"b":1,"n":"紫珀台阶","ID":"num.205,109.purpur_slab","t":"0","oP":"113"
+},{
+    "v":109,"b":1,"n":"末地石砖","ID":"num.206,109.end_bricks,113.end_stone_bricks","t":"0","oP":"113"
+},{
+    "v":109,"b":2,"n":"甜菜根","ID":"num.207,109.beetroots","oP":"113","zj":"yn","dt":1
+},{
+    "v":109,"b":1,"n":"土径","ID":"num.208,109.grass_path,117.dirt_path","t":"2","oN":"116.草径","oP":"113"
+},{
+    "v":109,"b":2,"n":"末地折跃门","ID":"num.209,109.end_gateway"
+},{
+    "v":109,"b":1,"n":"循环型命令方块","ID":"num.210,109.repeating_command_block","oP":"113","tC":"紫"
+},{
+    "v":109,"b":1,"n":"连锁型命令方块","ID":"num.211,109.chain_command_block","oP":"113","tC":"紫"
+},{
+    "v":109,"b":1,"n":"霜冰","ID":"num.212,109.frosted_ice","oP":"113","dt":1
+},{
+    "v":110,"b":1,"n":"岩浆块","ID":"num.213,110.magma,113.magma_block","t":"2","oP":"113"
+},{
+    "v":110,"b":1,"n":"下界疣块","ID":"num.214,110.nether_wart_block","t":"2","oN":"113.地狱疣块","oP":"113"
+},{
+    "v":110,"b":1,"n":"红色下界砖块","ID":"num.215,110.red_nether_bricks","t":"0","oN":"113.红色地狱砖块","oP":"113"
+},{
+    "v":110,"b":1,"n":"骨块","ID":"num.216,110.bone_block","t":"2","oP":"113"
+},{
+    "v":110,"b":1,"n":"结构空位","ID":"num.217,110.structure_void","zj":"yn","tC":"紫"
+},{
+    "v":111,"b":1,"n":"侦测器","ID":"num.218,111.observer","t":"4","oP":"113"
+},{
+    "v":111,"b":1,"n":"白色潜影盒","ID":"num.219,111.white_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"橙色潜影盒","ID":"num.220,111.orange_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"品红色潜影盒","ID":"num.221,111.magenta_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"淡蓝色潜影盒","ID":"num.222,111.light_blue_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"黄色潜影盒","ID":"num.223,111.yellow_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"黄绿色潜影盒","ID":"num.224,111.lime_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"粉红色潜影盒","ID":"num.225,111.pink_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"灰色潜影盒","ID":"num.226,111.gray_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"淡灰色潜影盒","ID":"num.227,111.silver_shulker_box,113.light_gray_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"青色潜影盒","ID":"num.228,111.cyan_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"紫色潜影盒","ID":"num.229,111.purple_shulker_box","t":"1,3","oP":"111,112"
+},{
+    "v":111,"b":1,"n":"蓝色潜影盒","ID":"num.230,111.blue_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"棕色潜影盒","ID":"num.231,111.brown_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"绿色潜影盒","ID":"num.232,111.green_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"红色潜影盒","ID":"num.233,111.red_shulker_box","t":"1,3"
+},{
+    "v":111,"b":1,"n":"黑色潜影盒","ID":"num.234,111.black_shulker_box","t":"1,3"
+},{
+    "v":112,"b":1,"n":"白色带釉陶瓦","ID":"num.235,112.white_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"橙色带釉陶瓦","ID":"num.236,112.orange_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"品红色带釉陶瓦","ID":"num.237,112.magenta_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"淡蓝色带釉陶瓦","ID":"num.238,112.light_blue_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"黄色带釉陶瓦","ID":"num.239,112.yellow_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"黄绿色带釉陶瓦","ID":"num.240,112.lime_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"粉红色带釉陶瓦","ID":"num.241,112.pink_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"灰色带釉陶瓦","ID":"num.242,112.gray_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"淡灰色带釉陶瓦","ID":"num.243,112.light_gray_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"青色带釉陶瓦","ID":"num.244,112.cyan_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"紫色带釉陶瓦","ID":"num.245,112.purple_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"蓝色带釉陶瓦","ID":"num.246,112.blue_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"棕色带釉陶瓦","ID":"num.247,112.brown_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"绿色带釉陶瓦","ID":"num.248,112.green_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"红色带釉陶瓦","ID":"num.249,112.red_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"黑色带釉陶瓦","ID":"num.250,112.black_glazed_terracotta","t":"1"
+},{
+    "v":112,"b":1,"n":"白色混凝土","ID":"num.251,112.concrete,113.white_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"橙色混凝土","ID":"num.251_1,112.concrete/1,113.orange_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"品红色混凝土","ID":"num.251_2,112.concrete/2,113.magenta_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"淡蓝色混凝土","ID":"num.251_3,112.concrete/3,113.light_blue_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"黄色混凝土","ID":"num.251_4,112.concrete/4,113.yellow_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"黄绿色混凝土","ID":"num.251_5,112.concrete/5,113.lime_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"粉红色混凝土","ID":"num.251_6,112.concrete/6,113.pink_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"灰色混凝土","ID":"num.251_7,112.concrete/7,113.gray_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"淡灰色混凝土","ID":"num.251_8,112.concrete/8,113.light_gray_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"青色混凝土","ID":"num.251_9,112.concrete/9,113.cyan_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"紫色混凝土","ID":"num.251_10,112.concrete/10,113.purple_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"蓝色混凝土","ID":"num.251_11,112.concrete/11,113.blue_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"棕色混凝土","ID":"num.251_12,112.concrete/12,113.brown_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"绿色混凝土","ID":"num.251_13,112.concrete/13,113.green_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"红色混凝土","ID":"num.251_14,112.concrete/14,113.red_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"黑色混凝土","ID":"num.251_15,112.concrete/15,113.black_concrete","t":"1"
+},{
+    "v":112,"b":1,"n":"白色混凝土粉末","ID":"num.252,112.concrete_powder,113.white_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"橙色混凝土粉末","ID":"num.252_1,112.concrete_powder/1,113.orange_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"品红色混凝土粉末","ID":"num.252_2,112.concrete_powder/2,113.magenta_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"淡蓝色混凝土粉末","ID":"num.252_3,112.concrete_powder/3,113.light_blue_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"黄色混凝土粉末","ID":"num.252_4,112.concrete_powder/4,113.yellow_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"黄绿色混凝土粉末","ID":"num.252_5,112.concrete_powder/5,113.lime_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"粉红色混凝土粉末","ID":"num.252_6,112.concrete_powder/6,113.pink_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"灰色混凝土粉末","ID":"num.252_7,112.concrete_powder/7,113.gray_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"淡灰色混凝土粉末","ID":"num.252_8,112.concrete_powder/8,113.light_gray_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"青色混凝土粉末","ID":"num.252_9,112.concrete_powder/9,113.cyan_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"紫色混凝土粉末","ID":"num.252_10,112.concrete_powder/10,113.purple_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"蓝色混凝土粉末","ID":"num.252_11,112.concrete_powder/11,113.blue_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"棕色混凝土粉末","ID":"num.252_12,112.concrete_powder/12,113.brown_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"绿色混凝土粉末","ID":"num.252_13,112.concrete_powder/13,113.green_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"红色混凝土粉末","ID":"num.252_14,112.concrete_powder/14,113.red_concrete_powder","t":"1"
+},{
+    "v":112,"b":1,"n":"黑色混凝土粉末","ID":"num.252_15,112.concrete_powder/15,113.black_concrete_powder","t":"1"
+},{
+    "v":110,"b":1,"n":"结构方块","ID":"num.255,110.structure_block","dt":1,"tC":"紫"
+},{
+    "v":100,"i":2,"n":"铁锹","ID":"num.256,107.iron_shovel","t":"5"
+},{
+    "v":100,"i":2,"n":"铁镐","ID":"num.257,107.iron_pickaxe","t":"5"
+},{
+    "v":100,"i":2,"n":"铁斧","ID":"num.258,107.iron_axe","t":"5"
+},{
+    "v":100,"i":2,"n":"打火石","EN":"Flint and Steel","ID":"num.259,107.flint_and_steel","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"苹果","ID":"num.260,107.apple","t":"7","oP":"113"
+},{
+    "v":100,"i":2,"n":"弓","ID":"num.261,107.bow","t":"6","dt":1
+},{
+    "v":100,"i":2,"n":"箭","ID":"num.262,107.arrow","t":"6"
+},{
+    "v":100,"i":2,"n":"煤炭","ID":"num.263,107.coal","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"木炭","ID":"num.263_1,107.coal/1,113.charcoal","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"钻石","ID":"num.264,107.diamond","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"铁锭","ID":"num.265,107.iron_ingot","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"金锭","ID":"num.266,107.gold_ingot","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"铁剑","ID":"num.267,107.iron_sword","t":"6","oP":"113"
+},{
+    "v":100,"i":2,"n":"木剑","ID":"num.268,107.wooden_sword","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"木锹","ID":"num.269,107.wooden_shovel","t":"5"
+},{
+    "v":100,"i":2,"n":"木镐","ID":"num.270,107.wooden_pickaxe","t":"5"
+},{
+    "v":100,"i":2,"n":"木斧","ID":"num.271,107.wooden_axe","t":"5"
+},{
+    "v":100,"i":2,"n":"石剑","ID":"num.272,107.stone_sword","t":"6","oP":"113"
+},{
+    "v":100,"i":2,"n":"石锹","ID":"num.273,107.stone_shovel","t":"5"
+},{
+    "v":100,"i":2,"n":"石镐","ID":"num.274,107.stone_pickaxe","t":"5"
+},{
+    "v":100,"i":2,"n":"石斧","ID":"num.275,107.stone_axe","t":"5"
+},{
+    "v":100,"i":2,"n":"钻石剑","ID":"num.276,107.diamond_sword","t":"6","oP":"113"
+},{
+    "v":100,"i":2,"n":"钻石锹","ID":"num.277,107.diamond_shovel","t":"5"
+},{
+    "v":100,"i":2,"n":"钻石镐","ID":"num.278,107.diamond_pickaxe","t":"5"
+},{
+    "v":100,"i":2,"n":"钻石斧","ID":"num.279,107.diamond_axe","t":"5"
+},{
+    "v":100,"i":2,"n":"木棍","ID":"num.280,107.stick","t":"8"
+},{
+    "v":100,"i":2,"n":"碗","ID":"num.281,107.bowl","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"蘑菇煲","ID":"num.282,107.mushroom_stew","t":"7","oP":"113"
+},{
+    "v":100,"i":2,"n":"金剑","ID":"num.283,107.golden_sword","t":"6","oP":"113"
+},{
+    "v":100,"i":2,"n":"金锹","ID":"num.284,107.golden_shovel","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"金镐","ID":"num.285,107.golden_pickaxe","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"金斧","ID":"num.286,107.golden_axe","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"线","ID":"num.287,107.string","t":"4,8"
+},{
+    "v":100,"i":2,"n":"羽毛","ID":"num.288,107.feather","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"火药","ID":"num.289,107.gunpowder","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"木锄","ID":"num.290,107.wooden_hoe","t":"5"
+},{
+    "v":100,"i":2,"n":"石锄","ID":"num.291,107.stone_hoe","t":"5"
+},{
+    "v":100,"i":2,"n":"铁锄","ID":"num.292,107.iron_hoe","t":"5"
+},{
+    "v":100,"i":2,"n":"钻石锄","ID":"num.293,107.diamond_hoe","t":"5"
+},{
+    "v":100,"i":2,"n":"金锄","ID":"num.294,107.golden_hoe","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"小麦种子","ID":"num.295,107.wheat_seeds","t":"2"
+},{
+    "v":100,"i":2,"n":"小麦","ID":"num.296,107.wheat","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"面包","ID":"num.297,107.bread","t":"7","oP":"113"
+},{
+    "v":100,"i":2,"n":"皮革帽子","EN":"Leather Cap","ID":"num.298,107.leather_helmet","t":"6","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"皮革外套","EN":"Leather Tunic","ID":"num.299,107.leather_chestplate","t":"6","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"皮革裤子","EN":"Leather Pants","ID":"num.300,107.leather_leggings","t":"6","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"皮革靴子","ID":"num.301,107.leather_boots","t":"6","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"锁链头盔","ID":"num.302,107.chainmail_helmet","t":"6","oN":"101.链甲头盔","oP":"113","tC":"黄"
+},{
+    "v":100,"i":2,"n":"锁链胸甲","ID":"num.303,107.chainmail_chestplate","t":"6","oN":"101.链甲胸甲","oP":"113","tC":"黄"
+},{
+    "v":100,"i":2,"n":"锁链护腿","ID":"num.304,107.chainmail_leggings","t":"6","oN":"101.链甲护腿","oP":"113","tC":"黄"
+},{
+    "v":100,"i":2,"n":"锁链靴子","ID":"num.305,107.chainmail_boots","t":"6","oN":"101.链甲靴子","oP":"113","tC":"黄"
+},{
+    "v":100,"i":2,"n":"铁头盔","ID":"num.306,107.iron_helmet","t":"6","oN":"103.铁质头盔","oP":"113"
+},{
+    "v":100,"i":2,"n":"铁胸甲","ID":"num.307,107.iron_chestplate","t":"6","oN":"103.铁质胸甲","oP":"113"
+},{
+    "v":100,"i":2,"n":"铁护腿","ID":"num.308,107.iron_leggings","t":"6","oN":"103.铁质护腿","oP":"113"
+},{
+    "v":100,"i":2,"n":"铁靴子","ID":"num.309,107.iron_boots","t":"6","oN":"103.铁质靴子","oP":"113"
+},{
+    "v":100,"i":2,"n":"钻石头盔","ID":"num.310,107.diamond_helmet","t":"6","oP":"113"
+},{
+    "v":100,"i":2,"n":"钻石胸甲","ID":"num.311,107.diamond_chestplate","t":"6","oP":"113"
+},{
+    "v":100,"i":2,"n":"钻石护腿","ID":"num.312,107.diamond_leggings","t":"6","oP":"113"
+},{
+    "v":100,"i":2,"n":"钻石靴子","ID":"num.313,107.diamond_boots","t":"6","oP":"113"
+},{
+    "v":100,"i":2,"n":"金头盔","ID":"num.314,107.golden_helmet","t":"6","oN":"103.黄金头盔","oP":"113"
+},{
+    "v":100,"i":2,"n":"金胸甲","ID":"num.315,107.golden_chestplate","t":"6","oN":"103.黄金胸甲","oP":"113"
+},{
+    "v":100,"i":2,"n":"金护腿","ID":"num.316,107.golden_leggings","t":"6","oN":"103.黄金护腿","oP":"113"
+},{
+    "v":100,"i":2,"n":"金靴子","ID":"num.317,107.golden_boots","t":"6","oN":"101.黄金靴,105.黄金靴子","oP":"113"
+},{
+    "v":100,"i":2,"n":"燧石","ID":"num.318,107.flint","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"生猪排","EN":"Raw Porkchop","ID":"num.319,107.porkchop","t":"7","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"熟猪排","ID":"num.320,107.cooked_porkchop","t":"7","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"画","ID":"num.321,107.painting","t":"3","oP":"113","tL":1
+},{
+    "v":100,"i":2,"n":"金苹果","ID":"num.322,107.golden_apple","t":"7","oP":"113"
+},{
+    "v":103,"i":2,"n":"附魔金苹果","ID":"num.322_1,107.golden_apple/1,113.enchanted_golden_apple","t":"7","oN":"112.金苹果","oP":"113","tC":"淡蓝"
+},{
+    "v":100,"i":2,"n":"橡木告示牌","ID":"num.323,107.sign,114.oak_sign","t":"3","oN":"112.告示牌","oP":"116,117","zj":"yy"
+},{
+    "v":100,"i":2,"n":"橡木门","ID":"num.324,107.wooden_door,113.oak_door","t":"0,4","oN":"107.木门","oP":"107,113"
+},{
+    "v":100,"i":2,"n":"铁桶","ID":"num.325,107.bucket","t":"5","oN":"11902.桶","oP":"113"
+},{
+    "v":100,"i":2,"n":"水桶","ID":"num.326,107.water_bucket","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"熔岩桶","ID":"num.327,107.lava_bucket","t":"5","oN":"109.岩浆桶","oP":"113"
+},{
+    "v":100,"i":2,"n":"矿车","ID":"num.328,107.minecart","t":"4,5","oP":"113"
+},{
+    "v":100,"i":2,"n":"鞍","ID":"num.329,107.saddle","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"铁门","ID":"num.330,107.iron_door","t":"0,4","oP":"107,113"
+},{
+    "v":100,"i":2,"n":"红石粉","EN":"Redstone Dust","ID":"num.331,107.redstone","t":"4,8","oN":"112.红石","oP":"113"
+},{
+    "v":100,"i":2,"n":"雪球","ID":"num.332,107.snowball","t":"6,8","oP":"113"
+},{
+    "v":100,"i":2,"n":"橡木船","ID":"num.333,107.boat,109.oak_boat","t":"5","oN":"109.船","oP":"108,113"
+},{
+    "v":100,"i":2,"n":"皮革","ID":"num.334,107.leather","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"奶桶","ID":"num.335,107.milk_bucket","t":"5,7","oN":"112.牛奶,114.牛奶桶","oP":"113"
+},{
+    "v":100,"i":2,"n":"红砖","ID":"num.336,107.brick","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"黏土球","ID":"num.337,107.clay_ball","t":"8","oN":"114.粘土,115.黏土","oP":"113"
+},{
+    "v":100,"i":2,"n":"甘蔗","ID":"num.338,107.reeds,113.sugar_cane","t":"2","oP":"113,116"
+},{
+    "v":100,"i":2,"n":"纸","ID":"num.339,107.paper","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"书","ID":"num.340,107.book","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"黏液球","EN":"Slimeball","ID":"num.341,107.slime_ball","t":"8","oN":"101.史莱姆球,114.粘液球","oP":"113"
+},{
+    "v":100,"i":2,"n":"运输矿车","EN":"Minecart with Chest","ID":"num.342,107.chest_minecart","t":"4,5","oP":"113"
+},{
+    "v":100,"i":2,"n":"动力矿车","EN":"Minecart with Furnace","ID":"num.343,107.furnace_minecart","t":"4,5","oP":"113"
+},{
+    "v":100,"i":2,"n":"鸡蛋","ID":"num.344,107.egg","t":"6,8","oN":"101.蛋","oP":"113"
+},{
+    "v":100,"i":2,"n":"指南针","ID":"num.345,107.compass","t":"5","oP":"113","dt":1
+},{
+    "v":100,"i":2,"n":"钓鱼竿","ID":"num.346,107.fishing_rod","t":"5","oP":"113","dt":1
+},{
+    "v":100,"i":2,"n":"时钟","ID":"num.347,107.clock","t":"5","oN":"113.钟","oP":"113","dt":1
+},{
+    "v":100,"i":2,"n":"荧石粉","ID":"num.348,107.glowstone_dust","t":"8","oN":"111.萤石粉","oP":"113"
+},{
+    "v":100,"i":2,"n":"生鳕鱼","EN":"Raw Cod","ID":"num.349,107.fish,113.cod","t":"7","oN":"112.生鱼","oP":"112"
+},{
+    "v":107,"i":2,"n":"生鲑鱼","EN":"Raw Salmon","ID":"num.349_1,107.fish/1,113.salmon","t":"7","oP":"112"
+},{
+    "v":107,"i":2,"n":"热带鱼","ID":"num.349_2,107.fish/2,113.tropical_fish","t":"7","oN":"112.小丑鱼","oP":"112"
+},{
+    "v":107,"i":2,"n":"河豚","ID":"num.349_3,107.fish/3,113.pufferfish","t":"7,8","oP":"112"
+},{
+    "v":100,"i":2,"n":"熟鳕鱼","ID":"num.350,107.cooked_fish,113.cooked_cod","t":"7","oN":"112.熟鱼","oP":"112"
+},{
+    "v":107,"i":2,"n":"熟鲑鱼","ID":"num.350_1,107.cooked_fish/1,113.cooked_salmon","t":"7","oP":"112"
+},{
+    "v":100,"i":2,"n":"墨囊","ID":"num.351,107.dye,113.ink_sac","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"红色染料","ID":"num.351_1,107.dye/1,113.rose_red,114.red_dye","t":"8","oN":"113.玫瑰红","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"绿色染料","ID":"num.351_2,107.dye/2,113.cactus_green,114.green_dye","t":"8","oN":"113.仙人掌绿","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"可可豆","ID":"num.351_3,107.dye/3,113.cocoa_beans","t":"2","oP":"102,113"
+},{
+    "v":100,"i":2,"n":"青金石","ID":"num.351_4,107.dye/4,113.lapis_lazuli","t":"8","oN":"103.金青石","oP":"113"
+},{
+    "v":100,"i":2,"n":"紫色染料","ID":"num.351_5,107.dye/5,113.purple_dye","t":"8","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"青色染料","ID":"num.351_6,107.dye/6,113.cyan_dye","t":"8","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"淡灰色染料","ID":"num.351_7,107.dye/7,113.light_gray_dye","t":"8","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"灰色染料","ID":"num.351_8,107.dye/8,113.gray_dye","t":"8","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"粉红色染料","ID":"num.351_9,107.dye/9,113.pink_dye","t":"8","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"黄绿色染料","ID":"num.351_10,107.dye/10,113.lime_dye","t":"8","oN":"101.柠檬黄色染料","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"黄色染料","ID":"num.351_11,107.dye/11,113.dandelion_yellow,114.yellow_dye","t":"8","oN":"113.蒲公英黄","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"淡蓝色染料","ID":"num.351_12,107.dye/12,113.light_blue_dye","t":"8","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"品红色染料","ID":"num.351_13,107.dye/13,113.magenta_dye","t":"8","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"橙色染料","ID":"num.351_14,107.dye/14,113.orange_dye","t":"8","oP":"113,12108"
+},{
+    "v":100,"i":2,"n":"骨粉","ID":"num.351_15,107.dye/15,113.bone_meal","t":"5,8","oP":"113"
+},{
+    "v":100,"i":2,"n":"骨头","ID":"num.352,107.bone","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"糖","ID":"num.353,107.sugar","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"蛋糕","ID":"num.354,107.cake","t":"7","oP":"113"
+},{
+    "v":100,"i":2,"n":"床","ID":"num.355,107.bed","yc":112
+},{
+    "v":112,"b":1,"n":"白色床","ID":"num.355,112.bed,113.white_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"橙色床","ID":"num.355_1,112.bed/1,113.orange_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"品红色床","ID":"num.355_2,112.bed/2,113.magenta_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"淡蓝色床","ID":"num.355_3,112.bed/3,113.light_blue_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"黄色床","ID":"num.355_4,112.bed/4,113.yellow_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"黄绿色床","ID":"num.355_5,112.bed/5,113.lime_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"粉红色床","ID":"num.355_6,112.bed/6,113.pink_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"灰色床","ID":"num.355_7,112.bed/7,113.gray_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"淡灰色床","ID":"num.355_8,112.bed/8,113.light_gray_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"青色床","ID":"num.355_9,112.bed/9,113.cyan_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"紫色床","ID":"num.355_10,112.bed/10,113.purple_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"蓝色床","ID":"num.355_11,112.bed/11,113.blue_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"棕色床","ID":"num.355_12,112.bed/12,113.brown_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"绿色床","ID":"num.355_13,112.bed/13,113.green_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"红色床","ID":"num.355_14,112.bed/14,113.red_bed","t":"1,3","oP":"113"
+},{
+    "v":112,"b":1,"n":"黑色床","ID":"num.355_15,112.bed/15,113.black_bed","t":"1,3","oP":"113"
+},{
+    "v":100,"i":2,"n":"红石中继器","EN":"Redstone Repeater","oN":"102.红石中继器,103.雷石东直放站","ID":"num.356,107.repeater","t":"4","oP":"113"
+},{
+    "v":100,"i":2,"n":"曲奇","ID":"num.357,107.cookie","t":"7","oP":"113"
+},{
+    "v":100,"i":2,"n":"地图","EN":"Map","ID":"num.358,107.filled_map","oP":"113"
+},{
+    "v":100,"i":2,"n":"剪刀","ID":"num.359,107.shears","t":"5","oP":"113"
+},{
+    "v":100,"i":2,"n":"西瓜片","ID":"num.360,107.melon,113.melon_slice","t":"7","oN":"112.西瓜","oP":"113"
+},{
+    "v":100,"i":2,"n":"南瓜种子","ID":"num.361,107.pumpkin_seeds","t":"2"
+},{
+    "v":100,"i":2,"n":"西瓜种子","ID":"num.362,107.melon_seeds","t":"2"
+},{
+    "v":100,"i":2,"n":"生牛肉","EN":"Raw Beef","ID":"num.363,107.beef","t":"7","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"牛排","EN":"Steak","ID":"num.364,107.cooked_beef","t":"7","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"生鸡肉","EN":"Raw Chicken","ID":"num.365,107.chicken","t":"7","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"熟鸡肉","ID":"num.366,107.cooked_chicken","t":"7","oP":"103,113"
+},{
+    "v":100,"i":2,"n":"腐肉","ID":"num.367,107.rotten_flesh","t":"7","oP":"113"
+},{
+    "v":100,"i":2,"n":"末影珍珠","ID":"num.368,107.ender_pearl","t":"5,8","oP":"113"
+},{
+    "v":100,"i":2,"n":"烈焰棒","ID":"num.369,107.blaze_rod","t":"8"
+},{
+    "v":100,"i":2,"n":"恶魂之泪","ID":"num.370,107.ghast_tear","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"金粒","ID":"num.371,107.gold_nugget","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"下界疣","ID":"num.372,107.nether_wart","t":"2,8","oN":"113.地狱疣"
+},{
+    "v":100,"i":2,"n":"药水","ID":"num.373,107.potion","t":"7","oN":"112.水瓶","oP":"113","tL":1
+},{
+    "v":100,"i":2,"n":"玻璃瓶","ID":"num.374,107.glass_bottle","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"蜘蛛眼","ID":"num.375,107.spider_eye","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"发酵蛛眼","ID":"num.376,107.fermented_spider_eye","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"烈焰粉","ID":"num.377,107.blaze_powder","t":"8"
+},{
+    "v":100,"i":2,"n":"岩浆膏","ID":"num.378,107.magma_cream","t":"8","oP":"113"
+},{
+    "v":100,"i":2,"n":"酿造台","ID":"num.379,107.brewing_stand","t":"3","oN":"101.炼药台","oP":"113"
+},{
+    "v":100,"i":2,"n":"炼药锅","ID":"num.380,107.cauldron","t":"3","oP":"113"
+},{
+    "v":100,"i":2,"n":"末影之眼","EN":"Eye of Ender","ID":"num.381,107.ender_eye","t":"3,5,8","oP":"113"
+},{
+    "v":100,"i":2,"n":"闪烁的西瓜片","ID":"num.382,107.speckled_melon,113.glistering_melon_slice","t":"8","oN":"112.闪烁的西瓜","oP":"113"
+},{
+    "v":111,"i":2,"n":"远古守卫者刷怪蛋","ID":"num.383_4,111.spawn_egg/4,113.elder_guardian_spawn_egg","t":"9","oN":"112.生成 远古守卫者","oP":"12104"
+},{
+    "v":111,"i":2,"n":"凋灵骷髅刷怪蛋","ID":"num.383_5,111.spawn_egg/5,113.wither_skeleton_spawn_egg","t":"9","oN":"112.生成 凋灵骷髅","oP":"12104"
+},{
+    "v":111,"i":2,"n":"流浪者刷怪蛋","ID":"num.383_6,111.spawn_egg/6,113.stray_spawn_egg","t":"9","oN":"112.生成 流髑","oP":"12104"
+},{
+    "v":111,"i":2,"n":"尸壳刷怪蛋","ID":"num.383_23,111.spawn_egg/23,113.husk_spawn_egg","t":"9","oN":"112.生成 尸壳","oP":"12104"
+},{
+    "v":111,"i":2,"n":"僵尸村民刷怪蛋","ID":"num.383_27,111.spawn_egg/27,113.zombie_villager_spawn_egg","t":"9","oN":"112.生成 僵尸村民","oP":"12104"
+},{
+    "v":111,"i":2,"n":"骷髅马刷怪蛋","ID":"num.383_28,111.spawn_egg/28,113.skeleton_horse_spawn_egg","t":"9","oN":"112.生成 骷髅马","oP":"12104"
+},{
+    "v":111,"i":2,"n":"僵尸马刷怪蛋","ID":"num.383_29,111.spawn_egg/29,113.zombie_horse_spawn_egg","t":"9","oN":"112.生成 僵尸马","oP":"12104"
+},{
+    "v":111,"i":2,"n":"驴刷怪蛋","ID":"num.383_31,111.spawn_egg/31,113.donkey_spawn_egg","t":"9","oN":"112.生成 驴","oP":"12104"
+},{
+    "v":111,"i":2,"n":"骡刷怪蛋","ID":"num.383_32,111.spawn_egg/32,113.mule_spawn_egg","t":"9","oN":"112.生成 骡","oP":"12104"
+},{
+    "v":111,"i":2,"n":"唤魔者刷怪蛋","ID":"num.383_34,111.spawn_egg/34,113.evoker_spawn_egg","t":"9","oN":"112.生成 唤魔者","oP":"12104"
+},{
+    "v":111,"i":2,"n":"恼鬼刷怪蛋","ID":"num.383_35,111.spawn_egg/35,113.vex_spawn_egg","t":"9","oN":"112.生成 恼鬼","oP":"12104"
+},{
+    "v":111,"i":2,"n":"卫道士刷怪蛋","ID":"num.383_36,111.spawn_egg/36,113.vindicator_spawn_egg","t":"9","oN":"112.生成 卫道士","oP":"12104"
+},{
+    "v":101,"i":2,"n":"苦力怕刷怪蛋","ID":"num.383_50,107.spawn_egg/50,113.creeper_spawn_egg","t":"9","oN":"112.生成 爬行者,113.爬行者刷怪蛋","oP":"12104"
+},{
+    "v":101,"i":2,"n":"骷髅刷怪蛋","ID":"num.383_51,107.spawn_egg/51,113.skeleton_spawn_egg","t":"9","oN":"112.生成 骷髅","oP":"12104"
+},{
+    "v":101,"i":2,"n":"蜘蛛刷怪蛋","ID":"num.383_52,107.spawn_egg/52,113.spider_spawn_egg","t":"9","oN":"112.生成 蜘蛛","oP":"12104"
+},{
+    "v":101,"i":2,"n":"僵尸刷怪蛋","ID":"num.383_54,107.spawn_egg/54,113.zombie_spawn_egg","t":"9","oN":"112.生成 僵尸","oP":"12104"
+},{
+    "v":101,"i":2,"n":"史莱姆刷怪蛋","ID":"num.383_55,107.spawn_egg/55,113.slime_spawn_egg","t":"9","oN":"112.生成 史莱姆","oP":"12104"
+},{
+    "v":101,"i":2,"n":"恶魂刷怪蛋","ID":"num.383_56,107.spawn_egg/56,113.ghast_spawn_egg","t":"9","oN":"112.生成 恶魂","oP":"12104"
+},{
+    "v":101,"i":2,"n":"僵尸猪灵刷怪蛋","ID":"num.383_57,107.spawn_egg/57,113.zombie_pigman_spawn_egg,116.zombified_piglin_spawn_egg","t":"9","oN":"112.生成 僵尸猪人,115.僵尸猪人刷怪蛋","oP":"12104"
+},{
+    "v":101,"i":2,"n":"末影人刷怪蛋","ID":"num.383_58,107.spawn_egg/58,113.enderman_spawn_egg","t":"9","oN":"112.生成 末影人","oP":"12104"
+},{
+    "v":101,"i":2,"n":"洞穴蜘蛛刷怪蛋","ID":"num.383_59,107.spawn_egg/59,113.cave_spider_spawn_egg","t":"9","oN":"112.生成 洞穴蜘蛛","oP":"12104"
+},{
+    "v":101,"i":2,"n":"蠹虫刷怪蛋","ID":"num.383_60,107.spawn_egg/60,113.silverfish_spawn_egg","t":"9","oN":"112.生成 蠹虫","oP":"12104"
+},{
+    "v":101,"i":2,"n":"烈焰人刷怪蛋","ID":"num.383_61,107.spawn_egg/61,113.blaze_spawn_egg","t":"9","oN":"112.生成 烈焰人","oP":"12104"
+},{
+    "v":101,"i":2,"n":"岩浆怪刷怪蛋","ID":"num.383_62,107.spawn_egg/62,113.magma_cube_spawn_egg","t":"9","oN":"112.生成 岩浆怪","oP":"12104"
+},{
+    "v":104,"i":2,"n":"蝙蝠刷怪蛋","ID":"num.383_65,107.spawn_egg/65,113.bat_spawn_egg","t":"9","oN":"112.生成 蝙蝠","oP":"12104"
+},{
+    "v":104,"i":2,"n":"女巫刷怪蛋","ID":"num.383_66,107.spawn_egg/66,113.witch_spawn_egg","t":"9","oN":"112.生成 女巫","oP":"12104"
+},{
+    "v":108,"i":2,"n":"末影螨刷怪蛋","ID":"num.383_67,108.spawn_egg/67,113.endermite_spawn_egg","t":"9","oN":"112.生成 末影螨","oP":"12104"
+},{
+    "v":108,"i":2,"n":"守卫者刷怪蛋","ID":"num.383_68,108.spawn_egg/68,113.guardian_spawn_egg","t":"9","oN":"112.生成 守卫者","oP":"12104"
+},{
+    "v":109,"i":2,"n":"潜影贝刷怪蛋","ID":"num.383_69,109.spawn_egg/69,113.shulker_spawn_egg","t":"9","oN":"112.生成 潜影贝","oP":"12104"
+},{
+    "v":101,"i":2,"n":"猪刷怪蛋","ID":"num.383_90,107.spawn_egg/90,113.pig_spawn_egg","t":"9","oN":"112.生成 猪","oP":"12104"
+},{
+    "v":101,"i":2,"n":"绵羊刷怪蛋","ID":"num.383_91,107.spawn_egg/91,113.sheep_spawn_egg","t":"9","oN":"112.生成 羊,114.羊刷怪蛋","oP":"12104"
+},{
+    "v":101,"i":2,"n":"牛刷怪蛋","ID":"num.383_92,107.spawn_egg/92,113.cow_spawn_egg","t":"9","oN":"112.生成 牛","oP":"12104"
+},{
+    "v":101,"i":2,"n":"鸡刷怪蛋","ID":"num.383_93,107.spawn_egg/93,113.chicken_spawn_egg","t":"9","oN":"112.生成 鸡","oP":"12104"
+},{
+    "v":101,"i":2,"n":"鱿鱼刷怪蛋","ID":"num.383_94,107.spawn_egg/94,113.squid_spawn_egg","t":"9","oN":"101.生成 乌贼,112.生成 鱿鱼","oP":"12104"
+},{
+    "v":101,"i":2,"n":"狼刷怪蛋","ID":"num.383_95,107.spawn_egg/95,113.wolf_spawn_egg","t":"9","oN":"112.生成 狼","oP":"12104"
+},{
+    "v":101,"i":2,"n":"哞菇刷怪蛋","ID":"num.383_96,107.spawn_egg/96,113.mooshroom_spawn_egg","t":"9","oN":"112.生成 哞菇","oP":"12104"
+},{
+    "v":102,"i":2,"n":"豹猫刷怪蛋","ID":"num.383_98,107.spawn_egg/98,113.ocelot_spawn_egg","t":"9","oN":"112.生成 豹猫","oP":"12104"
+},{
+    "v":106,"i":2,"n":"马刷怪蛋","ID":"num.383_100,107.spawn_egg/100,113.horse_spawn_egg","t":"9","oN":"112.生成 马","oP":"12104"
+},{
+    "v":108,"i":2,"n":"兔子刷怪蛋","ID":"num.383_101,108.spawn_egg/101,113.rabbit_spawn_egg","t":"9","oN":"112.生成 兔子","oP":"12104"
+},{
+    "v":110,"i":2,"n":"北极熊刷怪蛋","ID":"num.383_102,111.spawn_egg/102,113.polar_bear_spawn_egg","t":"9","oN":"112.生成 北极熊","oP":"12104"
+},{
+    "v":111,"i":2,"n":"羊驼刷怪蛋","ID":"num.383_103,111.spawn_egg/103,113.llama_spawn_egg","t":"9","oN":"112.生成 羊驼","oP":"12104"
+},{
+    "v":112,"i":2,"n":"鹦鹉刷怪蛋","ID":"num.383_105,112.spawn_egg/105,113.parrot_spawn_egg","t":"9","oN":"112.生成 鹦鹉","oP":"12104"
+},{
+    "v":101,"i":2,"n":"村民刷怪蛋","ID":"num.383_120,107.spawn_egg/120,113.villager_spawn_egg","t":"9","oN":"112.生成 村民","oP":"12104"
+},{
+    "v":104,"i":2,"n":"附魔之瓶","EN":"Bottle o' Enchanting","ID":"num.384,107.experience_bottle","t":"8","oP":"113","tC":"黄"
+},{
+    "v":104,"i":2,"n":"火焰弹","ID":"num.385,107.fire_charge","t":"5,8","oP":"113"
+},{
+    "v":104,"i":2,"n":"书与笔","EN":"Book and Quill","ID":"num.386,107.writable_book","t":"5","oP":"113"
+},{
+    "v":104,"i":2,"n":"成书","ID":"num.387,107.written_book","oP":"113"
+},{
+    "v":104,"i":2,"n":"绿宝石","ID":"num.388,107.emerald","t":"8","oP":"113"
+},{
+    "v":104,"i":2,"n":"物品展示框","ID":"num.389,107.item_frame","t":"3","oP":"113"
+},{
+    "v":104,"i":2,"n":"花盆","ID":"num.390,107.flower_pot","t":"3","oP":"113"
+},{
+    "v":104,"i":2,"n":"胡萝卜","ID":"num.391,107.carrot","t":"7","oP":"113"
+},{
+    "v":104,"i":2,"n":"马铃薯","ID":"num.392,107.potato","t":"7","oP":"113"
+},{
+    "v":104,"i":2,"n":"烤马铃薯","ID":"num.393,107.baked_potato","t":"7","oP":"113"
+},{
+    "v":104,"i":2,"n":"毒马铃薯","ID":"num.394,107.poisonous_potato","t":"7","oP":"113"
+},{
+    "v":104,"i":2,"n":"空地图","EN":"Empty Map","ID":"num.395,107.map","t":"5","oP":"113"
+},{
+    "v":104,"i":2,"n":"金胡萝卜","ID":"num.396,107.golden_carrot","t":"8","oN":"108.金萝卜","oP":"113"
+},{
+    "v":104,"i":2,"n":"骷髅头颅","ID":"num.397,107.skull,113.skeleton_skull","t":"3","oP":"107","zj":"yn","tC":"黄"
+},{
+    "v":104,"b":1,"n":"凋灵骷髅头颅","ID":"num.397_1,107.skull/1,113.wither_skeleton_skull","t":"3","oP":"107","zj":"yn","tC":"淡蓝"
+},{
+    "v":104,"b":1,"n":"僵尸的头","ID":"num.397_2,107.skull/2,113.zombie_head","t":"3","oP":"107","zj":"yn","tC":"黄"
+},{
+    "v":104,"b":1,"n":"玩家的头","ID":"num.397_3,107.skull/3,113.player_head","t":"3","oN":"112.头","oP":"107,118","zj":"yn","tC":"黄"
+},{
+    "v":104,"b":1,"n":"苦力怕的头","ID":"num.397_4,107.skull/4,113.creeper_head","t":"3","oN":"113.爬行者的头","oP":"107","zj":"yn","tC":"黄"
+},{
+    "v":109,"b":1,"n":"龙首","ID":"num.397_5,109.skull/5,113.dragon_head","t":"3","tC":"紫"
+},{
+    "v":104,"i":2,"n":"胡萝卜钓竿","EN":"Carrot on a Stick","ID":"num.398,107.carrot_on_a_stick","t":"5","oN":"108.萝卜钓竿","oP":"113"
+},{
+    "v":104,"i":2,"n":"下界之星","ID":"num.399,107.nether_star","t":"8","oP":"113","tC":"黄"
+},{
+    "v":104,"i":2,"n":"南瓜派","ID":"num.400,107.pumpkin_pie","t":"7","oP":"113"
+},{
+    "v":104,"i":2,"n":"烟花火箭","ID":"num.401,107.fireworks,113.firework_rocket","oP":"113"
+},{
+    "v":104,"i":2,"n":"烟火之星","ID":"num.402,107.firework_charge,113.firework_star","t":"8"
+},{
+    "v":104,"i":2,"n":"附魔书","ID":"num.403,107.enchanted_book","t":"8","oP":"113","tC":"淡蓝","tL":1
+},{
+    "v":105,"i":2,"n":"红石比较器","EN":"Redstone Comparator","ID":"num.404,107.comparator","t":"4","oP":"113","zj":"ny"
+},{
+    "v":105,"i":2,"n":"下界砖","ID":"num.405,107.netherbrick,113.nether_brick","t":"8","oN":"112.地狱砖块,113.地狱砖","oP":"113"
+},{
+    "v":105,"i":2,"n":"下界石英","EN":"Nether Quartz","ID":"num.406,107.quartz","t":"8","oP":"113"
+},{
+    "v":105,"i":2,"n":"TNT矿车","EN":"Minecart with TNT","ID":"num.407,107.tnt_minecart","t":"4,5","oP":"113"
+},{
+    "v":105,"i":2,"n":"漏斗矿车","EN":"Minecart with Hopper","ID":"num.408,107.hopper_minecart","t":"4,5","oP":"113"
+},{
+    "v":108,"i":2,"n":"海晶碎片","ID":"num.409,108.prismarine_shard","t":"8","oP":"113"
+},{
+    "v":108,"i":2,"n":"海晶砂粒","ID":"num.410,108.prismarine_crystals","t":"8","oP":"113"
+},{
+    "v":108,"i":2,"n":"生兔肉","EN":"Raw Rabbit","ID":"num.411,108.rabbit","t":"7","oP":"113"
+},{
+    "v":108,"i":2,"n":"熟兔肉","ID":"num.412,108.cooked_rabbit","t":"7","oP":"113"
+},{
+    "v":108,"i":2,"n":"兔肉煲","ID":"num.413,108.rabbit_stew","t":"7","oP":"113"
+},{
+    "v":108,"i":2,"n":"兔子脚","EN":"Rabbit's Foot","ID":"num.414,108.rabbit_foot","t":"8","oP":"113"
+},{
+    "v":108,"i":2,"n":"兔子皮","ID":"num.415,108.rabbit_hide","t":"8","oP":"113"
+},{
+    "v":108,"i":2,"n":"盔甲架","ID":"num.416,108.armor_stand","t":"3,4","oP":"113"
+},{
+    "v":107,"i":2,"n":"铁马铠","ID":"num.417,107.iron_horse_armor","t":"6","oP":"113"
+},{
+    "v":107,"i":2,"n":"金马铠","ID":"num.418,107.golden_horse_armor","t":"6","oP":"113"
+},{
+    "v":107,"i":2,"n":"钻石马铠","ID":"num.419,107.diamond_horse_armor","t":"6","oP":"113"
+},{
+    "v":107,"i":2,"n":"拴绳","ID":"num.420,107.lead","t":"5","oP":"113"
+},{
+    "v":107,"i":2,"n":"命名牌","ID":"num.421,107.name_tag","t":"5","oP":"113"
+},{
+    "v":107,"i":2,"n":"命令方块矿车","EN":"Minecart with Command Block","ID":"num.422,107.command_block_minecart","oP":"113","tC":"紫"
+},{
+    "v":108,"i":2,"n":"生羊肉","EN":"Raw Mutton","ID":"num.423,108.mutton","t":"7","oP":"113"
+},{
+    "v":108,"i":2,"n":"熟羊肉","ID":"num.424,108.cooked_mutton","t":"7","oP":"113"
+},{
+    "v":108,"b":1,"n":"黑色旗帜","ID":"num.425,108.banner,113.black_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"红色旗帜","ID":"num.425_1,108.banner/1,113.red_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"绿色旗帜","ID":"num.425_2,108.banner/2,113.green_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"棕色旗帜","ID":"num.425_3,108.banner/3,113.brown_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"蓝色旗帜","ID":"num.425_4,108.banner/4,113.blue_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"紫色旗帜","ID":"num.425_5,108.banner/5,113.purple_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"青色旗帜","ID":"num.425_6,108.banner/6,113.cyan_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"淡灰色旗帜","ID":"num.425_7,108.banner/7,113.light_gray_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"灰色旗帜","ID":"num.425_8,108.banner/8,113.gray_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"粉红色旗帜","ID":"num.425_9,108.banner/9,113.pink_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"黄绿色旗帜","ID":"num.425_10,108.banner/10,113.lime_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"黄色旗帜","ID":"num.425_11,108.banner/11,113.yellow_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"淡蓝色旗帜","ID":"num.425_12,108.banner/12,113.light_blue_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"品红色旗帜","ID":"num.425_13,108.banner/13,113.magenta_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"橙色旗帜","ID":"num.425_14,108.banner/14,113.orange_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":108,"b":1,"n":"白色旗帜","ID":"num.425_15,108.banner/15,113.white_banner","t":"1,3","oP":"112","tL":2
+},{
+    "v":109,"i":2,"n":"末地水晶","ID":"num.426,109.end_crystal","t":"3,6","oN":"116.末影水晶","oP":"113"
+},{
+    "v":109,"i":2,"n":"云杉木门","ID":"num.427,109.spruce_door","t":"0","oP":"113"
+},{
+    "v":109,"i":2,"n":"白桦木门","ID":"num.428,109.birch_door","t":"0","oP":"113"
+},{
+    "v":109,"i":2,"n":"丛林木门","ID":"num.429,109.jungle_door","t":"0","oP":"113"
+},{
+    "v":109,"i":2,"n":"金合欢木门","ID":"num.430,109.acacia_door","t":"0","oP":"113"
+},{
+    "v":109,"i":2,"n":"深色橡木门","ID":"num.431,109.dark_oak_door","t":"0","oP":"113"
+},{
+    "v":109,"i":2,"n":"紫颂果","ID":"num.432,109.chorus_fruit","t":"7","oN":"109.紫影果","oP":"113"
+},{
+    "v":109,"i":2,"n":"爆裂紫颂果","ID":"num.433,109.chorus_fruit_popped,113.popped_chorus_fruit","t":"8","oN":"109.爆裂紫影果","oP":"113"
+},{
+    "v":109,"i":2,"n":"甜菜根","ID":"num.434,109.beetroot","t":"7","oP":"113"
+},{
+    "v":109,"i":2,"n":"甜菜种子","ID":"num.435,109.beetroot_seeds","t":"2","oP":"113"
+},{
+    "v":109,"i":2,"n":"甜菜汤","ID":"num.436,109.beetroot_soup","t":"7","oP":"113"
+},{
+    "v":109,"i":2,"n":"龙息","EN":"Dragon's Breath","ID":"num.437,109.dragon_breath","t":"8","oP":"113"
+},{
+    "v":109,"i":2,"n":"喷溅药水","ID":"num.438,109.splash_potion","t":"7","oN":"112.喷溅型水瓶","oP":"113","tL":2
+},{
+    "v":109,"i":2,"n":"光灵箭","ID":"num.439,109.spectral_arrow","t":"6","oP":"113"
+},{
+    "v":109,"i":2,"n":"药箭","ID":"num.440,109.tipped_arrow","t":"6","oN":"112.喷溅之箭","oP":"113","tL":1
+},{
+    "v":109,"i":2,"n":"滞留药水","ID":"num.441,109.lingering_potion","t":"7","oN":"112.滞留型水瓶","oP":"113","tL":2
+},{
+    "v":109,"i":2,"n":"盾牌","ID":"num.442,109.shield","t":"6","oP":"113","zj":"nn"
+},{
+    "v":109,"i":2,"n":"鞘翅","ID":"num.443,109.elytra","t":"5","oP":"113","dt":1,"tC":"紫"
+},{
+    "v":109,"i":2,"n":"云杉木船","ID":"num.444,109.spruce_boat","t":"5","oP":"113"
+},{
+    "v":109,"i":2,"n":"白桦木船","ID":"num.445,109.birch_boat","t":"5","oP":"113"
+},{
+    "v":109,"i":2,"n":"丛林木船","ID":"num.446,109.jungle_boat","t":"5","oP":"113"
+},{
+    "v":109,"i":2,"n":"金合欢木船","ID":"num.447,109.acacia_boat","t":"5","oP":"113"
+},{
+    "v":109,"i":2,"n":"深色橡木船","ID":"num.448,109.dark_oak_boat","t":"5","oP":"113"
+},{
+    "v":112,"i":2,"n":"不死图腾","EN":"Totem of Undying","ID":"num.449,112.totem_of_undying","t":"6","oP":"113","tC":"黄"
+},{
+    "v":112,"i":2,"n":"潜影壳","ID":"num.450,112.shulker_shell","t":"8","oP":"113"
+},{
+    "v":112,"i":2,"n":"铁粒","ID":"num.452,112.iron_nugget","t":"8"
+},{
+    "v":112,"i":2,"n":"知识之书","ID":"num.453,112.knowledge_book","oP":"113"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - 13）","EN":"Music Disc (C418 - 13)","ID":"num.2256,107.record_13,113.music_disc_13","t":"5","oN":"101.唱片（C418 - 13）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - cat）","EN":"Music Disc (C418 - cat)","ID":"num.2257,107.record_cat,113.music_disc_cat","t":"5","oN":"101.唱片（C418 - cat）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - blocks）","EN":"Music Disc (C418 - blocks)","ID":"num.2258,107.record_blocks,113.music_disc_blocks","t":"5","oN":"101.唱片（C418 - blocks）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - chirp）","EN":"Music Disc (C418 - chirp)","ID":"num.2259,107.record_chirp,113.music_disc_chirp","t":"5","oN":"101.唱片（C418 - chirp）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - far）","EN":"Music Disc (C418 - far)","ID":"num.2260,107.record_far,113.music_disc_far","t":"5","oN":"101.唱片（C418 - far）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - mall）","EN":"Music Disc (C418 - mall)","ID":"num.2261,107.record_mall,113.music_disc_mall","t":"5","oN":"101.唱片（C418 - mall）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - mellohi）","EN":"Music Disc (C418 - mellohi)","ID":"num.2262,107.record_mellohi,113.music_disc_mellohi","t":"5","oN":"101.唱片（C418 - mellohi）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - stal）","EN":"Music Disc (C418 - stal)","ID":"num.2263,107.record_stal,113.music_disc_stal","t":"5","oN":"101.唱片（C418 - stal）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - strad）","EN":"Music Disc (C418 - strad)","ID":"num.2264,107.record_strad,113.music_disc_strad","t":"5","oN":"101.唱片（C418 - strad）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - ward）","EN":"Music Disc (C418 - ward)","ID":"num.2265,107.record_ward,113.music_disc_ward","t":"5","oN":"101.唱片（C418 - ward）","tC":"黄"
+},{
+    "v":100,"i":2,"n":"音乐唱片（C418 - 11）","EN":"Music Disc (C418 - 11)","ID":"num.2266,107.record_11,113.music_disc_11","t":"5","oN":"101.唱片（C418 - 11）","oP":"113","tC":"黄"
+},{
+    "v":104,"i":2,"n":"音乐唱片（C418 - wait）","EN":"Music Disc (C418 - wait)","ID":"num.2267,107.record_wait,113.music_disc_wait","t":"5","tC":"黄"
+},{
+    "v":113,"b":2,"n":"洞穴空气","ID":"113.cave_air","zj":"yn"
+},{
+    "v":113,"b":2,"n":"虚空空气","ID":"113.void_air","zj":"yn"
+},{
+    "v":113,"b":1,"n":"潜影盒","ID":"113.shulker_box","t":"1,3"
+},{
+    "v":113,"b":1,"n":"管珊瑚","ID":"113.tube_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"脑纹珊瑚","ID":"113.brain_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"气泡珊瑚","ID":"113.bubble_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"火珊瑚","ID":"113.fire_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"鹿角珊瑚","ID":"113.horn_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的管珊瑚","ID":"113.dead_tube_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的脑纹珊瑚","ID":"113.dead_brain_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的气泡珊瑚","ID":"113.dead_bubble_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的火珊瑚","ID":"113.dead_fire_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的鹿角珊瑚","ID":"113.dead_horn_coral","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的管珊瑚块","ID":"113.dead_tube_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"失活的脑纹珊瑚块","ID":"113.dead_brain_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"失活的气泡珊瑚块","ID":"113.dead_bubble_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"失活的火珊瑚块","ID":"113.dead_fire_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"失活的鹿角珊瑚块","ID":"113.dead_horn_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"管珊瑚块","ID":"113.tube_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"脑纹珊瑚块","ID":"113.brain_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"气泡珊瑚块","ID":"113.bubble_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"火珊瑚块","ID":"113.fire_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"鹿角珊瑚块","ID":"113.horn_coral_block","t":"2"
+},{
+    "v":113,"b":1,"n":"管珊瑚扇","ID":"113.tube_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"脑纹珊瑚扇","ID":"113.brain_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"气泡珊瑚扇","ID":"113.bubble_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"火珊瑚扇","ID":"113.fire_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"鹿角珊瑚扇","ID":"113.horn_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的管珊瑚扇","ID":"113.dead_tube_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的脑纹珊瑚扇","ID":"113.dead_brain_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的气泡珊瑚扇","ID":"113.dead_bubble_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的火珊瑚扇","ID":"113.dead_fire_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"失活的鹿角珊瑚扇","ID":"113.dead_horn_coral_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的管珊瑚扇","ID":"113.tube_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的脑纹珊瑚扇","ID":"113.brain_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的气泡珊瑚扇","ID":"113.bubble_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的火珊瑚扇","ID":"113.fire_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的鹿角珊瑚扇","ID":"113.horn_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的失活管珊瑚扇","ID":"113.dead_tube_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的失活脑纹珊瑚扇","ID":"113.dead_brain_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的失活气泡珊瑚扇","ID":"113.dead_bubble_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的失活火珊瑚扇","ID":"113.dead_fire_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":2,"n":"墙上的失活鹿角珊瑚扇","ID":"113.dead_horn_coral_wall_fan","t":"2","zj":"yn"
+},{
+    "v":113,"b":1,"n":"蓝冰","ID":"113.blue_ice","t":"2"
+},{
+    "v":113,"b":1,"n":"潮涌核心","ID":"113.conduit","t":"3","tC":"黄"
+},{
+    "v":113,"i":2,"n":"海洋之心","EN":"Heart of the Sea","ID":"113.heart_of_the_sea","t":"8","tC":"黄"
+},{
+    "v":113,"i":2,"n":"鹦鹉螺壳","ID":"113.nautilus_shell","t":"8","tC":"黄"
+},{
+    "v":113,"n":"海草","ID":"113.seagrass","t":"2","zj":"yy","dt":1
+},{
+    "v":113,"b":2,"n":"高海草","ID":"113.tall_seagrass","t":"2","zj":"yn","dt":1
+},{
+    "v":113,"n":"海带","ID":"113.kelp","t":"2","zj":"yy","dt":1
+},{
+    "v":113,"b":2,"n":"海带植株","ID":"113.kelp_plant","zj":"yn","dt":1
+},{
+    "v":113,"i":2,"n":"干海带","ID":"113.dried_kelp","t":"7"
+},{
+    "v":113,"b":1,"n":"干海带块","ID":"113.dried_kelp_block","t":"2"
+},{
+    "v":113,"n":"海泡菜","ID":"113.sea_pickle","t":"2","zj":"ny","dt":1
+},{
+    "v":113,"n":"海龟蛋","ID":"113.turtle_egg","t":"2","zj":"ny","dt":1
+},{
+    "v":113,"i":2,"n":"海龟壳","EN":"Turtle Shell","ID":"113.turtle_helmet","t":"6,8"
+},{
+    "v":113,"i":2,"n":"海龟鳞甲","ID":"113.scute,12005.turtle_scute","t":"8","oN":"12004.鳞甲"
+},{
+    "v":113,"b":1,"n":"去皮橡木原木","ID":"113.stripped_oak_log","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"去皮云杉原木","ID":"113.stripped_spruce_log","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"去皮白桦原木","ID":"113.stripped_birch_log","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"去皮丛林原木","ID":"113.stripped_jungle_log","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"去皮金合欢原木","ID":"113.stripped_acacia_log","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"去皮深色橡木原木","ID":"113.stripped_dark_oak_log","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"去皮橡木","ID":"113.stripped_oak_wood","t":"0"
+},{
+    "v":113,"b":1,"n":"去皮云杉木","ID":"113.stripped_spruce_wood","t":"0"
+},{
+    "v":113,"b":1,"n":"去皮白桦木","ID":"113.stripped_birch_wood","t":"0"
+},{
+    "v":113,"b":1,"n":"去皮丛林木","ID":"113.stripped_jungle_wood","t":"0"
+},{
+    "v":113,"b":1,"n":"去皮金合欢木","ID":"113.stripped_acacia_wood","t":"0"
+},{
+    "v":113,"b":1,"n":"去皮深色橡木","ID":"113.stripped_dark_oak_wood","t":"0"
+},{
+    "v":113,"b":1,"n":"海晶石台阶","ID":"113.prismarine_slab","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"海晶石砖台阶","ID":"113.prismarine_brick_slab","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"暗海晶石台阶","ID":"113.dark_prismarine_slab","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"海晶石楼梯","ID":"113.prismarine_stairs","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"海晶石砖楼梯","ID":"113.prismarine_brick_stairs","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"暗海晶石楼梯","ID":"113.dark_prismarine_stairs","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"云杉木压力板","ID":"113.spruce_pressure_plate","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"白桦木压力板","ID":"113.birch_pressure_plate","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"丛林木压力板","ID":"113.jungle_pressure_plate","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"金合欢木压力板","ID":"113.acacia_pressure_plate","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"深色橡木压力板","ID":"113.dark_oak_pressure_plate","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"云杉木活板门","ID":"113.spruce_trapdoor","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"白桦木活板门","ID":"113.birch_trapdoor","t":"0"
+},{
+    "v":113,"b":1,"n":"丛林木活板门","ID":"113.jungle_trapdoor","t":"0"
+},{
+    "v":113,"b":1,"n":"金合欢木活板门","ID":"113.acacia_trapdoor","t":"0"
+},{
+    "v":113,"b":1,"n":"深色橡木活板门","ID":"113.dark_oak_trapdoor","t":"0"
+},{
+    "v":113,"b":1,"n":"云杉木按钮","ID":"113.spruce_button","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"白桦木按钮","ID":"113.birch_button","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"丛林木按钮","ID":"113.jungle_button","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"金合欢木按钮","ID":"113.acacia_button","t":"0","oP":"113"
+},{
+    "v":113,"b":1,"n":"深色橡木按钮","ID":"113.dark_oak_button","t":"0","oP":"113"
+},{
+    "v":113,"i":2,"n":"海龟刷怪蛋","ID":"113.turtle_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":113,"i":2,"n":"海豚刷怪蛋","ID":"113.dolphin_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":113,"i":2,"n":"鳕鱼刷怪蛋","ID":"113.cod_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":113,"i":2,"n":"河豚刷怪蛋","ID":"113.pufferfish_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":113,"i":2,"n":"鲑鱼刷怪蛋","ID":"113.salmon_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":113,"i":2,"n":"热带鱼刷怪蛋","ID":"113.tropical_fish_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":113,"i":2,"n":"溺尸刷怪蛋","ID":"113.drowned_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":113,"i":2,"n":"幻翼刷怪蛋","ID":"113.phantom_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":113,"i":2,"n":"三叉戟","ID":"113.trident","t":"6","tC":"黄"
+},{
+    "v":113,"i":2,"n":"河豚桶","EN":"Bucket of Pufferfish","ID":"113.pufferfish_bucket","t":"5","oP":"113"
+},{
+    "v":113,"i":2,"n":"鲑鱼桶","EN":"Bucket of Salmon","ID":"113.salmon_bucket","t":"5","oP":"113"
+},{
+    "v":113,"i":2,"n":"鳕鱼桶","EN":"Bucket of Cod","ID":"113.cod_bucket","t":"5","oP":"113"
+},{
+    "v":113,"i":2,"n":"热带鱼桶","EN":"Bucket of Tropical Fish","ID":"113.tropical_fish_bucket","t":"5","oP":"113"
+},{
+    "v":113,"i":2,"n":"幻翼膜","ID":"113.phantom_membrane","t":"8","oP":"113"
+},{
+    "v":113,"b":1,"n":"雕刻南瓜","ID":"113.carved_pumpkin","t":"2","oN":"11902.雕刻过的南瓜","oP":"113"
+},{
+    "v":113,"i":2,"n":"调试棒","ID":"113.debug_stick"
+},{
+    "v":113,"b":2,"n":"气泡柱","ID":"113.bubble_column","dt":1
+},{
+    "v":113,"b":2,"n":"墙上的白色旗帜","ID":"113.white_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的橙色旗帜","ID":"113.orange_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的品红色旗帜","ID":"113.magenta_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的淡蓝色旗帜","ID":"113.light_blue_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的黄色旗帜","ID":"113.yellow_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的黄绿色旗帜","ID":"113.lime_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的粉红色旗帜","ID":"113.pink_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的灰色旗帜","ID":"113.gray_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的淡灰色旗帜","ID":"113.light_gray_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的青色旗帜","ID":"113.cyan_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的紫色旗帜","ID":"113.purple_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的蓝色旗帜","ID":"113.blue_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的棕色旗帜","ID":"113.brown_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的绿色旗帜","ID":"113.green_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的红色旗帜","ID":"113.red_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的黑色旗帜","ID":"113.black_wall_banner","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的凋灵骷髅头颅","ID":"113.wither_skeleton_wall_skull"
+},{
+    "v":113,"b":2,"n":"墙上的僵尸的头","ID":"113.zombie_wall_head"
+},{
+    "v":113,"b":2,"n":"墙上的玩家的头","ID":"113.player_wall_head","oN":"112.墙上的头"
+},{
+    "v":113,"b":2,"n":"墙上的苦力怕的头","ID":"113.creeper_wall_head","oN":"113.墙上的爬行者的头"
+},{
+    "v":113,"b":2,"n":"墙上的龙首","ID":"113.dragon_wall_head"
+},{
+    "v":113,"b":2,"n":"金合欢树苗盆栽","ID":"113.potted_acacia_sapling","oP":"113"
+},{
+    "v":113,"b":2,"n":"绒球葱盆栽","ID":"113.potted_allium","oP":"113"
+},{
+    "v":113,"b":2,"n":"蓝花美耳草盆栽","ID":"113.potted_azure_bluet","oN":"114.茜草花盆栽","oP":"113"
+},{
+    "v":113,"b":2,"n":"白桦树苗盆栽","ID":"113.potted_birch_sapling","oP":"113"
+},{
+    "v":113,"b":2,"n":"兰花盆栽","ID":"113.potted_blue_orchid","oP":"113"
+},{
+    "v":113,"b":2,"n":"棕色蘑菇盆栽","ID":"113.potted_brown_mushroom","oP":"113"
+},{
+    "v":113,"b":2,"n":"仙人掌盆栽","ID":"113.potted_cactus","oP":"113"
+},{
+    "v":113,"b":2,"n":"蒲公英盆栽","ID":"113.potted_dandelion","oP":"113"
+},{
+    "v":113,"b":2,"n":"深色橡树树苗盆栽","ID":"113.potted_dark_oak_sapling","oP":"113"
+},{
+    "v":113,"b":2,"n":"枯萎的灌木盆栽","ID":"113.potted_dead_bush","oP":"113"
+},{
+    "v":113,"b":2,"n":"蕨盆栽","ID":"113.potted_fern","oP":"113"
+},{
+    "v":113,"b":2,"n":"丛林树苗盆栽","ID":"113.potted_jungle_sapling","oP":"113"
+},{
+    "v":113,"b":2,"n":"橡树树苗盆栽","ID":"113.potted_oak_sapling","oP":"113"
+},{
+    "v":113,"b":2,"n":"橙色郁金香盆栽","ID":"113.potted_orange_tulip","oP":"113"
+},{
+    "v":113,"b":2,"n":"滨菊盆栽","ID":"113.potted_oxeye_daisy","oP":"113"
+},{
+    "v":113,"b":2,"n":"粉红色郁金香盆栽","ID":"113.potted_pink_tulip","oP":"113"
+},{
+    "v":113,"b":2,"n":"虞美人盆栽","ID":"113.potted_poppy","oP":"113"
+},{
+    "v":113,"b":2,"n":"红色蘑菇盆栽","ID":"113.potted_red_mushroom","oP":"113"
+},{
+    "v":113,"b":2,"n":"红色郁金香盆栽","ID":"113.potted_red_tulip","oP":"113"
+},{
+    "v":113,"b":2,"n":"云杉树苗盆栽","ID":"113.potted_spruce_sapling","oP":"113"
+},{
+    "v":113,"b":2,"n":"白色郁金香盆栽","ID":"113.potted_white_tulip","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的火把","ID":"113.wall_torch","oP":"113"
+},{
+    "v":113,"b":2,"n":"墙上的红石火把","ID":"113.redstone_wall_torch","oP":"113,12101"
+},{
+    "v":114,"n":"竹子","ID":"114.bamboo","t":"2","zj":"yy","dt":1
+},{
+    "v":114,"b":2,"n":"竹子盆栽","ID":"114.potted_bamboo"
+},{
+    "v":114,"b":2,"n":"竹笋","EN":"Bamboo Shoot","ID":"114.bamboo_sapling","zj":"yn"
+},{
+    "v":114,"b":1,"n":"脚手架","ID":"114.scaffolding","t":"3"
+},{
+    "v":114,"b":1,"n":"织布机","ID":"114.loom","t":"3"
+},{
+    "v":114,"b":1,"n":"木桶","ID":"114.barrel","t":"3,4"
+},{
+    "v":114,"b":1,"n":"烟熏炉","ID":"114.smoker","t":"3"
+},{
+    "v":114,"b":1,"n":"高炉","ID":"114.blast_furnace","t":"3"
+},{
+    "v":114,"b":1,"n":"制图台","ID":"114.cartography_table","t":"3"
+},{
+    "v":114,"b":1,"n":"制箭台","ID":"114.fletching_table","t":"3"
+},{
+    "v":114,"b":1,"n":"砂轮","ID":"114.grindstone","t":"3"
+},{
+    "v":114,"b":1,"n":"锻造台","ID":"114.smithing_table","t":"3"
+},{
+    "v":114,"b":1,"n":"切石机","ID":"114.stonecutter","t":"3","dt":1
+},{
+    "v":114,"b":1,"n":"讲台","ID":"114.lectern","t":"3,4"
+},{
+    "v":114,"n":"钟","ID":"114.bell","t":"5","zj":"ny"
+},{
+    "v":114,"n":"灯笼","ID":"114.lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":114,"n":"营火","ID":"114.campfire","t":"3","zj":"ny","dt":1
+},{
+    "v":114,"b":1,"n":"堆肥桶","ID":"114.composter","t":"3,4"
+},{
+    "v":114,"b":1,"n":"矢车菊","ID":"114.cornflower","t":"2","zj":"yn"
+},{
+    "v":114,"b":2,"n":"矢车菊盆栽","ID":"114.potted_cornflower"
+},{
+    "v":114,"b":1,"n":"铃兰","EN":"Lily of the Valley","ID":"114.lily_of_the_valley","t":"2","zj":"yn"
+},{
+    "v":114,"b":2,"n":"铃兰盆栽","EN":"Potted Lily of the Valley","ID":"114.potted_lily_of_the_valley"
+},{
+    "v":114,"b":1,"n":"凋灵玫瑰","ID":"114.wither_rose","t":"2","oN":"11902.凋零玫瑰","zj":"yn"
+},{
+    "v":114,"b":2,"n":"凋灵玫瑰盆栽","ID":"114.potted_wither_rose","oN":"11902.凋零玫瑰盆栽"
+},{
+    "v":114,"n":"云杉木告示牌","ID":"114.spruce_sign","t":"3","oP":"116,117","zj":"yy"
+},{
+    "v":114,"n":"白桦木告示牌","ID":"114.birch_sign","t":"3","oP":"116,117","zj":"yy"
+},{
+    "v":114,"n":"丛林木告示牌","ID":"114.jungle_sign","t":"3","oP":"116,117","zj":"yy"
+},{
+    "v":114,"n":"金合欢木告示牌","ID":"114.acacia_sign","t":"3","oP":"116,117","zj":"yy"
+},{
+    "v":114,"n":"深色橡木告示牌","ID":"114.dark_oak_sign","t":"3","oP":"116,117","zj":"yy"
+},{
+    "v":114,"b":2,"n":"墙上的云杉木告示牌","ID":"114.spruce_wall_sign","oP":"116","zj":"yn"
+},{
+    "v":114,"b":2,"n":"墙上的白桦木告示牌","ID":"114.birch_wall_sign","oP":"116","zj":"yn"
+},{
+    "v":114,"b":2,"n":"墙上的丛林木告示牌","ID":"114.jungle_wall_sign","oP":"116","zj":"yn"
+},{
+    "v":114,"b":2,"n":"墙上的金合欢木告示牌","ID":"114.acacia_wall_sign","oP":"116","zj":"yn"
+},{
+    "v":114,"b":2,"n":"墙上的深色橡木告示牌","ID":"114.dark_oak_wall_sign","oP":"116","zj":"yn"
+},{
+    "v":114,"b":1,"n":"磨制花岗岩楼梯","ID":"114.polished_granite_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"平滑红砂岩楼梯","ID":"114.smooth_red_sandstone_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"苔石砖楼梯","ID":"114.mossy_stone_brick_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"磨制闪长岩楼梯","ID":"114.polished_diorite_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"苔石楼梯","ID":"114.mossy_cobblestone_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"末地石砖楼梯","ID":"114.end_stone_brick_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"石头楼梯","ID":"114.stone_stairs","t":"0","oN":"115.石楼梯"
+},{
+    "v":114,"b":1,"n":"平滑砂岩楼梯","ID":"114.smooth_sandstone_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"平滑石英楼梯","ID":"114.smooth_quartz_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"花岗岩楼梯","ID":"114.granite_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"安山岩楼梯","ID":"114.andesite_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"红色下界砖楼梯","ID":"114.red_nether_brick_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"磨制安山岩楼梯","ID":"114.polished_andesite_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"闪长岩楼梯","ID":"114.diorite_stairs","t":"0"
+},{
+    "v":114,"b":1,"n":"石头台阶","ID":"114.stone_slab","t":"0","oN":"115.石台阶"
+},{
+    "v":114,"b":1,"n":"切制砂岩台阶","ID":"114.cut_sandstone_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"切制红砂岩台阶","ID":"114.cut_red_sandstone_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"磨制花岗岩台阶","ID":"114.polished_granite_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"平滑红砂岩台阶","ID":"114.smooth_red_sandstone_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"苔石砖台阶","ID":"114.mossy_stone_brick_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"磨制闪长岩台阶","ID":"114.polished_diorite_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"苔石台阶","ID":"114.mossy_cobblestone_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"末地石砖台阶","ID":"114.end_stone_brick_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"平滑砂岩台阶","ID":"114.smooth_sandstone_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"平滑石英台阶","ID":"114.smooth_quartz_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"花岗岩台阶","ID":"114.granite_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"安山岩台阶","ID":"114.andesite_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"红色下界砖台阶","ID":"114.red_nether_brick_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"磨制安山岩台阶","ID":"114.polished_andesite_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"闪长岩台阶","ID":"114.diorite_slab","t":"0"
+},{
+    "v":114,"b":1,"n":"红砖墙","ID":"114.brick_wall","t":"0","oN":"116.砖块墙"
+},{
+    "v":114,"b":1,"n":"海晶石墙","ID":"114.prismarine_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"红砂岩墙","ID":"114.red_sandstone_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"苔石砖墙","ID":"114.mossy_stone_brick_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"花岗岩墙","ID":"114.granite_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"石砖墙","ID":"114.stone_brick_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"下界砖墙","ID":"114.nether_brick_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"安山岩墙","ID":"114.andesite_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"红色下界砖墙","ID":"114.red_nether_brick_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"砂岩墙","ID":"114.sandstone_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"末地石砖墙","ID":"114.end_stone_brick_wall","t":"0"
+},{
+    "v":114,"b":1,"n":"闪长岩墙","ID":"114.diorite_wall","t":"0"
+},{
+    "v":114,"i":2,"n":"甜浆果","ID":"114.sweet_berries","t":"2,7"
+},{
+    "v":114,"b":2,"n":"甜浆果丛","ID":"114.sweet_berry_bush","t":"2","zj":"yn","dt":1
+},{
+    "v":114,"b":1,"n":"拼图方块","EN":"Jigsaw Block","ID":"114.jigsaw","tC":"紫"
+},{
+    "v":114,"i":2,"n":"弩","ID":"114.crossbow","t":"6","dt":1
+},{
+    "v":114,"i":2,"n":"蓝色染料","ID":"114.blue_dye","t":"8","oP":"12108"
+},{
+    "v":114,"i":2,"n":"棕色染料","ID":"114.brown_dye","t":"8","oP":"12108"
+},{
+    "v":114,"i":2,"n":"黑色染料","ID":"114.black_dye","t":"8","oP":"12108"
+},{
+    "v":114,"i":2,"n":"白色染料","ID":"114.white_dye","t":"8","oP":"12108"
+},{
+    "v":114,"i":2,"n":"皮革马铠","ID":"114.leather_horse_armor","t":"6"
+},{
+    "v":114,"i":2,"n":"猫刷怪蛋","ID":"114.cat_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":114,"i":2,"n":"狐狸刷怪蛋","ID":"114.fox_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":114,"i":2,"n":"熊猫刷怪蛋","ID":"114.panda_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":114,"i":2,"n":"掠夺者刷怪蛋","ID":"114.pillager_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":114,"i":2,"n":"劫掠兽刷怪蛋","ID":"114.ravager_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":114,"i":2,"n":"行商羊驼刷怪蛋","ID":"114.trader_llama_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":114,"i":2,"n":"流浪商人刷怪蛋","ID":"114.wandering_trader_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":114,"i":2,"n":"谜之炖菜","ID":"114.suspicious_stew","t":"7","oN":"11902.迷之炖菜"
+},{
+    "v":114,"i":2,"n":"花朵盾徽旗帜图案","EN":"Flower Charge Banner Pattern","ID":"114.flower_banner_pattern","t":"8","oN":"12101.旗帜图案（花朵盾徽）","oP":"12101"
+},{
+    "v":114,"i":2,"n":"苦力怕盾徽旗帜图案","EN":"Creeper Charge Banner Pattern","ID":"114.creeper_banner_pattern","t":"8","oN":"12101.旗帜图案（苦力怕盾徽）","oP":"12101","tC":"黄"
+},{
+    "v":114,"i":2,"n":"头颅盾徽旗帜图案","EN":"Skull Charge Banner Pattern","ID":"114.skull_banner_pattern","t":"8","oN":"12101.旗帜图案（头颅盾徽）","oP":"12101","tC":"淡蓝"
+},{
+    "v":114,"i":2,"n":"Mojang徽标旗帜图案","EN":"Thing Banner Pattern","ID":"114.mojang_banner_pattern","t":"8","oN":"12101.旗帜图案（Mojang盾徽）","oP":"12101","tC":"淡蓝"
+},{
+    "v":114,"i":2,"n":"地球旗帜图案","ID":"114.globe_banner_pattern","t":"8","oN":"12101.旗帜图案（地球）","oP":"12101"
+},{
+    "v":115,"b":1,"n":"蜂巢","ID":"115.bee_nest","t":"2,3"
+},{
+    "v":115,"b":1,"n":"蜂箱","ID":"115.beehive","t":"3"
+},{
+    "v":115,"b":1,"n":"蜂蜜块","ID":"115.honey_block","t":"2,4"
+},{
+    "v":115,"b":1,"n":"蜜脾块","ID":"115.honeycomb_block","t":"2"
+},{
+    "v":115,"i":2,"n":"蜜脾","ID":"115.honeycomb","t":"8"
+},{
+    "v":115,"i":2,"n":"蜜蜂刷怪蛋","ID":"115.bee_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":115,"i":2,"n":"蜂蜜瓶","ID":"115.honey_bottle","t":"7"
+},{
+    "v":116,"b":1,"n":"绯红菌岩","ID":"116.crimson_nylium","t":"2"
+},{
+    "v":116,"b":1,"n":"绯红菌柄","ID":"116.crimson_stem","t":"0,2"
+},{
+    "v":116,"b":1,"n":"绯红菌核","ID":"116.crimson_hyphae","t":"0"
+},{
+    "v":116,"b":1,"n":"绯红木板","ID":"116.crimson_planks","t":"0"
+},{
+    "v":116,"b":1,"n":"去皮绯红菌柄","ID":"116.stripped_crimson_stem","t":"0"
+},{
+    "v":116,"b":1,"n":"去皮绯红菌核","ID":"116.stripped_crimson_hyphae","t":"0"
+},{
+    "v":116,"b":1,"n":"绯红木台阶","ID":"116.crimson_slab","t":"0"
+},{
+    "v":116,"b":1,"n":"绯红木楼梯","ID":"116.crimson_stairs","t":"0"
+},{
+    "v":116,"n":"绯红木告示牌","ID":"116.crimson_sign","t":"0","oP":"117","zj":"yy"
+},{
+    "v":116,"b":2,"n":"墙上的绯红木告示牌","ID":"116.crimson_wall_sign","zj":"yn"
+},{
+    "v":116,"n":"绯红木门","ID":"116.crimson_door","t":"0","zj":"yy"
+},{
+    "v":116,"b":1,"n":"绯红木栅栏","ID":"116.crimson_fence","t":"0"
+},{
+    "v":116,"b":1,"n":"绯红木按钮","ID":"116.crimson_button","t":"0"
+},{
+    "v":116,"b":1,"n":"绯红木活板门","ID":"116.crimson_trapdoor","t":"0"
+},{
+    "v":116,"b":1,"n":"绯红木栅栏门","ID":"116.crimson_fence_gate","t":"0"
+},{
+    "v":116,"b":1,"n":"绯红木压力板","ID":"116.crimson_pressure_plate","t":"0"
+},{
+    "v":116,"b":1,"n":"绯红菌","ID":"116.crimson_fungus","t":"2","zj":"yn"
+},{
+    "v":116,"b":2,"n":"绯红菌盆栽","ID":"116.potted_crimson_fungus"
+},{
+    "v":116,"b":1,"n":"绯红菌索","ID":"116.crimson_roots","t":"2","zj":"yn"
+},{
+    "v":116,"b":2,"n":"绯红菌索盆栽","ID":"116.potted_crimson_roots"
+},{
+    "v":116,"b":1,"n":"诡异菌岩","ID":"116.warped_nylium","t":"2"
+},{
+    "v":116,"b":1,"n":"诡异菌柄","ID":"116.warped_stem","t":"0,2"
+},{
+    "v":116,"b":1,"n":"诡异菌核","ID":"116.warped_hyphae","t":"0"
+},{
+    "v":116,"b":1,"n":"诡异木板","ID":"116.warped_planks","t":"0"
+},{
+    "v":116,"b":1,"n":"去皮诡异菌核","ID":"116.stripped_warped_hyphae","t":"0"
+},{
+    "v":116,"b":1,"n":"去皮诡异菌柄","ID":"116.stripped_warped_stem","t":"0"
+},{
+    "v":116,"b":1,"n":"诡异木台阶","ID":"116.warped_slab","t":"0"
+},{
+    "v":116,"b":1,"n":"诡异木楼梯","ID":"116.warped_stairs","t":"0"
+},{
+    "v":116,"n":"诡异木告示牌","ID":"116.warped_sign","t":"0","oP":"117","zj":"yy"
+},{
+    "v":116,"b":2,"n":"墙上的诡异木告示牌","ID":"116.warped_wall_sign","t":"0","zj":"yn"
+},{
+    "v":116,"n":"诡异木门","ID":"116.warped_door","t":"0","zj":"yy"
+},{
+    "v":116,"b":1,"n":"诡异木栅栏","ID":"116.warped_fence","t":"0"
+},{
+    "v":116,"b":1,"n":"诡异木按钮","ID":"116.warped_button","t":"0"
+},{
+    "v":116,"b":1,"n":"诡异木活板门","ID":"116.warped_trapdoor","t":"0"
+},{
+    "v":116,"b":1,"n":"诡异木栅栏门","ID":"116.warped_fence_gate","t":"0"
+},{
+    "v":116,"b":1,"n":"诡异木压力板","ID":"116.warped_pressure_plate","t":"0"
+},{
+    "v":116,"b":1,"n":"诡异菌","ID":"116.warped_fungus","t":"2","zj":"yn"
+},{
+    "v":116,"b":2,"n":"诡异菌盆栽","ID":"116.potted_warped_fungus"
+},{
+    "v":116,"b":1,"n":"诡异菌索","ID":"116.warped_roots","t":"2","zj":"yn"
+},{
+    "v":116,"b":2,"n":"诡异菌索盆栽","ID":"116.potted_warped_roots"
+},{
+    "v":116,"b":1,"n":"诡异疣块","ID":"116.warped_wart_block","t":"2"
+},{
+    "v":116,"i":2,"n":"诡异菌钓竿","EN":"Warped Fungus on a Stick","ID":"116.warped_fungus_on_a_stick","t":"5"
+},{
+    "v":116,"b":1,"n":"下界合金块","EN":"Block of Netherite","ID":"116.netherite_block","t":"0"
+},{
+    "v":116,"b":1,"n":"远古残骸","ID":"116.ancient_debris","t":"2"
+},{
+    "v":116,"i":2,"n":"下界合金锭","ID":"116.netherite_ingot","t":"8"
+},{
+    "v":116,"i":2,"n":"下界合金碎片","ID":"116.netherite_scrap","t":"8"
+},{
+    "v":116,"i":2,"n":"下界合金剑","ID":"116.netherite_sword","t":"6"
+},{
+    "v":116,"i":2,"n":"下界合金锹","ID":"116.netherite_shovel","t":"5"
+},{
+    "v":116,"i":2,"n":"下界合金镐","ID":"116.netherite_pickaxe","t":"5"
+},{
+    "v":116,"i":2,"n":"下界合金斧","ID":"116.netherite_axe","t":"5"
+},{
+    "v":116,"i":2,"n":"下界合金锄","ID":"116.netherite_hoe","t":"5"
+},{
+    "v":116,"i":2,"n":"下界合金头盔","ID":"116.netherite_helmet","t":"6"
+},{
+    "v":116,"i":2,"n":"下界合金胸甲","ID":"116.netherite_chestplate","t":"6"
+},{
+    "v":116,"i":2,"n":"下界合金护腿","ID":"116.netherite_leggings","t":"6"
+},{
+    "v":116,"i":2,"n":"下界合金靴子","ID":"116.netherite_boots","t":"6"
+},{
+    "v":116,"b":1,"n":"哭泣的黑曜石","ID":"116.crying_obsidian","t":"2"
+},{
+    "v":116,"b":1,"n":"裂纹下界砖块","ID":"116.cracked_nether_bricks","t":"0"
+},{
+    "v":116,"b":1,"n":"雕纹下界砖块","ID":"116.chiseled_nether_bricks","t":"0","oN":"11902.錾制下界砖块"
+},{
+    "v":116,"b":1,"n":"黑石","ID":"116.blackstone","t":"2"
+},{
+    "v":116,"b":1,"n":"黑石台阶","ID":"116.blackstone_slab","t":"0"
+},{
+    "v":116,"b":1,"n":"黑石楼梯","ID":"116.blackstone_stairs","t":"0"
+},{
+    "v":116,"b":1,"n":"黑石墙","ID":"116.blackstone_wall","t":"0"
+},{
+    "v":116,"b":1,"n":"镶金黑石","ID":"116.gilded_blackstone","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石","ID":"116.polished_blackstone","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石台阶","ID":"116.polished_blackstone_slab","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石楼梯","ID":"116.polished_blackstone_stairs","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石墙","ID":"116.polished_blackstone_wall","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石按钮","ID":"116.polished_blackstone_button","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石压力板","ID":"116.polished_blackstone_pressure_plate","t":"0"
+},{
+    "v":116,"b":1,"n":"雕纹磨制黑石","ID":"116.chiseled_polished_blackstone","t":"0","oN":"11902.錾制磨制黑石"
+},{
+    "v":116,"b":1,"n":"磨制黑石砖","ID":"116.polished_blackstone_bricks","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石砖台阶","ID":"116.polished_blackstone_brick_slab","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石砖楼梯","ID":"116.polished_blackstone_brick_stairs","t":"0"
+},{
+    "v":116,"b":1,"n":"磨制黑石砖墙","ID":"116.polished_blackstone_brick_wall","t":"0"
+},{
+    "v":116,"b":1,"n":"裂纹磨制黑石砖","ID":"116.cracked_polished_blackstone_bricks","t":"0"
+},{
+    "v":116,"b":1,"n":"下界金矿石","ID":"116.nether_gold_ore","t":"2"
+},{
+    "v":116,"b":1,"n":"玄武岩","ID":"116.basalt","t":"2"
+},{
+    "v":116,"b":1,"n":"磨制玄武岩","ID":"116.polished_basalt","t":"0"
+},{
+    "v":116,"b":1,"n":"石英砖","ID":"116.quartz_bricks","t":"0"
+},{
+    "v":116,"b":1,"n":"下界苗","ID":"116.nether_sprouts","t":"2","zj":"yn"
+},{
+    "v":116,"n":"垂泪藤","ID":"116.weeping_vines","t":"2","zj":"yy"
+},{
+    "v":116,"b":2,"n":"垂泪藤植株","ID":"116.weeping_vines_plant","zj":"yn"
+},{
+    "v":116,"n":"缠怨藤","ID":"116.twisting_vines","t":"2","zj":"yy"
+},{
+    "v":116,"b":2,"n":"缠怨藤植株","ID":"116.twisting_vines_plant","zj":"yn"
+},{
+    "v":116,"b":1,"n":"灵魂火把","ID":"116.soul_torch","t":"3","zj":"yn"
+},{
+    "v":116,"b":2,"n":"墙上的灵魂火把","ID":"116.soul_wall_torch"
+},{
+    "v":116,"n":"灵魂灯笼","ID":"116.soul_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":116,"n":"灵魂营火","ID":"116.soul_campfire","t":"3","zj":"ny","dt":1
+},{
+    "v":116,"b":1,"n":"铁链","oN":"12108.锁链","ID":"116.chain,12109.iron_chain","t":"0,3","zj":"yn"
+},{
+    "v":116,"b":1,"n":"标靶","ID":"116.target","t":"4"
+},{
+    "v":116,"b":1,"n":"菌光体","ID":"116.shroomlight","t":"2,3"
+},{
+    "v":116,"b":1,"n":"磁石","ID":"116.lodestone","t":"3"
+},{
+    "v":116,"b":1,"n":"重生锚","ID":"116.respawn_anchor","t":"3"
+},{
+    "v":116,"b":1,"n":"灵魂土","ID":"116.soul_soil","t":"2"
+},{
+    "v":116,"b":2,"n":"灵魂火","ID":"116.soul_fire","zj":"yn","dt":1
+},{
+    "v":116,"i":2,"n":"疣猪兽刷怪蛋","ID":"116.hoglin_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":116,"i":2,"n":"猪灵刷怪蛋","ID":"116.piglin_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":116,"i":2,"n":"炽足兽刷怪蛋","ID":"116.strider_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":116,"i":2,"n":"僵尸疣猪兽刷怪蛋","ID":"116.zoglin_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":116,"i":2,"n":"音乐唱片（Lena Raine - Pigstep）","EN":"Music Disc (Lena Raine - Pigstep)","ID":"116.music_disc_pigstep","t":"5","tC":"淡蓝"
+},{
+    "v":116,"i":2,"n":"猪鼻旗帜图案","EN":"Snout Banner Pattern","ID":"116.piglin_banner_pattern","t":"8","oN":"12101.旗帜图案（猪鼻）","oP":"12101","tC":"黄"
+},{
+    "v":11602,"i":2,"n":"猪灵蛮兵刷怪蛋","ID":"11602.piglin_brute_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":117,"b":1,"n":"避雷针","ID":"117.lightning_rod","t":"3,4"
+},{
+    "v":117,"i":2,"n":"望远镜","ID":"117.spyglass","t":"5"
+},{
+    "v":117,"i":2,"n":"发光浆果","ID":"117.glow_berries","t":"2,7"
+},{
+    "v":117,"b":2,"n":"洞穴藤蔓","ID":"117.cave_vines","zj":"yn","dt":1
+},{
+    "v":117,"b":2,"n":"洞穴藤蔓植株","ID":"117.cave_vines_plant","zj":"yn","dt":1
+},{
+    "v":117,"b":1,"n":"杜鹃花丛","ID":"117.azalea","t":"2"
+},{
+    "v":117,"b":2,"n":"杜鹃花丛盆栽","EN":"Potted Azalea","ID":"117.potted_azalea_bush"
+},{
+    "v":117,"b":1,"n":"盛开的杜鹃花丛","ID":"117.flowering_azalea","t":"2"
+},{
+    "v":117,"b":2,"n":"盛开的杜鹃花丛盆栽","EN":"Potted Flowering Azalea","ID":"117.potted_flowering_azalea_bush"
+},{
+    "v":117,"b":1,"n":"杜鹃树叶","ID":"117.azalea_leaves","t":"2"
+},{
+    "v":117,"b":1,"n":"盛开的杜鹃树叶","ID":"117.flowering_azalea_leaves","t":"2"
+},{
+    "v":117,"b":1,"n":"覆地苔藓","ID":"117.moss_carpet","t":"2","oN":"11902.苔藓地毯"
+},{
+    "v":117,"b":1,"n":"苔藓块","ID":"117.moss_block","t":"2"
+},{
+    "v":117,"b":1,"n":"垂根","ID":"117.hanging_roots","t":"2","zj":"yn"
+},{
+    "v":117,"b":1,"n":"孢子花","ID":"117.spore_blossom","t":"2"
+},{
+    "v":117,"b":1,"n":"小型垂滴叶","ID":"117.small_dripleaf","t":"2"
+},{
+    "v":117,"b":1,"n":"大型垂滴叶","ID":"117.big_dripleaf","t":"2,4"
+},{
+    "v":117,"b":2,"n":"大型垂滴叶茎","ID":"117.big_dripleaf_stem","zj":"yn"
+},{
+    "v":117,"b":1,"n":"发光地衣","ID":"117.glow_lichen","t":"2","zj":"yn"
+},{
+    "v":117,"i":2,"n":"荧光物品展示框","ID":"117.glow_item_frame","t":"3"
+},{
+    "v":117,"n":"蜡烛","ID":"117.candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"白色蜡烛","ID":"117.white_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"橙色蜡烛","ID":"117.orange_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"品红色蜡烛","ID":"117.magenta_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"淡蓝色蜡烛","ID":"117.light_blue_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"黄色蜡烛","ID":"117.yellow_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"黄绿色蜡烛","ID":"117.lime_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"粉红色蜡烛","ID":"117.pink_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"灰色蜡烛","ID":"117.gray_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"淡灰色蜡烛","ID":"117.light_gray_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"青色蜡烛","ID":"117.cyan_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"紫色蜡烛","ID":"117.purple_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"蓝色蜡烛","ID":"117.blue_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"棕色蜡烛","ID":"117.brown_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"绿色蜡烛","ID":"117.green_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"红色蜡烛","ID":"117.red_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"n":"黑色蜡烛","ID":"117.black_candle","t":"1,3","zj":"ny","dt":1
+},{
+    "v":117,"b":2,"n":"插上蜡烛的蛋糕","EN":"Cake with Candle","ID":"117.candle_cake"
+},{
+    "v":117,"b":2,"n":"插上白色蜡烛的蛋糕","EN":"Cake with White Candle","ID":"117.white_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上橙色蜡烛的蛋糕","EN":"Cake with Orange Candle","ID":"117.orange_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上品红色蜡烛的蛋糕","EN":"Cake with Magenta Candle","ID":"117.magenta_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上淡蓝色蜡烛的蛋糕","EN":"Cake with Light Blue Candle","ID":"117.light_blue_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上黄色蜡烛的蛋糕","EN":"Cake with Yellow Candle","ID":"117.yellow_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上黄绿色蜡烛的蛋糕","EN":"Cake with Lime Candle","ID":"117.lime_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上粉红色蜡烛的蛋糕","EN":"Cake with Pink Candle","ID":"117.pink_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上灰色蜡烛的蛋糕","EN":"Cake with Gray Candle","ID":"117.gray_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上淡灰色蜡烛的蛋糕","EN":"Cake with Light Gray Candle","ID":"117.light_gray_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上青色蜡烛的蛋糕","EN":"Cake with Cyan Candle","ID":"117.cyan_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上紫色蜡烛的蛋糕","EN":"Cake with Purple Candle","ID":"117.purple_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上蓝色蜡烛的蛋糕","EN":"Cake with Blue Candle","ID":"117.blue_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上棕色蜡烛的蛋糕","EN":"Cake with Brown Candle","ID":"117.brown_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上绿色蜡烛的蛋糕","EN":"Cake with Green Candle","ID":"117.green_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上红色蜡烛的蛋糕","EN":"Cake with Red Candle","ID":"117.red_candle_cake"
+},{
+    "v":117,"b":2,"n":"插上黑色蜡烛的蛋糕","EN":"Cake with Black Candle","ID":"117.black_candle_cake"
+},{
+    "v":117,"i":2,"n":"紫水晶碎片","ID":"117.amethyst_shard","t":"8"
+},{
+    "v":117,"b":1,"n":"小型紫晶芽","ID":"117.small_amethyst_bud","t":"2","zj":"yn"
+},{
+    "v":117,"b":1,"n":"中型紫晶芽","ID":"117.medium_amethyst_bud","t":"2","zj":"yn"
+},{
+    "v":117,"b":1,"n":"大型紫晶芽","ID":"117.large_amethyst_bud","t":"2","zj":"yn"
+},{
+    "v":117,"b":1,"n":"紫水晶簇","ID":"117.amethyst_cluster","t":"2","zj":"yn"
+},{
+    "v":117,"b":1,"n":"滴水石锥","ID":"117.pointed_dripstone","t":"2","zj":"yn"
+},{
+    "v":117,"i":2,"n":"粗铁","ID":"117.raw_iron","t":"8"
+},{
+    "v":117,"i":2,"n":"粗铜","ID":"117.raw_copper","t":"8"
+},{
+    "v":117,"i":2,"n":"粗金","ID":"117.raw_gold","t":"8"
+},{
+    "v":117,"i":2,"n":"铜锭","ID":"117.copper_ingot","t":"8"
+},{
+    "v":117,"b":2,"n":"细雪","ID":"117.powder_snow"
+},{
+    "v":117,"i":2,"n":"细雪桶","ID":"117.powder_snow_bucket","t":"5"
+},{
+    "v":117,"b":1,"n":"平滑玄武岩","ID":"117.smooth_basalt","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩","ID":"117.deepslate","t":"0,2"
+},{
+    "v":117,"b":1,"n":"深板岩圆石","ID":"117.cobbled_deepslate","t":"0"
+},{
+    "v":117,"b":1,"n":"磨制深板岩","ID":"117.polished_deepslate","t":"0"
+},{
+    "v":117,"b":1,"n":"虫蚀深板岩","ID":"117.infested_deepslate","t":"0","oN":"11902.被虫蚀的深板岩"
+},{
+    "v":117,"b":1,"n":"深板岩砖","ID":"117.deepslate_bricks","t":"0"
+},{
+    "v":117,"b":1,"n":"裂纹深板岩砖","ID":"117.cracked_deepslate_bricks","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩瓦","ID":"117.deepslate_tiles","t":"0"
+},{
+    "v":117,"b":1,"n":"裂纹深板岩瓦","ID":"117.cracked_deepslate_tiles","t":"0"
+},{
+    "v":117,"b":1,"n":"雕纹深板岩","ID":"117.chiseled_deepslate","t":"0","oN":"11902.錾制深板岩"
+},{
+    "v":117,"b":1,"n":"深板岩圆石墙","ID":"117.cobbled_deepslate_wall","t":"0"
+},{
+    "v":117,"b":1,"n":"磨制深板岩墙","ID":"117.polished_deepslate_wall","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩砖墙","ID":"117.deepslate_brick_wall","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩瓦墙","ID":"117.deepslate_tile_wall","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩圆石楼梯","ID":"117.cobbled_deepslate_stairs","t":"0"
+},{
+    "v":117,"b":1,"n":"磨制深板岩楼梯","ID":"117.polished_deepslate_stairs","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩砖楼梯","ID":"117.deepslate_brick_stairs","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩瓦楼梯","ID":"117.deepslate_tile_stairs","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩圆石台阶","ID":"117.cobbled_deepslate_slab","t":"0"
+},{
+    "v":117,"b":1,"n":"磨制深板岩台阶","ID":"117.polished_deepslate_slab","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩砖台阶","ID":"117.deepslate_brick_slab","t":"0"
+},{
+    "v":117,"b":1,"n":"深板岩瓦台阶","ID":"117.deepslate_tile_slab","t":"0"
+},{
+    "v":117,"b":1,"n":"方解石","ID":"117.calcite","t":"2"
+},{
+    "v":117,"b":1,"n":"凝灰岩","ID":"117.tuff","t":"2"
+},{
+    "v":117,"b":1,"n":"滴水石块","ID":"117.dripstone_block","t":"2"
+},{
+    "v":117,"b":1,"n":"缠根泥土","ID":"117.rooted_dirt","t":"2"
+},{
+    "v":117,"b":1,"n":"深层煤矿石","ID":"117.deepslate_coal_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"深层铁矿石","ID":"117.deepslate_iron_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"铜矿石","ID":"117.copper_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"深层铜矿石","ID":"117.deepslate_copper_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"深层金矿石","ID":"117.deepslate_gold_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"深层红石矿石","ID":"117.deepslate_redstone_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"深层绿宝石矿石","ID":"117.deepslate_emerald_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"深层青金石矿石","EN":"Deepslate Lapis Lazuli Ore","ID":"117.deepslate_lapis_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"深层钻石矿石","ID":"117.deepslate_diamond_ore","t":"2"
+},{
+    "v":117,"b":1,"n":"粗铁块","EN":"Block of Raw Iron","ID":"117.raw_iron_block","t":"2"
+},{
+    "v":117,"b":1,"n":"粗铜块","EN":"Block of Raw Copper","ID":"117.raw_copper_block","t":"2"
+},{
+    "v":117,"b":1,"n":"粗金块","EN":"Block of Raw Gold","ID":"117.raw_gold_block","t":"2"
+},{
+    "v":117,"b":1,"n":"紫水晶块","EN":"Block of Amethyst","ID":"117.amethyst_block","t":"0,2,4"
+},{
+    "v":117,"b":1,"n":"紫水晶母岩","ID":"117.budding_amethyst","t":"2"
+},{
+    "v":117,"b":1,"n":"铜块","EN":"Block of Copper","ID":"117.copper_block","t":"0"
+},{
+    "v":117,"b":1,"n":"斑驳的铜块","ID":"117.exposed_copper","t":"0"
+},{
+    "v":117,"b":1,"n":"锈蚀的铜块","ID":"117.weathered_copper","t":"0"
+},{
+    "v":117,"b":1,"n":"氧化的铜块","ID":"117.oxidized_copper","t":"0"
+},{
+    "v":117,"b":1,"n":"切制铜块","ID":"117.cut_copper","t":"0"
+},{
+    "v":117,"b":1,"n":"斑驳的切制铜块","ID":"117.exposed_cut_copper","t":"0"
+},{
+    "v":117,"b":1,"n":"锈蚀的切制铜块","ID":"117.weathered_cut_copper","t":"0"
+},{
+    "v":117,"b":1,"n":"氧化的切制铜块","ID":"117.oxidized_cut_copper","t":"0"
+},{
+    "v":117,"b":1,"n":"切制铜楼梯","ID":"117.cut_copper_stairs","t":"0"
+},{
+    "v":117,"b":1,"n":"斑驳的切制铜楼梯","ID":"117.exposed_cut_copper_stairs","t":"0"
+},{
+    "v":117,"b":1,"n":"锈蚀的切制铜楼梯","ID":"117.weathered_cut_copper_stairs","t":"0"
+},{
+    "v":117,"b":1,"n":"氧化的切制铜楼梯","ID":"117.oxidized_cut_copper_stairs","t":"0"
+},{
+    "v":117,"b":1,"n":"切制铜台阶","ID":"117.cut_copper_slab","t":"0"
+},{
+    "v":117,"b":1,"n":"斑驳的切制铜台阶","ID":"117.exposed_cut_copper_slab","t":"0"
+},{
+    "v":117,"b":1,"n":"锈蚀的切制铜台阶","ID":"117.weathered_cut_copper_slab","t":"0"
+},{
+    "v":117,"b":1,"n":"氧化的切制铜台阶","ID":"117.oxidized_cut_copper_slab","t":"0"
+},{
+    "v":117,"b":1,"n":"涂蜡的铜块","EN":"Waxed Block of Copper","ID":"117.waxed_copper_block","t":"0","oN":"12001.涂蜡铜块"
+},{
+    "v":117,"b":1,"n":"涂蜡的斑驳铜块","ID":"117.waxed_exposed_copper","t":"0","oN":"12001.斑驳的涂蜡铜块"
+},{
+    "v":117,"b":1,"n":"涂蜡的锈蚀铜块","ID":"117.waxed_weathered_copper","t":"0","oN":"12001.锈蚀的涂蜡铜块"
+},{
+    "v":117,"b":1,"n":"涂蜡的氧化铜块","ID":"117.waxed_oxidized_copper","t":"0","oN":"12001.氧化的涂蜡铜块"
+},{
+    "v":117,"b":1,"n":"涂蜡的切制铜块","ID":"117.waxed_cut_copper","t":"0","oN":"12001.涂蜡切制铜块"
+},{
+    "v":117,"b":1,"n":"涂蜡的斑驳切制铜块","ID":"117.waxed_exposed_cut_copper","t":"0","oN":"12001.斑驳的涂蜡切制铜块"
+},{
+    "v":117,"b":1,"n":"涂蜡的锈蚀切制铜块","ID":"117.waxed_weathered_cut_copper","t":"0","oN":"12001.锈蚀的涂蜡切制铜块"
+},{
+    "v":117,"b":1,"n":"涂蜡的氧化切制铜块","ID":"117.waxed_oxidized_cut_copper","t":"0","oN":"12001.氧化的涂蜡切制铜块"
+},{
+    "v":117,"b":1,"n":"涂蜡的切制铜楼梯","ID":"117.waxed_cut_copper_stairs","t":"0","oN":"12001.涂蜡切制铜楼梯"
+},{
+    "v":117,"b":1,"n":"涂蜡的斑驳切制铜楼梯","ID":"117.waxed_exposed_cut_copper_stairs","t":"0","oN":"12001.斑驳的涂蜡切制铜楼梯"
+},{
+    "v":117,"b":1,"n":"涂蜡的锈蚀切制铜楼梯","ID":"117.waxed_weathered_cut_copper_stairs","t":"0","oN":"12001.锈蚀的涂蜡切制铜楼梯"
+},{
+    "v":117,"b":1,"n":"涂蜡的氧化切制铜楼梯","ID":"117.waxed_oxidized_cut_copper_stairs","t":"0","oN":"12001.氧化的涂蜡切制铜楼梯"
+},{
+    "v":117,"b":1,"n":"涂蜡的切制铜台阶","ID":"117.waxed_cut_copper_slab","t":"0","oN":"12001.涂蜡切制铜台阶"
+},{
+    "v":117,"b":1,"n":"涂蜡的斑驳切制铜台阶","ID":"117.waxed_exposed_cut_copper_slab","t":"0","oN":"12001.斑驳的涂蜡切制铜台阶"
+},{
+    "v":117,"b":1,"n":"涂蜡的锈蚀切制铜台阶","ID":"117.waxed_weathered_cut_copper_slab","t":"0","oN":"12001.锈蚀的涂蜡切制铜台阶"
+},{
+    "v":117,"b":1,"n":"涂蜡的氧化切制铜台阶","ID":"117.waxed_oxidized_cut_copper_slab","t":"0","oN":"12001.氧化的涂蜡切制铜台阶"
+},{
+    "v":117,"i":2,"n":"美西螈桶","EN":"Bucket of Axolotl","ID":"117.axolotl_bucket","t":"5"
+},{
+    "v":117,"i":2,"n":"荧光墨囊","ID":"117.glow_ink_sac","t":"8"
+},{
+    "v":117,"i":2,"n":"美西螈刷怪蛋","ID":"117.axolotl_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":117,"i":2,"n":"发光鱿鱼刷怪蛋","ID":"117.glow_squid_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":117,"i":2,"n":"山羊刷怪蛋","ID":"117.goat_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":117,"b":1,"n":"遮光玻璃","ID":"117.tinted_glass","t":"1"
+},{
+    "v":117,"n":"光源方块","ID":"117.light","zj":"yy","dt":1
+},{
+    "v":117,"i":2,"n":"收纳袋","ID":"117.bundle","t":"5","oP":"12101","dt":1
+},{
+    "v":117,"b":2,"n":"装有熔岩的炼药锅","ID":"117.lava_cauldron","oN":"109.装有岩浆的炼药锅"
+},{
+    "v":117,"b":2,"n":"装有细雪的炼药锅","ID":"117.powder_snow_cauldron"
+},{
+    "v":118,"i":2,"n":"音乐唱片（Lena Raine - otherside）","EN":"Music Disc (Lena Raine - otherside)","ID":"118.music_disc_otherside","t":"5","tC":"淡蓝"
+},{
+    "v":119,"i":2,"n":"音乐唱片（Samuel Åberg - 5）","EN":"Music Disc (Samuel Åberg - 5)","ID":"119.music_disc_5","t":"5","tC":"黄"
+},{
+    "v":119,"i":2,"n":"唱片残片（音乐唱片 - 5）","EN":"Disc Fragment (Music Disk - 5)","ID":"119.disc_fragment_5","t":"8","tC":"黄"
+},{
+    "v":119,"b":1,"n":"青蛙卵","ID":"119.frogspawn","t":"2","zj":"yn"
+},{
+    "v":119,"b":1,"n":"赭黄蛙明灯","ID":"119.ochre_froglight","t":"2,3"
+},{
+    "v":119,"b":1,"n":"青翠蛙明灯","ID":"119.verdant_froglight","t":"2,3"
+},{
+    "v":119,"b":1,"n":"珠光蛙明灯","ID":"119.pearlescent_froglight","t":"2,3"
+},{
+    "v":119,"b":1,"n":"幽匿块","ID":"119.sculk","t":"2"
+},{
+    "v":119,"b":1,"n":"幽匿脉络","ID":"119.sculk_vein","t":"2","zj":"yn"
+},{
+    "v":119,"b":1,"n":"幽匿催发体","ID":"119.sculk_catalyst","t":"2"
+},{
+    "v":119,"b":1,"n":"幽匿尖啸体","ID":"119.sculk_shrieker","t":"2,4"
+},{
+    "v":119,"b":1,"n":"幽匿感测体","ID":"119.sculk_sensor","t":"2,4","dt":1
+},{
+    "v":119,"b":1,"n":"红树原木","ID":"119.mangrove_log","t":"0,2"
+},{
+    "v":119,"b":1,"n":"红树木","ID":"119.mangrove_wood","t":"0"
+},{
+    "v":119,"b":1,"n":"去皮红树原木","ID":"119.stripped_mangrove_log","t":"0"
+},{
+    "v":119,"b":1,"n":"去皮红树木","ID":"119.stripped_mangrove_wood","t":"0"
+},{
+    "v":119,"b":1,"n":"红树木板","ID":"119.mangrove_planks","t":"0"
+},{
+    "v":119,"b":1,"n":"红树木楼梯","ID":"119.mangrove_stairs","t":"0"
+},{
+    "v":119,"b":1,"n":"红树木台阶","ID":"119.mangrove_slab","t":"0"
+},{
+    "v":119,"b":1,"n":"红树木栅栏","ID":"119.mangrove_fence","t":"0"
+},{
+    "v":119,"b":1,"n":"红树木栅栏门","ID":"119.mangrove_fence_gate","t":"0"
+},{
+    "v":119,"n":"红树木门","ID":"119.mangrove_door","t":"0","zj":"yy"
+},{
+    "v":119,"b":1,"n":"红树木活板门","ID":"119.mangrove_trapdoor","t":"0"
+},{
+    "v":119,"b":1,"n":"红树木压力板","ID":"119.mangrove_pressure_plate","t":"0"
+},{
+    "v":119,"b":1,"n":"红树木按钮","ID":"119.mangrove_button","t":"0"
+},{
+    "v":119,"b":1,"n":"红树树叶","ID":"119.mangrove_leaves","t":"2"
+},{
+    "v":119,"b":1,"n":"红树根","ID":"119.mangrove_roots","t":"2"
+},{
+    "v":119,"b":1,"n":"沾泥的红树根","ID":"119.muddy_mangrove_roots","t":"2"
+},{
+    "v":119,"b":1,"n":"红树胎生苗","ID":"119.mangrove_propagule","t":"2","zj":"yn"
+},{
+    "v":119,"b":2,"n":"红树胎生苗盆栽","ID":"119.potted_mangrove_propagule"
+},{
+    "v":119,"n":"红树木告示牌","ID":"119.mangrove_sign","t":"3","zj":"yy"
+},{
+    "v":119,"b":2,"n":"墙上的红树木告示牌","ID":"119.mangrove_wall_sign","t":"3","zj":"yn"
+},{
+    "v":119,"i":2,"n":"红树木船","ID":"119.mangrove_boat","t":"5"
+},{
+    "v":119,"i":2,"n":"橡木运输船","EN":"Oak Boat with Chest","ID":"119.oak_chest_boat","t":"4,5"
+},{
+    "v":119,"i":2,"n":"云杉木运输船","EN":"Spruce Boat with Chest","ID":"119.spruce_chest_boat","t":"5"
+},{
+    "v":119,"i":2,"n":"白桦木运输船","EN":"Birch Boat with Chest","ID":"119.birch_chest_boat","t":"5"
+},{
+    "v":119,"i":2,"n":"丛林木运输船","EN":"Jungle Boat with Chest","ID":"119.jungle_chest_boat","t":"5"
+},{
+    "v":119,"i":2,"n":"金合欢木运输船","EN":"Acacia Boat with Chest","ID":"119.acacia_chest_boat","t":"5"
+},{
+    "v":119,"i":2,"n":"深色橡木运输船","EN":"Dark Oak Boat with Chest","ID":"119.dark_oak_chest_boat","t":"5"
+},{
+    "v":119,"i":2,"n":"红树木运输船","EN":"Mangrove Boat with Chest","ID":"119.mangrove_chest_boat","t":"5"
+},{
+    "v":119,"i":2,"n":"山羊角","ID":"119.goat_horn","t":"5","tC":"黄","tL":1
+},{
+    "v":119,"b":1,"n":"泥巴","ID":"119.mud","t":"2"
+},{
+    "v":119,"b":1,"n":"泥坯","ID":"119.packed_mud","t":"0"
+},{
+    "v":119,"b":1,"n":"泥砖","ID":"119.mud_bricks","t":"0"
+},{
+    "v":119,"b":1,"n":"泥砖楼梯","ID":"119.mud_brick_stairs","t":"0"
+},{
+    "v":119,"b":1,"n":"泥砖台阶","ID":"119.mud_brick_slab","t":"0"
+},{
+    "v":119,"b":1,"n":"泥砖墙","ID":"119.mud_brick_wall","t":"0"
+},{
+    "v":119,"b":1,"n":"强化深板岩","ID":"119.reinforced_deepslate","t":"0"
+},{
+    "v":119,"i":2,"n":"蝌蚪桶","EN":"Bucket of Tadpole","ID":"119.tadpole_bucket","t":"5"
+},{
+    "v":119,"i":2,"n":"回响碎片","ID":"119.echo_shard","t":"8","tC":"黄"
+},{
+    "v":119,"i":2,"n":"追溯指针","ID":"119.recovery_compass","t":"5","dt":1,"tC":"黄"
+},{
+    "v":119,"i":2,"n":"悦灵刷怪蛋","ID":"119.allay_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":119,"i":2,"n":"青蛙刷怪蛋","ID":"119.frog_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":119,"i":2,"n":"蝌蚪刷怪蛋","ID":"119.tadpole_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":119,"i":2,"n":"监守者刷怪蛋","ID":"119.warden_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":119,"i":2,"n":"铁傀儡刷怪蛋","ID":"119.iron_golem_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":119,"i":2,"n":"雪傀儡刷怪蛋","ID":"119.snow_golem_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":119,"i":2,"n":"末影龙刷怪蛋","ID":"119.ender_dragon_spawn_egg","oP":"12104"
+},{
+    "v":119,"i":2,"n":"凋灵刷怪蛋","ID":"119.wither_spawn_egg","oP":"12104"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹块","EN":"Block of Bamboo","ID":"11903.bamboo_block","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"去皮竹块","EN":"Block of Stripped Bamboo","ID":"11903.stripped_bamboo_block","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹板","ID":"11903.bamboo_planks","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹马赛克","ID":"11903.bamboo_mosaic","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹楼梯","ID":"11903.bamboo_stairs","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹马赛克楼梯","ID":"11903.bamboo_mosaic_stairs","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹台阶","ID":"11903.bamboo_slab","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹马赛克台阶","ID":"11903.bamboo_mosaic_slab","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹栅栏","ID":"11903.bamboo_fence","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹栅栏门","ID":"11903.bamboo_fence_gate","t":"0"
+},{
+    "ev":11903,"v":120,"n":"竹门","ID":"11903.bamboo_door","t":"0","zj":"yy"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹活板门","ID":"11903.bamboo_trapdoor","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹压力板","ID":"11903.bamboo_pressure_plate","t":"0"
+},{
+    "ev":11903,"v":120,"b":1,"n":"竹按钮","ID":"11903.bamboo_button","t":"0"
+},{
+    "ev":11903,"v":120,"n":"竹告示牌","ID":"11903.bamboo_sign","t":"3","zj":"yy"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的竹告示牌","ID":"11903.bamboo_wall_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"i":2,"n":"竹筏","ID":"11903.bamboo_raft","t":"5"
+},{
+    "ev":11903,"v":120,"i":2,"n":"运输竹筏","EN":"Bamboo Raft with Chest","ID":"11903.bamboo_chest_raft","t":"4,5"
+},{
+    "ev":11903,"v":120,"n":"悬挂式橡木告示牌","ID":"11903.oak_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式云杉木告示牌","ID":"11903.spruce_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式白桦木告示牌","ID":"11903.birch_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式丛林木告示牌","ID":"11903.jungle_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式金合欢木告示牌","ID":"11903.acacia_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式深色橡木告示牌","ID":"11903.dark_oak_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式红树木告示牌","ID":"11903.mangrove_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式樱花木告示牌","ID":"11903.cherry_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式竹告示牌","ID":"11903.bamboo_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式绯红木告示牌","ID":"11903.crimson_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"n":"悬挂式诡异木告示牌","ID":"11903.warped_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式橡木告示牌","ID":"11903.oak_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式云杉木告示牌","ID":"11903.spruce_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式白桦木告示牌","ID":"11903.birch_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式丛林木告示牌","ID":"11903.jungle_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式金合欢木告示牌","ID":"11903.acacia_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式深色橡木告示牌","ID":"11903.dark_oak_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式红树木告示牌","ID":"11903.mangrove_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式樱花木告示牌","ID":"11903.cherry_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式竹告示牌","ID":"11903.bamboo_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式绯红木告示牌","ID":"11903.crimson_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的悬挂式诡异木告示牌","ID":"11903.warped_wall_hanging_sign","t":"3","zj":"yn"
+},{
+    "ev":11903,"v":120,"b":1,"n":"雕纹书架","ID":"11903.chiseled_bookshelf","t":"3,4"
+},{
+    "ev":11903,"v":120,"b":1,"n":"猪灵的头","ID":"11903.piglin_head","t":"3","tC":"黄"
+},{
+    "ev":11903,"v":120,"b":2,"n":"墙上的猪灵的头","ID":"11903.piglin_wall_head"
+},{
+    "ev":11903,"v":120,"i":2,"n":"骆驼刷怪蛋","ID":"11903.camel_spawn_egg","t":"9","oP":"12104"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花原木","ID":"11904.cherry_log","t":"0,2"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木","ID":"11904.cherry_wood","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"去皮樱花原木","ID":"11904.stripped_cherry_log","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"去皮樱花木","ID":"11904.stripped_cherry_wood","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木板","ID":"11904.cherry_planks","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木楼梯","ID":"11904.cherry_stairs","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木台阶","ID":"11904.cherry_slab","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木栅栏","ID":"11904.cherry_fence","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木栅栏门","ID":"11904.cherry_fence_gate","t":"0"
+},{
+    "ev":11904,"v":120,"n":"樱花木门","ID":"11904.cherry_door","t":"0","zj":"yy"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木活板门","ID":"11904.cherry_trapdoor","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木压力板","ID":"11904.cherry_pressure_plate","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花木按钮","ID":"11904.cherry_button","t":"0"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花树叶","ID":"11904.cherry_leaves","t":"2"
+},{
+    "ev":11904,"v":120,"b":1,"n":"樱花树苗","ID":"11904.cherry_sapling","t":"2","zj":"yn"
+},{
+    "ev":11904,"v":120,"b":2,"n":"樱花树苗盆栽","ID":"11904.potted_cherry_sapling"
+},{
+    "ev":11904,"v":120,"n":"樱花木告示牌","ID":"11904.cherry_sign","t":"3","zj":"yy"
+},{
+    "ev":11904,"v":120,"b":2,"n":"墙上的樱花木告示牌","ID":"11904.cherry_wall_sign","t":"3","zj":"yn"
+},{
+    "ev":11904,"v":120,"i":2,"n":"樱花木船","ID":"11904.cherry_boat","t":"5"
+},{
+    "ev":11904,"v":120,"i":2,"n":"樱花木运输船","EN":"Cherry Boat with Chest","ID":"11904.cherry_chest_boat","t":"5"
+},{
+    "ev":11904,"v":120,"b":1,"n":"火把花","ID":"11904.torchflower","t":"2","zj":"yn"
+},{
+    "ev":11904,"v":120,"b":2,"n":"火把花植株","ID":"11904.torchflower_crop","zj":"yn","dt":1
+},{
+    "ev":11904,"v":120,"b":2,"n":"火把花盆栽","ID":"11904.potted_torchflower"
+},{
+    "ev":11904,"v":120,"i":2,"n":"火把花种子","ID":"11904.torchflower_seeds","t":"2"
+},{
+    "ev":11904,"v":120,"n":"粉红色花簇","ID":"11904.pink_petals","t":"2","zj":"yy","dt":1
+},{
+    "ev":11904,"v":120,"i":2,"n":"嗅探兽刷怪蛋","ID":"11904.sniffer_spawn_egg","t":"9","oP":"12104"
+},{
+    "ev":11904,"v":120,"b":1,"n":"可疑的沙子","ID":"11904.suspicious_sand","t":"3"
+},{
+    "ev":11904,"v":120,"b":1,"n":"饰纹陶罐","ID":"11904.decorated_pot","t":"3"
+},{
+    "ev":11904,"v":120,"i":2,"n":"刷子","ID":"11904.brush","t":"5"
+},{
+    "ev":11904,"v":120,"i":2,"n":"弓箭纹样陶片","ID":"11904.archer_pottery_sherd","t":"8","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"珍宝纹样陶片","ID":"11904.prize_pottery_sherd","t":"8","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"举臂纹样陶片","ID":"11904.arms_up_pottery_sherd","t":"8","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"头颅纹样陶片","ID":"11904.skull_pottery_sherd","t":"8","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"下界合金升级","EN":"Netherite Upgrade","ID":"11904.netherite_upgrade_smithing_template","t":"8","oN":"12101.锻造模板（下界合金升级）","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"哨兵盔甲纹饰","EN":"Sentry Armor Trim","ID":"11904.sentry_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（哨兵盔甲纹饰）","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"沙丘盔甲纹饰","EN":"Dune Armor Trim","ID":"11904.dune_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（沙丘盔甲纹饰）","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"海岸盔甲纹饰","EN":"Coast Armor Trim","ID":"11904.coast_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（海岸盔甲纹饰）","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"荒野盔甲纹饰","EN":"Wild Armor Trim","ID":"11904.wild_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（荒野盔甲纹饰）","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"监守盔甲纹饰","EN":"Ward Armor Trim","ID":"11904.ward_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（监守盔甲纹饰）","tC":"淡蓝"
+},{
+    "ev":11904,"v":120,"i":2,"n":"眼眸盔甲纹饰","EN":"Eye Armor Trim","ID":"11904.eye_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（眼眸盔甲纹饰）","tC":"淡蓝"
+},{
+    "ev":11904,"v":120,"i":2,"n":"恼鬼盔甲纹饰","EN":"Vex Armor Trim","ID":"11904.vex_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（恼鬼盔甲纹饰）","tC":"淡蓝"
+},{
+    "ev":11904,"v":120,"i":2,"n":"潮汐盔甲纹饰","EN":"Tide Armor Trim","ID":"11904.tide_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（潮汐盔甲纹饰）","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"猪鼻盔甲纹饰","EN":"Snout Armor Trim","ID":"11904.snout_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（猪鼻盔甲纹饰）","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"肋骨盔甲纹饰","EN":"Rib Armor Trim","ID":"11904.rib_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（肋骨盔甲纹饰）","tC":"黄"
+},{
+    "ev":11904,"v":120,"i":2,"n":"尖塔盔甲纹饰","EN":"Spire Armor Trim","ID":"11904.spire_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（尖塔盔甲纹饰）","tC":"淡蓝"
+},{
+    "v":120,"b":1,"n":"校频幽匿感测体","ID":"120.calibrated_sculk_sensor","t":"4","dt":1
+},{
+    "v":120,"n":"瓶子草","ID":"120.pitcher_plant","t":"2","zj":"yy"
+},{
+    "v":120,"b":2,"n":"瓶子草植株","ID":"120.pitcher_crop","zj":"yn","dt":1
+},{
+    "v":120,"i":2,"n":"瓶子草荚果","ID":"120.pitcher_pod","t":"2"
+},{
+    "v":120,"n":"嗅探兽蛋","ID":"120.sniffer_egg","t":"2","zj":"ny","tC":"黄"
+},{
+    "v":120,"b":1,"n":"可疑的沙砾","ID":"120.suspicious_gravel","t":"3"
+},{
+    "v":120,"i":2,"n":"音乐唱片（Aaron Cherof - Relic）","EN":"Music Disc (Aaron Cherof - Relic)","ID":"120.music_disc_relic","t":"5","tC":"黄"
+},{
+    "v":120,"i":2,"n":"垂钓纹样陶片","ID":"120.angler_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"利刃纹样陶片","ID":"120.blade_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"佳酿纹样陶片","ID":"120.brewer_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"烈焰纹样陶片","ID":"120.burn_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"危机纹样陶片","ID":"120.danger_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"探险纹样陶片","ID":"120.explorer_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"挚友纹样陶片","ID":"120.friend_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"爱心纹样陶片","ID":"120.heart_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"心碎纹样陶片","ID":"120.heartbreak_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"狼嚎纹样陶片","ID":"120.howl_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"采矿纹样陶片","ID":"120.miner_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"悲恸纹样陶片","ID":"120.mourner_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"富饶纹样陶片","ID":"120.plenty_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"麦捆纹样陶片","ID":"120.sheaf_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"树荫纹样陶片","ID":"120.shelter_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"嗅探纹样陶片","ID":"120.snort_pottery_sherd","t":"8","tC":"黄"
+},{
+    "v":120,"i":2,"n":"向导盔甲纹饰","EN":"Wayfinder Armor Trim","ID":"120.wayfinder_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（向导盔甲纹饰）","tC":"黄"
+},{
+    "v":120,"i":2,"n":"牧民盔甲纹饰","EN":"Raiser Armor Trim","ID":"120.raiser_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（牧民盔甲纹饰）","tC":"黄"
+},{
+    "v":120,"i":2,"n":"塑造盔甲纹饰","EN":"Shaper Armor Trim","ID":"120.shaper_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（塑造盔甲纹饰）","tC":"黄"
+},{
+    "v":120,"i":2,"n":"雇主盔甲纹饰","EN":"Host Armor Trim","ID":"120.host_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（雇主盔甲纹饰）","tC":"黄"
+},{
+    "v":120,"i":2,"n":"幽静盔甲纹饰","EN":"Silence Armor Trim","ID":"120.silence_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（幽静盔甲纹饰）","tC":"紫"
+},{
+    "ev":12003,"v":121,"b":1,"n":"凝灰岩楼梯","ID":"12003.tuff_stairs","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"凝灰岩台阶","ID":"12003.tuff_slab","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"凝灰岩墙","ID":"12003.tuff_wall","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"雕纹凝灰岩","ID":"12003.chiseled_tuff","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"磨制凝灰岩","ID":"12003.polished_tuff","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"磨制凝灰岩楼梯","ID":"12003.polished_tuff_stairs","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"磨制凝灰岩台阶","ID":"12003.polished_tuff_slab","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"磨制凝灰岩墙","ID":"12003.polished_tuff_wall","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"凝灰岩砖","ID":"12003.tuff_bricks","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"凝灰岩砖楼梯","ID":"12003.tuff_brick_stairs","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"凝灰岩砖台阶","ID":"12003.tuff_brick_slab","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"凝灰岩砖墙","ID":"12003.tuff_brick_wall","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"雕纹凝灰岩砖","ID":"12003.chiseled_tuff_bricks","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"雕纹铜块","ID":"12003.chiseled_copper","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"铜格栅","ID":"12003.copper_grate","t":"0"
+},{
+    "ev":12003,"v":121,"n":"铜门","ID":"12003.copper_door","t":"0","zj":"yy"
+},{
+    "ev":12003,"v":121,"b":1,"n":"铜活板门","ID":"12003.copper_trapdoor","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"铜灯","ID":"12003.copper_bulb","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"斑驳的雕纹铜块","ID":"12003.exposed_chiseled_copper","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"斑驳的铜格栅","ID":"12003.exposed_copper_grate","t":"0"
+},{
+    "ev":12003,"v":121,"n":"斑驳的铜门","ID":"12003.exposed_copper_door","t":"0","zj":"yy"
+},{
+    "ev":12003,"v":121,"b":1,"n":"斑驳的铜活板门","ID":"12003.exposed_copper_trapdoor","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"斑驳的铜灯","ID":"12003.exposed_copper_bulb","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"锈蚀的雕纹铜块","ID":"12003.weathered_chiseled_copper","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"锈蚀的铜格栅","ID":"12003.weathered_copper_grate","t":"0"
+},{
+    "ev":12003,"v":121,"n":"锈蚀的铜门","ID":"12003.weathered_copper_door","t":"0","zj":"yy"
+},{
+    "ev":12003,"v":121,"b":1,"n":"锈蚀的铜活板门","ID":"12003.weathered_copper_trapdoor","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"锈蚀的铜灯","ID":"12003.weathered_copper_bulb","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"氧化的雕纹铜块","ID":"12003.oxidized_chiseled_copper","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"氧化的铜格栅","ID":"12003.oxidized_copper_grate","t":"0"
+},{
+    "ev":12003,"v":121,"n":"氧化的铜门","ID":"12003.oxidized_copper_door","t":"0","zj":"yy"
+},{
+    "ev":12003,"v":121,"b":1,"n":"氧化的铜活板门","ID":"12003.oxidized_copper_trapdoor","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"氧化的铜灯","ID":"12003.oxidized_copper_bulb","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的雕纹铜块","ID":"12003.waxed_chiseled_copper","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的铜格栅","ID":"12003.waxed_copper_grate","t":"0"
+},{
+    "ev":12003,"v":121,"n":"涂蜡的铜门","ID":"12003.waxed_copper_door","t":"0","zj":"yy"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的铜活板门","ID":"12003.waxed_copper_trapdoor","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的铜灯","ID":"12003.waxed_copper_bulb","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的斑驳雕纹铜块","ID":"12003.waxed_exposed_chiseled_copper","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的斑驳铜格栅","ID":"12003.waxed_exposed_copper_grate","t":"0"
+},{
+    "ev":12003,"v":121,"n":"涂蜡的斑驳铜门","ID":"12003.waxed_exposed_copper_door","t":"0","zj":"yy"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的斑驳铜活板门","ID":"12003.waxed_exposed_copper_trapdoor","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的斑驳铜灯","ID":"12003.waxed_exposed_copper_bulb","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的锈蚀雕纹铜块","ID":"12003.waxed_weathered_chiseled_copper","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的锈蚀铜格栅","ID":"12003.waxed_weathered_copper_grate","t":"0"
+},{
+    "ev":12003,"v":121,"n":"涂蜡的锈蚀铜门","ID":"12003.waxed_weathered_copper_door","t":"0","zj":"yy"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的锈蚀铜活板门","ID":"12003.waxed_weathered_copper_trapdoor","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的锈蚀铜灯","ID":"12003.waxed_weathered_copper_bulb","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的氧化雕纹铜块","ID":"12003.waxed_oxidized_chiseled_copper","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的氧化铜格栅","ID":"12003.waxed_oxidized_copper_grate","t":"0"
+},{
+    "ev":12003,"v":121,"n":"涂蜡的氧化铜门","ID":"12003.waxed_oxidized_copper_door","t":"0","zj":"yy"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的氧化铜活板门","ID":"12003.waxed_oxidized_copper_trapdoor","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"涂蜡的氧化铜灯","ID":"12003.waxed_oxidized_copper_bulb","t":"0"
+},{
+    "ev":12003,"v":121,"b":1,"n":"合成器","ID":"12003.crafter","t":"4"
+},{
+    "ev":12003,"v":121,"b":1,"n":"试炼刷怪笼","ID":"12003.trial_spawner","t":"9"
+},{
+    "ev":12003,"v":121,"i":2,"n":"旋风人刷怪蛋","ID":"12003.breeze_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":12005,"i":2,"n":"狼铠","ID":"12005.wolf_armor","t":"6"
+},{
+    "v":12005,"i":2,"n":"犰狳鳞甲","ID":"12005.armadillo_scute","t":"8"
+},{
+    "v":12005,"i":2,"n":"犰狳刷怪蛋","ID":"12005.armadillo_spawn_egg","t":"9","oP":"12104"
+},{
+    "ev":12005,"v":121,"b":1,"n":"宝库","ID":"12005.vault","t":"3"
+},{
+    "ev":12005,"v":121,"b":1,"n":"沉重核心","ID":"12005.heavy_core","t":"8","tC":"紫"
+},{
+    "ev":12005,"v":121,"i":2,"n":"风弹","ID":"12005.wind_charge","t":"5,6"
+},{
+    "ev":12005,"v":121,"i":2,"n":"重锤","ID":"12005.mace","t":"6","tC":"紫"
+},{
+    "ev":12005,"v":121,"i":2,"n":"不祥之瓶","ID":"12005.ominous_bottle","t":"7","tC":"黄"
+},{
+    "ev":12005,"v":121,"i":2,"n":"旋风棒","ID":"12005.breeze_rod","t":"8"
+},{
+    "ev":12005,"v":121,"i":2,"n":"涡流旗帜图案","ID":"12005.flow_banner_pattern","t":"8","oN":"12101.旗帜图案（涡流）","oP":"12101","tC":"淡蓝"
+},{
+    "ev":12005,"v":121,"i":2,"n":"旋风旗帜图案","ID":"12005.guster_banner_pattern","t":"8","oN":"12101.旗帜图案（旋风）","oP":"12101","tC":"淡蓝"
+},{
+    "ev":12005,"v":121,"i":2,"n":"涡流纹样陶片","ID":"12005.flow_pottery_sherd","t":"8","tC":"黄"
+},{
+    "ev":12005,"v":121,"i":2,"n":"旋风纹样陶片","ID":"12005.guster_pottery_sherd","t":"8","tC":"黄"
+},{
+    "ev":12005,"v":121,"i":2,"n":"刮削纹样陶片","ID":"12005.scrape_pottery_sherd","t":"8","tC":"黄"
+},{
+    "ev":12005,"v":121,"i":2,"n":"涡流盔甲纹饰","EN":"Flow Armor Trim","ID":"12005.flow_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（涡流盔甲纹饰）","tC":"黄"
+},{
+    "ev":12005,"v":121,"i":2,"n":"镶铆盔甲纹饰","EN":"Bolt Armor Trim","ID":"12005.bolt_armor_trim_smithing_template","t":"8","oN":"12101.锻造模板（镶铆盔甲纹饰）","tC":"黄"
+},{
+    "ev":12005,"v":121,"i":2,"n":"试炼钥匙","ID":"12005.trial_key","t":"8"
+},{
+    "ev":12005,"v":121,"i":2,"n":"不祥试炼钥匙","ID":"12005.ominous_trial_key","t":"8"
+},{
+    "ev":12005,"v":121,"i":2,"n":"沼骸刷怪蛋","ID":"12005.bogged_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":121,"i":2,"n":"音乐唱片（Lena Raine - Creator（八音盒））","EN":"Music Disc (Lena Raine - Creator(Music Box))","ID":"121.music_disc_creator_music_box","t":"5","tC":"黄"
+},{
+    "v":121,"i":2,"n":"音乐唱片（Lena Raine - Creator）","EN":"Music Disc (Lena Raine - Creator)","ID":"121.music_disc_creator","t":"5","tC":"淡蓝"
+},{
+    "v":121,"i":2,"n":"音乐唱片（Aaron Cherof - Precipice）","EN":"Music Disc (Aaron Cherof - Precipice)","ID":"121.music_disc_precipice","t":"5","tC":"黄"
+},{
+    "v":12102,"i":2,"n":"白色收纳袋","ID":"12102.white_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"淡灰色收纳袋","ID":"12102.light_gray_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"灰色收纳袋","ID":"12102.gray_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"黑色收纳袋","ID":"12102.black_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"棕色收纳袋","ID":"12102.brown_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"红色收纳袋","ID":"12102.red_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"橙色收纳袋","ID":"12102.orange_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"黄色收纳袋","ID":"12102.yellow_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"黄绿色收纳袋","ID":"12102.lime_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"绿色收纳袋","ID":"12102.green_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"青色收纳袋","ID":"12102.cyan_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"淡蓝色收纳袋","ID":"12102.light_blue_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"蓝色收纳袋","ID":"12102.blue_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"紫色收纳袋","ID":"12102.purple_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"品红色收纳袋","ID":"12102.magenta_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"粉红色收纳袋","ID":"12102.pink_bundle","t":"5"
+},{
+    "v":12102,"i":2,"n":"砖纹旗帜图案","ID":"12102.field_masoned_banner_pattern","t":"8"
+},{
+    "v":12102,"i":2,"n":"波纹边旗帜图案","ID":"12102.bordure_indented_banner_pattern","t":"8"
+},{
+    "v":12104,"b":1,"n":"苍白橡木原木","ID":"12104.pale_oak_log","t":"0,2"
+},{
+    "v":12104,"b":1,"n":"苍白橡木","ID":"12104.pale_oak_wood","t":"0"
+},{
+    "v":12104,"b":1,"n":"去皮苍白橡木原木","ID":"12104.stripped_pale_oak_log","t":"0"
+},{
+    "v":12104,"b":1,"n":"去皮苍白橡木","ID":"12104.stripped_pale_oak_wood","t":"0"
+},{
+    "v":12104,"b":1,"n":"苍白橡木木板","ID":"12104.pale_oak_planks","t":"0"
+},{
+    "v":12104,"b":1,"n":"苍白橡木楼梯","ID":"12104.pale_oak_stairs","t":"0"
+},{
+    "v":12104,"b":1,"n":"苍白橡木台阶","ID":"12104.pale_oak_slab","t":"0"
+},{
+    "v":12104,"b":1,"n":"苍白橡木栅栏","ID":"12104.pale_oak_fence","t":"0"
+},{
+    "v":12104,"b":1,"n":"苍白橡木栅栏门","ID":"12104.pale_oak_fence_gate","t":"0"
+},{
+    "v":12104,"n":"苍白橡木门","ID":"12104.pale_oak_door","t":"0","zj":"yy"
+},{
+    "v":12104,"b":1,"n":"苍白橡木活板门","EN":"Pale Oak_trapdoor","ID":"12104.pale_oak_trapdoor","t":"0"
+},{
+    "v":12104,"b":1,"n":"苍白橡木压力板","ID":"12104.pale_oak_pressure_plate","t":"0"
+},{
+    "v":12104,"b":1,"n":"苍白橡木按钮","ID":"12104.pale_oak_button","t":"0"
+},{
+    "v":12104,"b":1,"n":"树脂砖块","ID":"12104.resin_bricks","t":"0"
+},{
+    "v":12104,"b":1,"n":"树脂砖楼梯","ID":"12104.resin_brick_stairs","t":"0"
+},{
+    "v":12104,"b":1,"n":"树脂砖台阶","ID":"12104.resin_brick_slab","t":"0"
+},{
+    "v":12104,"b":1,"n":"树脂砖墙","ID":"12104.resin_brick_wall","t":"0"
+},{
+    "v":12104,"b":1,"n":"雕纹树脂砖块","ID":"12104.chiseled_resin_bricks","t":"0"
+},{
+    "v":12104,"b":1,"n":"苍白苔藓块","ID":"12104.pale_moss_block","t":"2"
+},{
+    "v":12104,"b":1,"n":"苍白覆地苔藓","ID":"12104.pale_moss_carpet","t":"2"
+},{
+    "v":12104,"b":1,"n":"苍白垂须","ID":"12104.pale_hanging_moss","t":"2","zj":"yn"
+},{
+    "v":12104,"b":1,"n":"苍白橡树树叶","ID":"12104.pale_oak_leaves","t":"2"
+},{
+    "v":12104,"b":1,"n":"苍白橡树树苗","ID":"12104.pale_oak_sapling","t":"2","zj":"yn"
+},{
+    "v":12104,"b":2,"n":"苍白橡树树苗盆栽","ID":"12104.potted_pale_oak_sapling"
+},{
+    "v":12104,"b":1,"n":"闭合的眼眸花","ID":"12104.closed_eyeblossom","t":"2","zj":"yn"
+},{
+    "v":12104,"b":1,"n":"张开的眼眸花","ID":"12104.open_eyeblossom","t":"2","zj":"yn"
+},{
+    "v":12104,"b":2,"n":"闭合的眼眸花盆栽","ID":"12104.potted_closed_eyeblossom"
+},{
+    "v":12104,"b":2,"n":"张开的眼眸花盆栽","ID":"12104.potted_open_eyeblossom"
+},{
+    "v":12104,"b":1,"n":"树脂块","EN":"Block of Resin","ID":"12104.resin_block","t":"2"
+},{
+    "v":12104,"n":"苍白橡木告示牌","ID":"12104.pale_oak_sign","t":"3","zj":"yy"
+},{
+    "v":12104,"b":2,"n":"墙上的苍白橡木告示牌","ID":"12104.pale_oak_wall_sign","zj":"yn"
+},{
+    "v":12104,"n":"悬挂式苍白橡木告示牌","ID":"12104.pale_oak_hanging_sign","t":"3","zj":"yy","dt":1
+},{
+    "v":12104,"b":2,"n":"墙上的悬挂式苍白橡木告示牌","ID":"12104.pale_oak_wall_hanging_sign","zj":"yn"
+},{
+    "v":12104,"i":2,"n":"苍白橡木船","ID":"12104.pale_oak_boat","t":"5"
+},{
+    "v":12104,"i":2,"n":"苍白橡木运输船","EN":"Pale Oak Boat with Chest","ID":"12104.pale_oak_chest_boat","t":"5"
+},{
+    "v":12104,"n":"树脂团","ID":"12104.resin_clump","t":"8","zj":"yy"
+},{
+    "v":12104,"i":2,"n":"树脂砖","ID":"12104.resin_brick","t":"8"
+},{
+    "v":12104,"b":1,"n":"嘎枝之心","ID":"12104.creaking_heart","t":"9"
+},{
+    "v":12104,"i":2,"n":"嘎枝刷怪蛋","ID":"12104.creaking_spawn_egg","t":"9","oP":"12104"
+},{
+    "v":12105,"b":1,"n":"矮枯草丛","ID":"12105.short_dry_grass","t":"2","zj":"yn"
+},{
+    "v":12105,"b":1,"n":"灌木丛","ID":"12105.bush","t":"2","zj":"yn"
+},{
+    "v":12105,"b":1,"n":"仙人掌花","ID":"12105.cactus_flower","t":"2","zj":"yn"
+},{
+    "v":12105,"n":"野花簇","ID":"12105.wildflowers","t":"2","zj":"yy","dt":1
+},{
+    "v":12105,"b":1,"n":"枯叶堆","ID":"12105.leaf_litter","t":"2","oN":"12111.枯叶","zj":"yn","dt":1
+},{
+    "v":12105,"b":1,"n":"萤火虫灌木丛","ID":"12105.firefly_bush","t":"2","zj":"yn"
+},{
+    "v":12105,"b":1,"n":"高枯草丛","ID":"12105.tall_dry_grass","t":"2","zj":"yn"
+},{
+    "v":12105,"i":2,"n":"棕色鸡蛋","ID":"12105.brown_egg","t":"6,8"
+},{
+    "v":12105,"i":2,"n":"蓝色鸡蛋","ID":"12105.blue_egg","t":"6,8"
+},{
+    "v":12105,"b":1,"n":"测试方块","ID":"12105.test_block","dt":1,"tC":"紫"
+},{
+    "v":12105,"b":1,"n":"测试实例方块","ID":"12105.test_instance_block","tC":"紫"
+},{
+    "v":12106,"b":1,"n":"失水恶魂","ID":"12106.dried_ghast","t":"2"
+},{
+    "v":12106,"i":2,"n":"白色挽具","ID":"12106.white_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"淡灰色挽具","ID":"12106.light_gray_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"灰色挽具","ID":"12106.gray_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"黑色挽具","ID":"12106.black_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"棕色挽具","ID":"12106.brown_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"红色挽具","ID":"12106.red_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"橙色挽具","ID":"12106.orange_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"黄色挽具","ID":"12106.yellow_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"黄绿色挽具","ID":"12106.lime_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"绿色挽具","ID":"12106.green_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"青色挽具","ID":"12106.cyan_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"淡蓝色挽具","ID":"12106.light_blue_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"蓝色挽具","ID":"12106.blue_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"紫色挽具","ID":"12106.purple_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"品红色挽具","ID":"12106.magenta_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"粉红色挽具","ID":"12106.pink_harness","t":"5"
+},{
+    "v":12106,"i":2,"n":"音乐唱片（Amos Roddy - Tears）","EN":"Music Disc (Amos Roddy - Tears)","ID":"12106.music_disc_tears","t":"5","tC":"黄"
+},{
+    "v":12106,"i":2,"n":"快乐恶魂刷怪蛋","ID":"12106.happy_ghast_spawn_egg","t":"9"
+},{
+    "v":12107,"i":2,"n":"音乐唱片（Hyper Potions - Lava Chicken）","EN":"Music Disc (Hyper Potions - Lava Chicken)","ID":"12107.music_disc_lava_chicken","t":"5","tC":"淡蓝"
+},{
+    "v":12109,"b":1,"n":"铜栏杆","ID":"12109.copper_bars","t":"0","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"铜链","ID":"12109.copper_chain","t":"0,3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"斑驳的铜栏杆","ID":"12109.exposed_copper_bars","t":"0","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"斑驳的铜链","ID":"12109.exposed_copper_chain","t":"0,3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"锈蚀的铜栏杆","ID":"12109.weathered_copper_bars","t":"0","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"锈蚀的铜链","ID":"12109.weathered_copper_chain","t":"0,3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"氧化的铜栏杆","ID":"12109.oxidized_copper_bars","t":"0","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"氧化的铜链","ID":"12109.oxidized_copper_chain","t":"0,3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"涂蜡的铜栏杆","ID":"12109.waxed_copper_bars","t":"0","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"涂蜡的铜链","ID":"12109.waxed_copper_chain","t":"0,3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"涂蜡的斑驳铜栏杆","ID":"12109.waxed_exposed_copper_bars","t":"0","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"涂蜡的斑驳铜链","ID":"12109.waxed_exposed_copper_chain","t":"0,3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"涂蜡的锈蚀铜栏杆","ID":"12109.waxed_weathered_copper_bars","t":"0","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"涂蜡的锈蚀铜链","ID":"12109.waxed_weathered_copper_chain","t":"0,3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"涂蜡的氧化铜栏杆","ID":"12109.waxed_oxidized_copper_bars","t":"0","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"涂蜡的氧化铜链","ID":"12109.waxed_oxidized_copper_chain","t":"0,3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"铜火把","ID":"12109.copper_torch","t":"3","zj":"yn"
+},{
+    "v":12109,"b":1,"n":"墙上的铜火把","ID":"12109.copper_wall_torch","t":"3"
+},{
+    "v":12109,"n":"铜灯笼","ID":"12109.copper_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":12109,"n":"斑驳的铜灯笼","ID":"12109.exposed_copper_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":12109,"n":"锈蚀的铜灯笼","ID":"12109.weathered_copper_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":12109,"n":"氧化的铜灯笼","ID":"12109.oxidized_copper_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":12109,"n":"涂蜡的铜灯笼","ID":"12109.waxed_copper_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":12109,"n":"涂蜡的斑驳铜灯笼","ID":"12109.waxed_exposed_copper_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":12109,"n":"涂蜡的锈蚀铜灯笼","ID":"12109.waxed_weathered_copper_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":12109,"n":"涂蜡的氧化铜灯笼","ID":"12109.waxed_oxidized_copper_lantern","t":"3","zj":"ny","dt":1
+},{
+    "v":12109,"b":1,"n":"斑驳的避雷针","ID":"12109.exposed_lightning_rod","t":"3"
+},{
+    "v":12109,"b":1,"n":"锈蚀的避雷针","ID":"12109.weathered_lightning_rod","t":"3"
+},{
+    "v":12109,"b":1,"n":"氧化的避雷针","ID":"12109.oxidized_lightning_rod","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的避雷针","ID":"12109.waxed_lightning_rod","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的斑驳避雷针","ID":"12109.waxed_exposed_lightning_rod","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的锈蚀避雷针","ID":"12109.waxed_weathered_lightning_rod","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的氧化避雷针","ID":"12109.waxed_oxidized_lightning_rod","t":"3"
+},{
+    "v":12109,"b":1,"n":"橡木展示架","ID":"12109.oak_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"云杉木展示架","ID":"12109.spruce_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"白桦木展示架","ID":"12109.birch_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"丛林木展示架","ID":"12109.jungle_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"金合欢木展示架","ID":"12109.acacia_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"深色橡木展示架","ID":"12109.dark_oak_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"红树木展示架","ID":"12109.mangrove_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"樱花木展示架","ID":"12109.cherry_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"苍白橡木展示架","ID":"12109.pale_oak_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"竹展示架","ID":"12109.bamboo_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"绯红木展示架","ID":"12109.crimson_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"诡异木展示架","ID":"12109.warped_shelf","t":"3"
+},{
+    "v":12109,"b":1,"n":"铜箱子","ID":"12109.copper_chest","t":"3"
+},{
+    "v":12109,"b":1,"n":"斑驳的铜箱子","ID":"12109.exposed_copper_chest","t":"3"
+},{
+    "v":12109,"b":1,"n":"锈蚀的铜箱子","ID":"12109.weathered_copper_chest","t":"3"
+},{
+    "v":12109,"b":1,"n":"氧化的铜箱子","ID":"12109.oxidized_copper_chest","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的铜箱子","ID":"12109.waxed_copper_chest","t":"3,4"
+},{
+    "v":12109,"b":1,"n":"涂蜡的斑驳铜箱子","ID":"12109.waxed_exposed_copper_chest","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的锈蚀铜箱子","ID":"12109.waxed_weathered_copper_chest","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的氧化铜箱子","ID":"12109.waxed_oxidized_copper_chest","t":"3"
+},{
+    "v":12109,"b":1,"n":"铜傀儡像","ID":"12109.copper_golem_statue","t":"3"
+},{
+    "v":12109,"b":1,"n":"斑驳的铜傀儡像","ID":"12109.exposed_copper_golem_statue","t":"3"
+},{
+    "v":12109,"b":1,"n":"锈蚀的铜傀儡像","ID":"12109.weathered_copper_golem_statue","t":"3"
+},{
+    "v":12109,"b":1,"n":"氧化的铜傀儡像","ID":"12109.oxidized_copper_golem_statue","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的铜傀儡像","ID":"12109.waxed_copper_golem_statue","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的斑驳铜傀儡像","ID":"12109.waxed_exposed_copper_golem_statue","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的锈蚀铜傀儡像","ID":"12109.waxed_weathered_copper_golem_statue","t":"3"
+},{
+    "v":12109,"b":1,"n":"涂蜡的氧化铜傀儡像","ID":"12109.waxed_oxidized_copper_golem_statue","t":"3"
+},{
+    "v":12109,"i":2,"n":"铜锹","ID":"12109.copper_shovel","t":"5"
+},{
+    "v":12109,"i":2,"n":"铜镐","ID":"12109.copper_pickaxe","t":"5"
+},{
+    "v":12109,"i":2,"n":"铜斧","ID":"12109.copper_axe","t":"5,6"
+},{
+    "v":12109,"i":2,"n":"铜锄","ID":"12109.copper_hoe","t":"5"
+},{
+    "v":12109,"i":2,"n":"铜剑","ID":"12109.copper_sword","t":"6"
+},{
+    "v":12109,"i":2,"n":"铜头盔","ID":"12109.copper_helmet","t":"6"
+},{
+    "v":12109,"i":2,"n":"铜胸甲","ID":"12109.copper_chestplate","t":"6"
+},{
+    "v":12109,"i":2,"n":"铜护腿","ID":"12109.copper_leggings","t":"6"
+},{
+    "v":12109,"i":2,"n":"铜靴子","ID":"12109.copper_boots","t":"6"
+},{
+    "v":12109,"i":2,"n":"铜马铠","ID":"12109.copper_horse_armor","t":"6"
+},{
+    "v":12109,"i":2,"n":"铜粒","ID":"12109.copper_nugget","t":"8"
+},{
+    "v":12109,"i":2,"n":"铜傀儡刷怪蛋","ID":"12109.copper_golem_spawn_egg","t":"9"
+},{
+    "v":12111,"i":2,"n":"木矛","ID":"12111.wooden_spear","t":"6"
+},{
+    "v":12111,"i":2,"n":"石矛","ID":"12111.stone_spear","t":"6"
+},{
+    "v":12111,"i":2,"n":"铜矛","ID":"12111.copper_spear","t":"6"
+},{
+    "v":12111,"i":2,"n":"铁矛","ID":"12111.iron_spear","t":"6"
+},{
+    "v":12111,"i":2,"n":"金矛","ID":"12111.golden_spear","t":"6"
+},{
+    "v":12111,"i":2,"n":"钻石矛","ID":"12111.diamond_spear","t":"6"
+},{
+    "v":12111,"i":2,"n":"下界合金矛","ID":"12111.netherite_spear","t":"6"
+},{
+    "v":12111,"i":2,"n":"下界合金马铠","ID":"12111.netherite_horse_armor","t":"6"
+},{
+    "v":12111,"i":2,"n":"铜鹦鹉螺铠","ID":"12111.copper_nautilus_armor","t":"6"
+},{
+    "v":12111,"i":2,"n":"铁鹦鹉螺铠","ID":"12111.iron_nautilus_armor","t":"6"
+},{
+    "v":12111,"i":2,"n":"金鹦鹉螺铠","ID":"12111.golden_nautilus_armor","t":"6"
+},{
+    "v":12111,"i":2,"n":"钻石鹦鹉螺铠","ID":"12111.diamond_nautilus_armor","t":"6"
+},{
+    "v":12111,"i":2,"n":"下界合金鹦鹉螺铠","ID":"12111.netherite_nautilus_armor","t":"6"
+},{
+    "v":12111,"i":2,"n":"鹦鹉螺刷怪蛋","ID":"12111.nautilus_spawn_egg","t":"9"
+},{
+    "v":12111,"i":2,"n":"骆驼尸壳刷怪蛋","ID":"12111.camel_husk_spawn_egg","t":"9"
+},{
+    "v":12111,"i":2,"n":"焦骸刷怪蛋","ID":"12111.parched_spawn_egg","t":"9"
+},{
+    "v":12111,"i":2,"n":"僵尸鹦鹉螺刷怪蛋","ID":"12111.zombie_nautilus_spawn_egg","t":"9"
+},{
+    "v":261,"b":1,"n":"金蒲公英","ID":"261.golden_dandelion","t":"7","zj":"yn"
+},{
+    "v":261,"b":1,"n":"金蒲公英盆栽","ID":"261.potted_golden_dandelion"
+},{
+    "v":262,"b":1,"n":"朱砂","ID":"262.cinnabar","t":"0,2"
+},{
+    "v":262,"b":1,"n":"朱砂楼梯","ID":"262.cinnabar_stairs","t":"0"
+},{
+    "v":262,"b":1,"n":"朱砂台阶","ID":"262.cinnabar_slab","t":"0"
+},{
+    "v":262,"b":1,"n":"朱砂墙","ID":"262.cinnabar_wall","t":"0"
+},{
+    "v":262,"b":1,"n":"雕纹朱砂","ID":"262.chiseled_cinnabar","t":"0"
+},{
+    "v":262,"b":1,"n":"磨制朱砂","ID":"262.polished_cinnabar","t":"0"
+},{
+    "v":262,"b":1,"n":"磨制朱砂楼梯","ID":"262.polished_cinnabar_stairs","t":"0"
+},{
+    "v":262,"b":1,"n":"磨制朱砂台阶","ID":"262.polished_cinnabar_slab","t":"0"
+},{
+    "v":262,"b":1,"n":"磨制朱砂墙","ID":"262.polished_cinnabar_wall","t":"0"
+},{
+    "v":262,"b":1,"n":"朱砂砖","ID":"262.cinnabar_bricks","t":"0"
+},{
+    "v":262,"b":1,"n":"朱砂砖楼梯","ID":"262.cinnabar_brick_stairs","t":"0"
+},{
+    "v":262,"b":1,"n":"朱砂砖台阶","ID":"262.cinnabar_brick_slab","t":"0"
+},{
+    "v":262,"b":1,"n":"朱砂砖墙","ID":"262.cinnabar_brick_wall","t":"0"
+},{
+    "v":262,"b":1,"n":"硫黄","ID":"262.sulfur","t":"0,2"
+},{
+    "v":262,"b":1,"n":"硫黄楼梯","ID":"262.sulfur_stairs","t":"0"
+},{
+    "v":262,"b":1,"n":"硫黄台阶","ID":"262.sulfur_slab","t":"0"
+},{
+    "v":262,"b":1,"n":"硫黄墙","ID":"262.sulfur_wall","t":"0"
+},{
+    "v":262,"b":1,"n":"雕纹硫黄","ID":"262.chiseled_sulfur","t":"0"
+},{
+    "v":262,"b":1,"n":"磨制硫黄","ID":"262.polished_sulfur","t":"0"
+},{
+    "v":262,"b":1,"n":"磨制硫黄楼梯","ID":"262.polished_sulfur_stairs","t":"0"
+},{
+    "v":262,"b":1,"n":"磨制硫黄台阶","ID":"262.polished_sulfur_slab","t":"0"
+},{
+    "v":262,"b":1,"n":"磨制硫黄墙","ID":"262.polished_sulfur_wall","t":"0"
+},{
+    "v":262,"b":1,"n":"硫黄砖","ID":"262.sulfur_bricks","t":"0"
+},{
+    "v":262,"b":1,"n":"硫黄砖楼梯","ID":"262.sulfur_brick_stairs","t":"0"
+},{
+    "v":262,"b":1,"n":"硫黄砖台阶","ID":"262.sulfur_brick_slab","t":"0"
+},{
+    "v":262,"b":1,"n":"硫黄砖墙","ID":"262.sulfur_brick_wall","t":"0"
+},{
+    "v":262,"b":1,"n":"硫黄尖锥","ID":"262.sulfur_spike","t":"2","zj":"yn"
+},{
+    "v":262,"b":1,"n":"烈性硫黄","ID":"262.potent_sulfur","t":"2"
+},{
+    "v":262,"i":2,"n":"硫方怪桶","EN":"Bucket of Sulfur Cube","ID":"262.sulfur_cube_bucket","t":"5"
+},{
+    "v":262,"i":2,"n":"音乐唱片（fingerspit - Bounce）","EN":"Music Disc (fingerspit - Bounce)","ID":"262.music_disc_bounce","t":"5"
+},{
+    "v":262,"i":2,"n":"硫方怪刷怪蛋","ID":"262.sulfur_cube_spawn_egg","t":"9"
+}]

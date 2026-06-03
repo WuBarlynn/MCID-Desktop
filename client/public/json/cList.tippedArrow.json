@@ -1,0 +1,93 @@
+[{
+    "a":1,"c":0,"v":109,"n":"药箭","id":"awkward"
+},{
+    "a":2,"c":0,"v":109,"n":"药箭","id":"thick"
+},{
+    "a":3,"c":0,"v":109,"n":"药箭","id":"mundane"
+},{
+    "a":4,"c":1,"v":109,"n":"治疗之箭","id":"healing","Ee":"Instant Health","e":"瞬间治疗"
+},{
+    "a":4,"c":2,"v":109,"n":"治疗之箭","id":"strong_healing","Ee":"Instant Health","e":"瞬间治疗"
+},{
+    "a":5,"c":1,"v":109,"n":"伤害之箭","id":"harming","Ee":"Instant Damage","e":"瞬间伤害"
+},{
+    "a":5,"c":2,"v":109,"n":"伤害之箭","id":"strong_harming","Ee":"Instant Damage","e":"瞬间伤害"
+},{
+    "a":6,"c":3,"v":109,"n":"再生之箭","id":"regeneration","Ee":"Regeneration","e":"生命恢复","t":"0:05"
+},{
+    "a":6,"c":4,"v":109,"n":"再生之箭","id":"long_regeneration","Ee":"Regeneration","e":"生命恢复","t":"0:11"
+},{
+    "a":6,"c":5,"v":109,"n":"再生之箭","id":"strong_regeneration","Ee":"Regeneration","e":"生命恢复","t":"0:02"
+},{
+    "a":7,"c":3,"v":109,"n":"迅捷之箭","id":"swiftness","Ee":"Speed","e":"速度","t":"0:22"
+},{
+    "a":7,"c":4,"v":109,"n":"迅捷之箭","id":"long_swiftness","Ee":"Speed","e":"速度","t":"1:00"
+},{
+    "a":7,"c":5,"v":109,"n":"迅捷之箭","id":"strong_swiftness","Ee":"Speed","e":"速度","t":"0:11"
+},{
+    "a":8,"c":3,"v":109,"n":"抗火之箭","id":"fire_resistance","Ee":"Fire Resistance","e":"防火","t":"0:22"
+},{
+    "a":8,"c":4,"v":109,"n":"抗火之箭","id":"long_fire_resistance","Ee":"Fire Resistance","e":"防火","t":"1:00"
+},{
+    "a":9,"c":3,"v":109,"n":"剧毒之箭","id":"poison","Ee":"Poison","e":"中毒","t":"0:05"
+},{
+    "a":9,"c":4,"v":109,"n":"剧毒之箭","id":"long_poison","Ee":"Poison","e":"中毒","t":"0:11"
+},{
+    "a":9,"c":5,"v":109,"n":"剧毒之箭","id":"strong_poison","Ee":"Poison","e":"中毒","t":"0:02"
+},{
+    "a":10,"c":3,"v":109,"n":"虚弱之箭","id":"weakness","Ee":"Weakness","e":"虚弱","t":"0:11"
+},{
+    "a":10,"c":4,"v":109,"n":"虚弱之箭","id":"long_weakness","Ee":"Weakness","e":"虚弱","t":"0:30"
+},{
+    "a":11,"c":3,"v":109,"n":"力量之箭","id":"strength","Ee":"Strength","e":"力量","t":"0:22"
+},{
+    "a":11,"c":4,"v":109,"n":"力量之箭","id":"long_strength","Ee":"Strength","e":"力量","t":"1:00"
+},{
+    "a":11,"c":5,"v":109,"n":"力量之箭","id":"strong_strength","Ee":"Strength","e":"力量","t":"0:11"
+},{
+    "a":12,"c":3,"v":109,"n":"迟缓之箭","id":"slowness","Ee":"Slowness","e":"缓慢","t":"0:11"
+},{
+    "a":12,"c":4,"v":109,"n":"迟缓之箭","id":"long_slowness","Ee":"Slowness","e":"缓慢","t":"0:30"
+},{
+    "a":13,"c":3,"v":109,"n":"夜视之箭","id":"night_vision","Ee":"Night Vision","e":"夜视","t":"0:22"
+},{
+    "a":13,"c":4,"v":109,"n":"夜视之箭","id":"long_night_vision","Ee":"Night Vision","e":"夜视","t":"1:00"
+},{
+    "a":14,"c":3,"v":109,"n":"隐身之箭","id":"invisibility","Ee":"Invisibility","e":"隐身","t":"0:22"
+},{
+    "a":14,"c":4,"v":109,"n":"隐身之箭","id":"long_invisibility","Ee":"Invisibility","e":"隐身","t":"1:00"
+},{
+    "a":15,"c":3,"v":109,"n":"水肺之箭","id":"water_breathing","Ee":"Water Breathing","e":"水下呼吸","t":"0:22"
+},{
+    "a":15,"c":4,"v":109,"n":"水肺之箭","id":"long_water_breathing","Ee":"Water Breathing","e":"水下呼吸","t":"1:00"
+},{
+    "a":16,"c":3,"v":109,"n":"跳跃之箭","id":"leaping","Ee":"Jump Boost","e":"跳跃提升","t":"0:22"
+},{
+    "a":16,"c":4,"v":109,"n":"跳跃之箭","id":"long_leaping","Ee":"Jump Boost","e":"跳跃提升","t":"1:00"
+},{
+    "a":16,"c":5,"v":109,"n":"跳跃之箭","id":"strong_leaping","Ee":"Jump Boost","e":"跳跃提升","t":"0:11"
+},{
+    "a":17,"c":3,"v":109,"n":"幸运之箭","id":"luck","Ee":"Luck","e":"幸运","t":"0:37"
+},{
+    "a":18,"c":0,"v":111,"n":"不可合成的药箭","id":"empty"
+},{
+    "a":12,"c":5,"v":113,"n":"迟缓之箭","id":"strong_slowness","Ee":"Slowness","e":"缓慢","lvl":"4","t":"0:02"
+},{
+    "a":19,"c":3,"v":113,"n":"神龟之箭","id":"turtle_master","Ee":"Slowness,Resistance","e":"缓慢,抗性提升","lvl":"4,3","t":"0:02"
+},{
+    "a":19,"c":4,"v":113,"n":"神龟之箭","id":"long_turtle_master","Ee":"Slowness,Resistance","e":"缓慢,抗性提升","lvl":"4,3","t":"0:05"
+},{
+    "a":19,"c":5,"v":113,"n":"神龟之箭","id":"strong_turtle_master","Ee":"Slowness,Resistance","e":"缓慢,抗性提升","lvl":"6,4","t":"0:02"
+},{
+    "a":20,"c":3,"v":113,"n":"缓降之箭","id":"slow_falling","Ee":"Slow Falling","e":"缓降","t":"0:11"
+},{
+    "a":20,"c":4,"v":113,"n":"缓降之箭","id":"long_slow_falling","Ee":"Slow Falling","e":"缓降","t":"0:30"
+},{
+    "a":21,"c":3,"v":121,"n":"蓄风之箭","id":"wind_charged","Ee":"","e":"蓄风","t":"0:22"
+},{
+    "a":22,"c":3,"v":121,"n":"盘丝之箭","id":"weaving","Ee":"","e":"盘丝","t":"0:22"
+},{
+    "a":23,"c":3,"v":121,"n":"渗浆之箭","id":"oozing","Ee":"","e":"渗浆","t":"0:22"
+},{
+    "a":24,"c":3,"v":121,"n":"虫蚀之箭","id":"infested","Ee":"","e":"虫蚀","t":"0:22"
+}]

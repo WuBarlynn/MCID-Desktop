@@ -1,0 +1,329 @@
+[{
+    "v":100,"n":"猪","ID":"107.Pig,111.pig","t":"0","oP":"12104,12111-261","s":261,"dt":1
+},{
+    "v":100,"n":"绵羊","ID":"107.Sheep,111.sheep","t":"0","oN":"114.羊","oP":"12104,12111-261","s":261
+},{
+    "v":100,"n":"牛","ID":"107.Cow,111.cow","t":"0","oP":"12104,12111-261","s":261,"dt":1
+},{
+    "v":100,"n":"鸡","ID":"107.Chicken,111.chicken","t":"0","oP":"12104,12111-261","s":261,"dt":1
+},{
+    "v":100,"n":"鱿鱼","ID":"107.Squid,111.squid","oP":"12111-261","s":261,"t":"0,6"
+},{
+    "v":100,"n":"狼","ID":"107.Wolf,111.wolf","t":"1","oP":"12004,12111-261","s":261,"dt":1
+},{
+    "v":100,"n":"哞菇","ID":"107.MushroomCow,111.mooshroom","oP":"12111-261","s":261,"t":"0","dt":1
+},{
+    "v":100,"n":"雪傀儡","ID":"107.SnowMan,111.snowman,113.snow_golem","t":"0","oP":"113"
+},{
+    "v":100,"n":"村民","ID":"107.Villager,111.villager","t":"0","oP":"12111-261","s":261
+},{
+    "v":100,"n":"巨人","ID":"107.Giant,111.giant"
+},{
+    "v":100,"n":"苦力怕","ID":"107.Creeper,111.creeper","t":"2","oN":"113.爬行者"
+},{
+    "v":100,"n":"骷髅","ID":"107.Skeleton,111.skeleton","t":"2,4"
+},{
+    "v":100,"n":"蜘蛛","ID":"107.Spider,111.spider","t":"3,5"
+},{
+    "v":100,"n":"僵尸","ID":"107.Zombie,111.zombie","oP":"12111-261","s":261,"t":"2,4"
+},{
+    "v":100,"n":"史莱姆","ID":"107.Slime,111.slime","t":"2"
+},{
+    "v":100,"n":"恶魂","ID":"107.Ghast,111.ghast","t":"2","dt":1
+},{
+    "v":100,"n":"僵尸猪灵","ID":"107.PigZombie,111.zombie_pigman,116.zombified_piglin","t":"3,4","oN":"115.僵尸猪人","oP":"115,12111-261","s":261
+},{
+    "v":100,"n":"末影人","ID":"107.Enderman,111.enderman","t":"3"
+},{
+    "v":100,"n":"洞穴蜘蛛","ID":"107.CaveSpider,111.cave_spider","t":"3,5"
+},{
+    "v":100,"n":"蠹虫","ID":"107.Silverfish,111.silverfish","t":"2,5"
+},{
+    "v":100,"n":"烈焰人","ID":"107.Blaze,111.blaze","t":"2"
+},{
+    "v":100,"n":"岩浆怪","ID":"107.LavaSlime,111.magma_cube","t":"2"
+},{
+    "v":100,"n":"末影龙","ID":"107.EnderDragon,111.ender_dragon","t":"2"
+},{
+    "v":100,"n":"玩家","ID":"107.Player,111.player","oP":"118","dt":1
+},{
+    "v":100,"n":"船","ID":"107.Boat,111.boat","oP":"108","zj":"nn","yc":"12102"
+},{
+    "v":100,"n":"矿车","ID":"107.MinecartRideable,111.minecart","oP":"113","zj":"nn"
+},{
+    "v":100,"n":"运输矿车","EN":"Minecart with Chest","ID":"107.MinecartChest,111.chest_minecart","oP":"113","zj":"nn"
+},{
+    "v":100,"n":"动力矿车","EN":"Minecart with Furnace","ID":"107.MinecartFurnace,111.furnace_minecart","oP":"113","zj":"nn"
+},{
+    "v":100,"n":"末地水晶","ID":"107.EnderCrystal,111.ender_crystal,113.end_crystal","zj":"nn"
+},{
+    "v":100,"n":"物品","ID":"107.Item,111.item"
+},{
+    "v":100,"n":"经验球","ID":"107.XPOrb,111.xp_orb,113.experience_orb","dt":1
+},{
+    "v":100,"n":"拴绳结","ID":"107.LeashKnot,111.leash_knot"
+},{
+    "v":100,"n":"画","ID":"107.Painting,111.painting","oP":"117"
+},{
+    "v":100,"n":"箭","ID":"107.Arrow,111.arrow"
+},{
+    "v":100,"n":"雪球","ID":"107.Snowball,111.snowball","oP":"113"
+},{
+    "v":100,"n":"火球","ID":"107.Fireball,111.fireball","oP":"113"
+},{
+    "v":100,"n":"小火球","ID":"107.SmallFireball,111.small_fireball","oP":"113"
+},{
+    "v":100,"n":"掷出的末影珍珠","EN":"Thrown Ender Pearl","ID":"107.ThrownEnderpearl,111.ender_pearl","oP":"113"
+},{
+    "v":100,"n":"末影之眼","EN":"Eye of Ender","ID":"107.EyeOfEnderSignal,111.eye_of_ender_signal,113.eye_of_ender","oP":"113"
+},{
+    "v":100,"n":"药水","ID":"107.ThrownPotion,111.potion","oP":"113","yc":"12105"
+},{
+    "v":100,"n":"被激活的TNT","EN":"Primed TNT","ID":"107.PrimedTnt,111.tnt","zj":"nn","dt":1
+},{
+    "v":100,"n":"下落的方块","ID":"107.FallingSand,111.falling_block"
+},{
+    "v":100,"n":"浮漂（不可召唤）","EN":"Fishing Bobber (Cannot be summoned)","ID":"113.fishing_bobber"
+},{
+    "v":102,"n":"豹猫","ID":"107.Ozelot,111.ocelot","t":"0","oP":"12111-261","s":261
+},{
+    "v":102,"n":"铁傀儡","ID":"107.VillagerGolem,111.villager_golem,113.iron_golem","t":"1"
+},{
+    "v":104,"n":"蝙蝠","ID":"107.Bat,111.bat","t":"0","oP":"12002"
+},{
+    "v":104,"n":"女巫","ID":"107.Witch,111.witch","t":"2"
+},{
+    "v":104,"n":"凋灵骷髅","ID":"107.Skeleton,111.wither_skeleton","t":"2,4"
+},{
+    "v":104,"n":"僵尸村民","ID":"107.Zombie,111.zombie_villager","t":"2,4","oP":"12111-261","s":261
+},{
+    "v":104,"n":"凋灵","ID":"107.WitherBoss,111.wither","t":"2,4","dt":1
+},{
+    "v":104,"n":"凋灵之首","ID":"107.WitherSkull,111.wither_skull"
+},{
+    "v":104,"n":"烟花火箭","ID":"107.FireworksRocketEntity,111.fireworks_rocket,113.firework_rocket","oP":"113"
+},{
+    "v":104,"n":"掷出的附魔之瓶","EN":"Thrown Bottle o' Enchanting","ID":"107.ThrownExpBottle,111.xp_bottle,113.experience_bottle","oP":"113"
+},{
+    "v":104,"n":"物品展示框","ID":"107.ItemFrame,111.item_frame"
+},{
+    "v":105,"n":"TNT矿车","EN":"Minecart with TNT","ID":"107.MinecartTNT,111.tnt_minecart","oP":"113","zj":"nn"
+},{
+    "v":105,"n":"漏斗矿车","EN":"Minecart with Hopper","ID":"107.MinecartHopper,111.hopper_minecart","oP":"113","zj":"nn"
+},{
+    "v":105,"n":"刷怪笼矿车","EN":"Minecart with Monster Spawner","ID":"107.MinecartSpawner,111.spawner_minecart","oN":"113.刷怪箱矿车","oP":"113","zj":"nn"
+},{
+    "v":106,"n":"马","ID":"107.Horse,111.horse","t":"0","oP":"12111-261","s":261,"dt":1
+},{
+    "v":106,"n":"驴","ID":"107.Horse,111.donkey","t":"0","oP":"12111-261","s":261
+},{
+    "v":106,"n":"骡","ID":"107.Horse,111.mule","t":"0","oP":"12111-261","s":261
+},{
+    "v":106,"n":"骷髅马","ID":"107.Horse,111.skeleton_horse","t":"0,4","oP":"12111-261","s":261
+},{
+    "v":106,"n":"僵尸马","ID":"107.Horse,111.zombie_horse","t":"4","oP":"12111-261","s":261
+},{
+    "v":107,"n":"命令方块矿车","EN":"Minecart with Command Block","ID":"107.MinecartCommandBlock,111.commandblock_minecart,113.command_block_minecart","oP":"108,113","zj":"nn"
+},{
+    "v":107,"n":"怪物","ID":"107.Monster","yc":108
+},{
+    "v":107,"n":"生物","ID":"107.Mob","yc":108
+},{
+    "v":107,"n":"实体马","EN":"Entity Horse","ID":"107.EntityHorse","yc":111
+},{
+    "v":108,"n":"兔子","ID":"108.Rabbit,111.rabbit","t":"0","oP":"12111-261","s":261,"dt":1
+},{
+    "v":108,"n":"末影螨","ID":"108.Endermite,111.endermite","t":"2,5"
+},{
+    "v":108,"n":"守卫者","ID":"108.Guardian,111.guardian","t":"2,6"
+},{
+    "v":108,"n":"远古守卫者","ID":"108.Guardian,111.elder_guardian","t":"2,6","oN":"110.守卫者"
+},{
+    "v":108,"n":"掷出的鸡蛋","EN":"Thrown Egg","ID":"108.ThrownEgg,111.egg","oP":"113"
+},{
+    "v":108,"n":"盔甲架","ID":"108.ArmorStand,111.armor_stand","oP":"113","zj":"nn"
+},{
+    "v":108,"n":"闪电束","ID":"108.LightningBolt,111.lightning_bolt"
+},{
+    "v":109,"n":"潜影贝","ID":"109.Shulker,111.shulker","t":"2","dt":1
+},{
+    "v":109,"n":"潜影弹","ID":"109.ShulkerBullet,111.shulker_bullet"
+},{
+    "v":109,"n":"末影龙火球","ID":"109.DragonFireball,111.dragon_fireball","oP":"113"
+},{
+    "v":109,"n":"光灵箭","ID":"109.SpectralArrow,111.spectral_arrow"
+},{
+    "v":109,"n":"区域效果云","ID":"109.AreaEffectCloud,111.area_effect_cloud","dt":1
+},{
+    "v":110,"n":"北极熊","ID":"110.PolarBear,111.polar_bear","t":"1","oP":"12111-261","s":261
+},{
+    "v":111,"n":"流浪者","ID":"111.stray","t":"2,4","oN":"112.流髑"
+},{
+    "v":111,"n":"尸壳","ID":"111.husk","t":"2,4","oP":"12111-261","s":261
+},{
+    "v":111,"n":"唤魔者尖牙","ID":"111.evocation_fangs,113.evoker_fangs"
+},{
+    "v":111,"n":"卫道士","ID":"111.vindication_illager,113.vindicator","t":"2"
+},{
+    "v":111,"n":"唤魔者","ID":"111.evocation_illager,113.evoker","t":"2"
+},{
+    "v":111,"n":"恼鬼","ID":"111.vex","t":"2","dt":1
+},{
+    "v":111,"n":"羊驼","ID":"111.llama","t":"1","oP":"12111-261","s":261,"dt":1
+},{
+    "v":111,"n":"羊驼唾沫","ID":"111.llama_spit"
+},{
+    "v":112,"n":"鹦鹉","ID":"112.parrot","t":"0","dt":1
+},{
+    "v":112,"n":"幻术师","ID":"112.illusion_illager,113.illusioner","t":"2"
+},{
+    "v":113,"n":"鳕鱼","ID":"113.cod","t":"0,6"
+},{
+    "v":113,"n":"海豚","ID":"113.dolphin","t":"1,6","oP":"12111-261","s":261
+},{
+    "v":113,"n":"河豚","ID":"113.pufferfish","t":"0,6"
+},{
+    "v":113,"n":"鲑鱼","ID":"113.salmon","t":"0,6"
+},{
+    "v":113,"n":"三叉戟","ID":"113.trident"
+},{
+    "v":113,"n":"热带鱼","ID":"113.tropical_fish","t":"0,6","dt":1
+},{
+    "v":113,"n":"海龟","ID":"113.turtle","t":"0,6","oP":"12111-261","s":261
+},{
+    "v":113,"n":"溺尸","ID":"113.drowned","t":"3,4","oP":"12111-261","s":261
+},{
+    "v":113,"n":"幻翼","ID":"113.phantom","t":"2,4"
+},{
+    "v":114,"n":"猫","ID":"114.cat","t":"0","oP":"12111-261","s":261,"dt":1
+},{
+    "v":114,"n":"狐狸","ID":"114.fox","t":"1","oP":"12111-261","s":261,"dt":1
+},{
+    "v":114,"n":"熊猫","ID":"114.panda","t":"1","oP":"12111-261","s":261,"dt":1
+},{
+    "v":114,"n":"行商羊驼","ID":"114.trader_llama","t":"1","dt":1
+},{
+    "v":114,"n":"流浪商人","ID":"114.wandering_trader","t":"0"
+},{
+    "v":114,"n":"掠夺者","ID":"114.pillager","t":"2"
+},{
+    "v":114,"n":"劫掠兽","ID":"114.ravager","t":"2"
+},{
+    "v":115,"n":"蜜蜂","ID":"115.bee","t":"1,5","oP":"12111-261","s":261,"dt":1
+},{
+    "v":116,"n":"炽足兽","ID":"116.strider","t":"0","oP":"12111-261","s":261,"dt":1
+},{
+    "v":116,"n":"猪灵","ID":"116.piglin","t":"3","oP":"12111-261","s":261
+},{
+    "v":116,"n":"疣猪兽","ID":"116.hoglin","t":"2","oP":"12111-261","s":261
+},{
+    "v":116,"n":"僵尸疣猪兽","ID":"116.zoglin","t":"2,4","oP":"12111-261","s":261
+},{
+    "v":11602,"n":"猪灵蛮兵","ID":"11602.piglin_brute","t":"2"
+},{
+    "v":117,"n":"美西螈","ID":"117.axolotl","t":"0,6","oP":"12111-261","s":261,"dt":1
+},{
+    "v":117,"n":"荧光物品展示框","ID":"117.glow_item_frame"
+},{
+    "v":117,"n":"发光鱿鱼","ID":"117.glow_squid","oP":"12111-261","s":261,"t":"0,6"
+},{
+    "v":117,"n":"山羊","ID":"117.goat","t":"0","oP":"12111-261","s":261,"zj":"nn"
+},{
+    "v":117,"n":"标记","ID":"117.marker"
+},{
+    "v":119,"n":"青蛙","ID":"119.frog","t":"0","dt":1
+},{
+    "v":119,"n":"蝌蚪","ID":"119.tadpole","t":"0,6"
+},{
+    "v":119,"n":"悦灵","ID":"119.allay","t":"0"
+},{
+    "v":119,"n":"监守者","ID":"119.warden","t":"2"
+},{
+    "v":119,"n":"运输船","EN":"Boat with Chest","ID":"119.chest_boat","zj":"nn","yc":"12102"
+},{
+    "v":119,"n":"交互实体","ID":"119.interaction"
+},{
+    "ev":11903,"v":120,"n":"骆驼","ID":"11903.camel","t":"0","oP":"12111-261","s":261
+},{
+    "ev":11904,"v":120,"n":"嗅探兽","ID":"11904.sniffer","t":"0","oP":"12111-261","s":261
+},{
+    "v":11904,"n":"方块展示实体","ID":"11904.block_display"
+},{
+    "v":11904,"n":"物品展示实体","ID":"11904.item_display"
+},{
+    "v":11904,"n":"文本展示实体","ID":"11904.text_display"
+},{
+    "ev":12003,"v":121,"n":"旋风人","ID":"12003.breeze","t":"2"
+},{
+    "ev":12003,"v":121,"n":"风弹（物品）","ID":"12003.wind_charge"
+},{
+    "v":12005,"n":"犰狳","ID":"12005.armadillo","t":"0","oP":"12111-261","s":261
+},{
+    "ev":12005,"v":121,"n":"风弹（旋风人）","EN":"Wind Charge (Breeze)","ID":"12005.breeze_wind_charge"
+},{
+    "ev":12005,"v":121,"n":"沼骸","ID":"12005.bogged","t":"2"
+},{
+    "ev":12005,"v":121,"n":"不祥之物生成器","ID":"12005.ominous_item_spawner"
+},{
+    "v":12102,"n":"金合欢木船","ID":"12102.acacia_boat","zj":"nn"
+},{
+    "v":12102,"n":"金合欢木运输船","EN":"Acacia Boat with Chest","ID":"12102.acacia_chest_boat","zj":"nn"
+},{
+    "v":12102,"n":"竹筏","ID":"12102.bamboo_raft","zj":"nn"
+},{
+    "v":12102,"n":"运输竹筏","EN":"Bamboo Raft with Chest","ID":"12102.bamboo_chest_raft","zj":"nn"
+},{
+    "v":12102,"n":"白桦木船","ID":"12102.birch_boat","zj":"nn"
+},{
+    "v":12102,"n":"白桦木运输船","EN":"Birch Boat with Chest","ID":"12102.birch_chest_boat","zj":"nn"
+},{
+    "v":12102,"n":"樱花木船","ID":"12102.cherry_boat","zj":"nn"
+},{
+    "v":12102,"n":"樱花木运输船","EN":"Cherry Boat with Chest","ID":"12102.cherry_chest_boat","zj":"nn"
+},{
+    "v":12102,"n":"深色橡木船","ID":"12102.dark_oak_boat","zj":"nn"
+},{
+    "v":12102,"n":"深色橡木运输船","EN":"Dark Oak Boat with Chest","ID":"12102.dark_oak_chest_boat","zj":"nn"
+},{
+    "v":12102,"n":"丛林木船","ID":"12102.jungle_boat","zj":"nn"
+},{
+    "v":12102,"n":"丛林木运输船","EN":"Jungle Boat with Chest","ID":"12102.jungle_chest_boat","zj":"nn"
+},{
+    "v":12102,"n":"红树木船","ID":"12102.mangrove_boat","zj":"nn"
+},{
+    "v":12102,"n":"红树木运输船","EN":"Mangrove Boat with Chest","ID":"12102.mangrove_chest_boat","zj":"nn"
+},{
+    "v":12102,"n":"橡木船","ID":"12102.oak_boat","zj":"nn"
+},{
+    "v":12102,"n":"橡木运输船","EN":"Oak Boat with Chest","ID":"12102.oak_chest_boat","zj":"nn"
+},{
+    "v":12102,"n":"云杉木船","ID":"12102.spruce_boat","zj":"nn"
+},{
+    "v":12102,"n":"云杉木运输船","EN":"Spruce Boat with Chest","ID":"12102.spruce_chest_boat","zj":"nn"
+},{
+    "v":12104,"n":"嘎枝","ID":"12104.creaking","t":"3"
+},{
+    "v":12104,"n":"苍白橡木船","ID":"12104.pale_oak_boat","zj":"nn"
+},{
+    "v":12104,"n":"苍白橡木运输船","EN":"Pale Oak Boat with Chest","ID":"12104.pale_oak_chest_boat","zj":"nn"
+},{
+    "v":12105,"n":"滞留药水","ID":"12105.lingering_potion"
+},{
+    "v":12105,"n":"喷溅药水","ID":"12105.splash_potion"
+},{
+    "v":12106,"n":"快乐恶魂","ID":"12106.happy_ghast","s":12106,"t":"0"
+},{
+    "v":12109,"n":"铜傀儡","ID":"12109.copper_golem","t":"0","dt":1
+},{
+    "v":12109,"n":"玩家模型","ID":"12109.mannequin","dt":1
+},{
+    "v":12111,"n":"鹦鹉螺","ID":"12111.nautilus","t":"1,6","oP":"12111-261","s":261
+},{
+    "v":12111,"n":"骆驼尸壳","ID":"12111.camel_husk","t":"0"
+},{
+    "v":12111,"n":"焦骸","ID":"12111.parched","t":"2"
+},{
+    "v":12111,"n":"僵尸鹦鹉螺","ID":"12111.zombie_nautilus","t":"1,6"
+},{
+    "v":262,"n":"硫方怪","ID":"262.sulfur_cube","t":"0"
+}]

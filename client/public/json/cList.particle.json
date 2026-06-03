@@ -1,0 +1,273 @@
+[{
+    "v":100,"i":1,"CEp":"","ID":"108.smoke"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.largesmoke,113.large_smoke"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.flame"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.bubble"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.splash"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.reddust,113.dust"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.snowballpoof,113.item_snowball"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.explode,113.poof"
+},{
+    "v":100,"CEp":"","ID":"108.largeexplode","yc":113
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.portal"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.note"
+},{
+    "v":100,"CEp":"","ID":"108.footstep","yc":113
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.hugeexplosion,113.explosion_emitter","dt":1
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.townaura,113.mycelium"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.suspended,113.underwater"
+},{
+    "v":100,"CEp":"","ID":"108.depthsuspend","yc":113
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.crit"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.magicCrit,113.enchanted_hit"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.spell,113.effect","dt":1
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.instantSpell,113.instant_effect"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.mobSpell,113.entity_effect"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.dripWater,113.dripping_water"
+},{
+    "v":100,"i":1,"CEp":"","ID":"108.dripLava,113.dripping_lava"
+},{
+    "v":104,"i":1,"CEp":"","ID":"108.angryVillager,113.angry_villager"
+},{
+    "v":104,"i":1,"CEp":"","ID":"108.happyVillager,113.happy_villager"
+},{
+    "v":10404,"CEp":"","ID":"108.mobSpellAmbient,113.ambient_entity_effect","yc":12005
+},{
+    "v":10406,"i":1,"CEp":"","ID":"108.fireworksSpark,113.firework","dt":1
+},{
+    "v":107,"i":1,"CEp":"","ID":"108.wake,113.fishing"
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.barrier,118.block_marker"
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.cloud"
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.droplet,113.rain"
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.enchantmenttable,113.enchant"
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.heart"
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.lava"
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.mobappearance,113.elder_guardian"
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.slime,113.item_slime"
+},{
+    "v":108,"CEp":"","ID":"108.snowshovel,113.poof"
+},{
+    "v":108,"CEp":"","ID":"108.take","yc":113
+},{
+    "v":108,"i":1,"CEp":"","ID":"108.witchMagic,113.witch"
+},{
+    "v":109,"i":1,"CEp":"","ID":"109.blockcrack,113.block"
+},{
+    "v":109,"CEp":"","ID":"109.blockdust,113.block"
+},{
+    "v":109,"i":1,"CEp":"","ID":"109.damageIndicator,113.damage_indicator"
+},{
+    "v":109,"i":1,"CEp":"","ID":"109.dragonbreath,113.dragon_breath"
+},{
+    "v":109,"i":1,"CEp":"","ID":"109.endRod,113.end_rod"
+},{
+    "v":109,"i":1,"CEp":"","ID":"109.iconcrack,113.item"
+},{
+    "v":109,"i":1,"CEp":"","ID":"109.sweepAttack,113.sweep_attack","dt":1
+},{
+    "v":110,"i":1,"CEp":"","ID":"110.fallingdust,113.falling_dust"
+},{
+    "v":111,"i":1,"CEp":"","ID":"111.spit"
+},{
+    "v":111,"i":1,"CEp":"","ID":"111.totem,113.totem_of_undying"
+},{
+    "v":113,"i":1,"CEp":"","ID":"113.bubble_column_up"
+},{
+    "v":113,"i":1,"CEp":"","ID":"113.bubble_pop","dt":1
+},{
+    "v":113,"i":1,"CEp":"","ID":"113.current_down"
+},{
+    "v":113,"i":1,"CEp":"","ID":"113.dolphin"
+},{
+    "v":113,"i":1,"CEp":"","ID":"113.explosion","dt":1
+},{
+    "v":113,"i":1,"CEp":"","ID":"113.nautilus"
+},{
+    "v":113,"i":1,"CEp":"","ID":"113.squid_ink"
+},{
+    "v":114,"i":1,"CEp":"","ID":"114.sneeze"
+},{
+    "v":114,"i":1,"CEp":"","ID":"114.campfire_cosy_smoke"
+},{
+    "v":114,"i":1,"CEp":"","ID":"114.campfire_signal_smoke"
+},{
+    "v":114,"i":1,"CEp":"","ID":"114.composter"
+},{
+    "v":114,"i":1,"CEp":"","ID":"114.falling_lava"
+},{
+    "v":114,"i":1,"CEp":"","ID":"114.falling_water"
+},{
+    "v":114,"i":1,"CEp":"","ID":"114.flash"
+},{
+    "v":114,"i":1,"CEp":"","ID":"114.landing_lava"
+},{
+    "v":115,"i":1,"CEp":"","ID":"115.dripping_honey"
+},{
+    "v":115,"i":1,"CEp":"","ID":"115.landing_honey"
+},{
+    "v":115,"i":1,"CEp":"","ID":"115.falling_honey"
+},{
+    "v":115,"i":1,"CEp":"","ID":"115.falling_nectar"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.ash"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.crimson_spore"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.dripping_obsidian_tear"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.falling_obsidian_tear"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.landing_obsidian_tear"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.reverse_portal"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.soul","dt":1
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.soul_fire_flame"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.warped_spore"
+},{
+    "v":116,"i":1,"CEp":"","ID":"116.white_ash"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.dripping_dripstone_lava"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.dripping_dripstone_water"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.dust_color_transition"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.electric_spark"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.falling_dripstone_lava"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.falling_dripstone_water"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.falling_spore_blossom"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.glow"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.glow_squid_ink"
+},{
+    "v":117,"CEp":"","ID":"117.light,118.block_marker"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.scrape"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.snowflake"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.small_flame"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.spore_blossom_air"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.vibration"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.wax_off"
+},{
+    "v":117,"i":1,"CEp":"","ID":"117.wax_on"
+},{
+    "v":119,"i":1,"CEp":"","ID":"119.sculk_charge","dt":1
+},{
+    "v":119,"i":1,"CEp":"","ID":"119.sculk_charge_pop","dt":1
+},{
+    "v":119,"i":1,"CEp":"","ID":"119.sculk_soul","dt":1
+},{
+    "v":119,"i":1,"CEp":"","ID":"119.shriek"
+},{
+    "v":119,"i":1,"CEp":"","ID":"119.sonic_boom","dt":1
+},{
+    "v":11904,"i":1,"CEp":"","ID":"11904.dripping_cherry_leaves,120.cherry_leaves"
+},{
+    "v":11904,"CEp":"","ID":"11904.falling_cherry_leaves,120.cherry_leaves"
+},{
+    "v":11904,"CEp":"","ID":"11904.landing_cherry_leaves,120.cherry_leaves"
+},{
+    "v":120,"i":1,"CEp":"","ID":"120.egg_crack"
+},{
+    "v":12003,"i":1,"CEp":"","ID":"12003.dust_plume"
+},{
+    "v":12003,"i":1,"CEp":"","ID":"12003.gust","dt":1
+},{
+    "v":12003,"CEp":"","ID":"12003.gust_dust","yc":12005
+},{
+    "v":12003,"i":1,"CEp":"","ID":"12003.gust_emitter,12005.gust_emitter_large","dt":1
+},{
+    "v":12003,"i":1,"CEp":"","ID":"12003.trial_spawner_detection"
+},{
+    "v":12003,"i":1,"CEp":"","ID":"12003.white_smoke"
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.dust_pillar"
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.gust_emitter_small","dt":1
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.infested"
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.item_cobweb"
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.ominous_spawning"
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.raid_omen"
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.small_gust","dt":1
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.trial_omen"
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.trial_spawner_detection_ominous"
+},{
+    "v":12005,"i":1,"CEp":"","ID":"12005.vault_connection"
+},{
+    "v":12102,"i":1,"CEp":"","ID":"12102.block_crumble"
+},{
+    "v":12102,"i":1,"CEp":"","ID":"12102.trail"
+},{
+    "v":12104,"i":1,"CEp":"","ID":"12104.pale_oak_leaves"
+},{
+    "v":12105,"i":1,"CEp":"","ID":"12105.firefly"
+},{
+    "v":12105,"i":1,"CEp":"","ID":"12105.tinted_leaves"
+},{
+    "v":12109,"i":1,"CEp":"","ID":"12109.copper_fire_flame"
+},{
+    "v":261,"i":1,"CEp":"","ID":"261.pause_mob_growth"
+},{
+    "v":261,"i":1,"CEp":"","ID":"261.reset_mob_growth"
+},{
+    "v":262,"i":1,"CEp":"","ID":"262.geyser"
+},{
+    "v":262,"i":1,"CEp":"","ID":"262.geyser_base"
+},{
+    "v":262,"i":1,"CEp":"","ID":"262.geyser_plume"
+},{
+    "v":262,"i":1,"CEp":"","ID":"262.geyser_poof"
+},{
+    "v":262,"i":1,"CEp":"","ID":"262.noxious_gas"
+},{
+    "v":262,"i":1,"CEp":"","ID":"262.noxious_gas_cloud"
+},{
+    "v":262,"i":1,"CEp":"","ID":"262.sulfur_bubbles"
+},{
+    "v":262,"i":1,"CEp":"","ID":"262.sulfur_cube_goo"
+}]

@@ -1,0 +1,95 @@
+[{
+    "v":100,"p":1,"n":"下界要塞","ID":"111.Fortress,116.fortress,118.fortress"
+},{
+    "v":100,"p":1,"n":"废弃矿井","EN":"Mineshaft","ID":"111.Mineshaft,116.mineshaft,118.#mineshaft"
+},{
+    "v":118,"p":1,"n":"废弃矿井","ID":"111.Mineshaft,116.mineshaft,118.mineshaft"
+},{
+    "v":100,"p":1,"n":"恶地废弃矿井","ID":"111.Mineshaft,116.mineshaft,118.mineshaft_mesa"
+},{
+    "v":100,"p":1,"n":"要塞","ID":"111.Stronghold,116.stronghold,118.stronghold"
+},{
+    "v":100,"p":1,"n":"村庄","EN":"Village","ID":"111.Village,116.village,118.#village","oP":"114"
+},{
+    "v":118,"p":1,"n":"平原村庄","ID":"111.Village,116.village,118.village_plains","oP":"114"
+},{
+    "v":103,"p":1,"n":"沙漠神殿","ID":"113.Desert_Pyramid,116.desert_pyramid,118.desert_pyramid"
+},{
+    "v":103,"p":1,"n":"丛林神庙","ID":"113.Jungle_Pyramid,116.jungle_pyramid,118.jungle_pyramid"
+},{
+    "v":103,"p":1,"n":"沙漠村庄","ID":"111.Village,116.village,118.village_desert"
+},{
+    "v":104,"p":1,"n":"沼泽小屋","ID":"113.Swamp_Hut,116.swamp_hut,118.swamp_hut"
+},{
+    "v":107,"p":1,"n":"热带草原村庄","ID":"111.Village,116.village,118.village_savanna"
+},{
+    "v":108,"p":1,"n":"海底神殿","ID":"111.Monument,116.monument,118.monument"
+},{
+    "v":109,"p":1,"n":"末地城","ID":"111.EndCity,116.endcity,118.end_city"
+},{
+    "v":109,"p":1,"n":"雪屋","ID":"113.Igloo,116.igloo,118.igloo"
+},{
+    "v":110,"p":1,"n":"针叶林村庄","ID":"111.Village,116.village,118.village_taiga"
+},{
+    "v":111,"p":1,"n":"林地府邸","ID":"111.Mansion,116.mansion,118.mansion"
+},{
+    "v":111,"n":"","ID":"111.Temple","yc":113
+},{
+    "v":113,"p":1,"n":"埋藏的宝藏","ID":"113.Buried_Treasure,116.buried_treasure,118.buried_treasure"
+},{
+    "v":113,"p":1,"n":"海底废墟","EN":"Ocean Ruin","ID":"113.Ocean_Ruin,116.ocean_ruin,118.#ocean_ruin"
+},{
+    "v":118,"p":1,"n":"冷水海底废墟","ID":"113.Ocean_Ruin,116.ocean_ruin,118.ocean_ruin_cold"
+},{
+    "v":118,"p":1,"n":"暖水海底废墟","ID":"113.Ocean_Ruin,116.ocean_ruin,118.ocean_ruin_warm"
+},{
+    "v":113,"p":1,"n":"沉船","EN":"Shipwreck","ID":"113.Shipwreck,116.shipwreck,118.#shipwreck"
+},{
+    "v":118,"p":1,"n":"沉船","ID":"113.Shipwreck,116.shipwreck,118.shipwreck"
+},{
+    "v":113,"p":1,"n":"搁浅的沉船","ID":"113.Shipwreck,116.shipwreck,118.shipwreck_beached"
+},{
+    "v":114,"p":1,"n":"掠夺者前哨站","ID":"114.Pillager_Outpost,116.pillager_outpost,118.pillager_outpost"
+},{
+    "v":114,"p":1,"n":"积雪村庄","ID":"114.Village,116.village,118.village_snowy"
+},{
+    "v":116,"p":1,"n":"堡垒遗迹","ID":"116.bastion_remnant,118.bastion_remnant"
+},{
+    "v":116,"p":1,"n":"下界化石","ID":"116.nether_fossil,118.nether_fossil"
+},{
+    "v":116,"p":1,"n":"废弃传送门","EN":"Ruined Portal","ID":"116.ruined_portal,118.#ruined_portal"
+},{
+    "v":118,"p":1,"n":"废弃传送门","ID":"116.ruined_portal,118.ruined_portal"
+},{
+    "v":118,"p":1,"n":"沙漠废弃传送门","ID":"118.ruined_portal_desert"
+},{
+    "v":118,"p":1,"n":"丛林废弃传送门","ID":"118.ruined_portal_jungle"
+},{
+    "v":118,"p":1,"n":"山峦废弃传送门","ID":"118.ruined_portal_mountain"
+},{
+    "v":118,"p":1,"n":"下界废弃传送门","ID":"118.ruined_portal_nether"
+},{
+    "v":118,"p":1,"n":"海洋废弃传送门","ID":"118.ruined_portal_ocean"
+},{
+    "v":118,"p":1,"n":"沼泽废弃传送门","ID":"118.ruined_portal_swamp"
+},{
+    "v":118,"n":"","EN":"Dolphin Located","ID":"118.#dolphin_located"
+},{
+    "v":118,"n":"","EN":"Eye Of Ender Located","ID":"118.#eye_of_ender_located"
+},{
+    "v":118,"n":"","EN":"On Ocean Explorer Maps","ID":"118.#on_ocean_explorer_maps"
+},{
+    "v":118,"n":"","EN":"On Treasure Maps","ID":"118.#on_treasure_maps"
+},{
+    "v":118,"n":"","EN":"On Woodland Explorer Maps","ID":"118.#on_woodland_explorer_maps"
+},{
+    "v":119,"p":1,"n":"远古城市","ID":"119.ancient_city"
+},{
+    "v":119,"n":"","EN":"Cats Spawn As Black","ID":"119.#cats_spawn_as_black"
+},{
+    "v":119,"n":"","EN":"Cats Spawn In","ID":"119.#cats_spawn_in"
+},{
+    "v":120,"p":1,"n":"古迹废墟","ID":"120.trail_ruins"
+},{
+    "v":121,"p":1,"n":"试炼密室","ID":"121.trial_chambers"
+}]

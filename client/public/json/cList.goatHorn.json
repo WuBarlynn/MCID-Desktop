@@ -1,0 +1,17 @@
+[{
+    "v":119,"n":"沉思","id":"ponder_goat_horn","sID":"item.goat_horn.sound.0","src":"call0"
+},{
+    "v":119,"n":"歌颂","id":"sing_goat_horn","sID":"item.goat_horn.sound.1","src":"call1"
+},{
+    "v":119,"n":"寻觅","id":"seek_goat_horn","sID":"item.goat_horn.sound.2","src":"call2"
+},{
+    "v":119,"n":"感受","id":"feel_goat_horn","sID":"item.goat_horn.sound.3","src":"call3"
+},{
+    "v":119,"n":"仰慕","id":"admire_goat_horn","sID":"item.goat_horn.sound.4","src":"call4"
+},{
+    "v":119,"n":"呼唤","id":"call_goat_horn","sID":"item.goat_horn.sound.5","src":"call5"
+},{
+    "v":119,"n":"憧憬","id":"yearn_goat_horn","sID":"item.goat_horn.sound.6","src":"call6"
+},{
+    "v":119,"n":"想象","id":"dream_goat_horn","sID":"item.goat_horn.sound.7","src":"call7"
+}]

@@ -1,0 +1,323 @@
+[{
+    "v":100,"p":1,"n":"海洋","ID":"108.Ocean,113.ocean","oP":"112"
+},{
+    "v":100,"p":1,"n":"平原","ID":"108.Plains,113.plains","oN":"116.草原","oP":"117"
+},{
+    "v":107,"p":1,"n":"向日葵平原","ID":"108.Sunflower Plains,113.sunflower_plains","oN":"116.向日葵草原","oP":"117"
+},{
+    "v":100,"p":1,"n":"沙漠","ID":"108.Desert,113.desert","oP":"117"
+},{
+    "v":100,"p":1,"n":"风袭丘陵","ID":"108.Extreme Hills,113.mountains,118.windswept_hills","oN":"117.山地","oP":"117"
+},{
+    "v":100,"p":1,"n":"森林","ID":"108.Forest,113.forest","oP":"117"
+},{
+    "v":107,"p":1,"n":"繁花森林","ID":"108.Flower Forest,113.flower_forest","oP":"117"
+},{
+    "v":100,"p":1,"n":"针叶林","ID":"108.Taiga,113.taiga","oP":"117"
+},{
+    "v":100,"p":1,"n":"沼泽","ID":"108.Swampland,113.swamp","oP":"117"
+},{
+    "v":100,"p":1,"n":"河流","ID":"108.River,113.river","oP":"117"
+},{
+    "v":100,"p":1,"n":"冻洋","ID":"108.FrozenOcean,113.frozen_ocean"
+},{
+    "v":100,"p":1,"n":"冻河","ID":"108.FrozenRiver,113.frozen_river"
+},{
+    "v":100,"p":1,"n":"雪原","ID":"108.Ice Plains,113.snowy_tundra,118.snowy_plains","oN":"117.积雪的冻原,118.积雪的平原","oP":"117"
+},{
+    "v":107,"p":1,"n":"冰刺之地","ID":"108.Ice Plains Spikes,113.ice_spikes","oN":"117.冰刺平原","oP":"117"
+},{
+    "v":"108","p":1,"n":"雪山","ID":"108.Ice Mountains,113.snowy_mountains","yc":118
+},{
+    "v":100,"p":1,"n":"蘑菇岛","ID":"108.MushroomIsland,113.mushroom_fields","oP":"117"
+},{
+    "v":100,"p":1,"n":"蘑菇岛岸","ID":"108.MushroomIslandShore,113.mushroom_field_shore","yc":118
+},{
+    "v":101,"p":1,"n":"沙滩","ID":"108.Beach,113.beach","oP":"117"
+},{
+    "v":"108","p":1,"n":"沙漠丘陵","ID":"108.DesertHills,113.desert_hills","yc":118
+},{
+    "v":"108","p":1,"n":"繁茂的丘陵","ID":"108.ForestHills,113.wooded_hills","yc":118
+},{
+    "v":"108","p":1,"n":"针叶林丘陵","ID":"108.TaigaHills,113.taiga_hills","yc":118
+},{
+    "v":107,"p":1,"n":"山地边缘","ID":"108.Extreme Hills Edge,113.mountain_edge","yc":118
+},{
+    "v":102,"p":1,"n":"丛林","ID":"108.Jungle,113.jungle","oP":"117"
+},{
+    "v":"108","p":1,"n":"丛林丘陵","ID":"108.JungleHills,113.jungle_hills","yc":118
+},{
+    "v":107,"p":1,"n":"稀疏丛林","ID":"108.JungleEdge,113.jungle_edge,118.sparse_jungle","oN":"117.丛林边缘,118.稀疏的丛林","oP":"117"
+},{
+    "v":107,"p":1,"n":"深海","ID":"108.Deep Ocean,113.deep_ocean"
+},{
+    "v":101,"p":1,"n":"石岸","ID":"108.Stone Beach,113.stone_shore,118.stony_shore","oP":"117"
+},{
+    "v":101,"p":1,"n":"积雪沙滩","ID":"108.Cold Beach,113.snowy_beach","oN":"118.积雪的沙滩","oP":"117"
+},{
+    "v":107,"p":1,"n":"桦木森林","ID":"108.Birch Forest,113.birch_forest","oP":"117"
+},{
+    "v":107,"p":1,"n":"原始桦木森林","ID":"108.Birch Forest M,113.tall_birch_forest,118.old_growth_birch_forest","oN":"117.高大桦木森林","oP":"117"
+},{
+    "v":"108","p":1,"n":"桦木森林丘陵","ID":"108.Birch Forest Hills,113.birch_forest_hills","yc":118
+},{
+    "v":107,"p":1,"n":"黑森林","ID":"108.Roofed Forest,113.dark_forest","oP":"117"
+},{
+    "v":"108","p":1,"n":"积雪针叶林","ID":"108.Cold Taiga,113.snowy_taiga","oN":"118.积雪的针叶林","oP":"117"
+},{
+    "v":"108","p":1,"n":"积雪的针叶林丘陵","ID":"108.Cold Taiga Hills,113.snowy_taiga_hills","yc":118
+},{
+    "v":"108","p":1,"n":"原始云杉针叶林","ID":"108.Mega Taiga,113.giant_spruce_taiga,118.old_growth_spruce_taiga","oN":"117.巨型云杉针叶林","oP":"117"
+},{
+    "v":"108","p":1,"n":"巨型云杉针叶林丘陵","ID":"108.Mega Taiga Hills,113.giant_spruce_taiga_hills","yc":118
+},{
+    "v":107,"p":1,"n":"风袭森林","ID":"108.Extreme Hills+,113.wooded_mountains,118.windswept_forest","oN":"117.繁茂的山地","oP":"117"
+},{
+    "v":107,"p":1,"n":"热带草原","ID":"108.Savanna,113.savanna","oP":"117"
+},{
+    "v":107,"p":1,"n":"热带高原","ID":"108.Savanna Plateau,113.savanna_plateau","oP":"117"
+},{
+    "v":107,"p":1,"n":"恶地","ID":"108.Mesa,113.badlands","oN":"112.平顶山","oP":"117"
+},{
+    "v":107,"p":1,"n":"疏林恶地","ID":"108.Mesa Plateau F,113.wooded_badlands_plateau,118.wooded_badlands","oN":"112.平顶山森林高原,117.繁茂的恶地高原","oP":"117"
+},{
+    "v":107,"p":1,"n":"繁茂的恶地高原变种","ID":"108.Mesa Plateau F M,113.modified_wooded_badlands_plateau","oN":"112.平顶山森林变种","yc":118
+},{
+    "v":107,"p":1,"n":"恶地高原","ID":"108.Mesa Plateau,113.badlands_plateau","oN":"112.平顶山高原","yc":118
+},{
+    "v":100,"p":1,"n":"下界荒地","ID":"108.Hell,113.nether,116.nether_wastes","oN":"112.地狱,115.下界"
+},{
+    "v":100,"p":1,"n":"末地","ID":"100.Sky108.The End,113.the_end"
+},{
+    "v":109,"p":1,"n":"虚空","ID":"109.The Void,113.the_void"
+},{
+    "v":113,"p":1,"n":"冷水海洋","ID":"113.cold_ocean"
+},{
+    "v":"113","p":1,"n":"黑森林丘陵","ID":"113.dark_forest_hills","yc":118
+},{
+    "v":113,"p":1,"n":"冷水深海","ID":"113.deep_cold_ocean"
+},{
+    "v":113,"p":1,"n":"冰冻深海","ID":"113.deep_frozen_ocean","oN":"116.封冻深海"
+},{
+    "v":113,"p":1,"n":"温水深海","ID":"113.deep_lukewarm_ocean"
+},{
+    "v":113,"p":1,"n":"暖水深海","ID":"113.deep_warm_ocean"
+},{
+    "v":107,"p":1,"n":"沙漠湖泊","ID":"108.Desert M,113.desert_lakes","yc":118
+},{
+    "v":113,"p":1,"n":"末地荒地","ID":"113.end_barrens","oN":"116.末地荒岛"
+},{
+    "v":113,"p":1,"n":"末地高地","ID":"113.end_highlands","oN":"116.末地高岛"
+},{
+    "v":113,"p":1,"n":"末地内陆","ID":"113.end_midlands","oN":"116.末地中型岛屿"
+},{
+    "v":113,"p":1,"n":"末地小型岛屿","ID":"113.small_end_islands"
+},{
+    "v":"107确认","p":1,"n":"风蚀恶地","ID":"113.eroded_badlands","oN":"112.平顶山（岩柱）,117.被风蚀的恶地","oP":"117"
+},{
+    "v":"113","p":1,"n":"原始松木针叶林","ID":"113.giant_tree_taiga,118.old_growth_pine_taiga","oN":"117.巨型针叶林","oP":"117"
+},{
+    "v":"113","p":1,"n":"巨型针叶林丘陵","ID":"113.giant_tree_taiga_hills","yc":118
+},{
+    "v":"107确认","p":1,"n":"风袭砂砾丘陵","ID":"113.gravelly_mountains,118.windswept_gravelly_hills","oN":"117.砂砾山地","oP":"117"
+},{
+    "v":113,"p":1,"n":"温水海洋","ID":"113.lukewarm_ocean"
+},{
+    "v":107,"p":1,"n":"恶地高原变种","EN":"Modified badlands plateau","ID":"108.Mesa Plateau M,113.modified_badlands_plateau","oN":"112.平顶山高原变种","yc":118
+},{
+    "v":"107确认","p":1,"n":"砂砾山地+","ID":"113.modified_gravelly_mountains","yc":118
+},{
+    "v":107,"p":1,"n":"丛林变种","ID":"108.Jungle M,113.modified_jungle","yc":118
+},{
+    "v":107,"p":1,"n":"丛林边缘变种","ID":"108.JungleEdge M,113.modified_jungle_edge","yc":118
+},{
+    "v":107,"p":1,"n":"风袭热带草原","ID":"108.Savanna M,113.shattered_savanna,118.windswept_savanna","oN":"117.破碎的热带草原","oP":"117"
+},{
+    "v":107,"p":1,"n":"破碎的热带高原","ID":"108.Savanna Plateau M,113.shattered_savanna_plateau","yc":118
+},{
+    "v":"113","p":1,"n":"积雪的针叶林山地","ID":"113.snowy_taiga_mountains","yc":118
+},{
+    "v":"113","p":1,"n":"沼泽丘陵","ID":"113.swamp_hills","oN":"114.沼泽山丘","yc":118
+},{
+    "v":"113","p":1,"n":"针叶林山地","ID":"113.taiga_mountains","yc":118
+},{
+    "v":"113","p":1,"n":"高大桦木丘陵","ID":"113.tall_birch_hills","yc":118
+},{
+    "v":113,"p":1,"n":"暖水海洋","ID":"113.warm_ocean"
+},{
+    "v":114,"p":1,"n":"竹林","ID":"114.bamboo_jungle","oP":"117"
+},{
+    "v":114,"p":1,"n":"竹林丘陵","ID":"114.bamboo_jungle_hills","yc":118
+},{
+    "v":116,"p":1,"n":"玄武岩三角洲","ID":"116.basalt_deltas"
+},{
+    "v":116,"p":1,"n":"绯红森林","ID":"116.crimson_forest"
+},{
+    "v":116,"p":1,"n":"诡异森林","ID":"116.warped_forest"
+},{
+    "v":116,"p":1,"n":"灵魂沙峡谷","ID":"116.soul_sand_valley"
+},{
+    "v":117,"p":1,"n":"溶洞","ID":"117.dripstone_caves"
+},{
+    "v":117,"p":1,"n":"繁茂洞穴","ID":"117.lush_caves"
+},{
+    "v":118,"p":1,"n":"冰封山峰","ID":"118.frozen_peaks"
+},{
+    "v":118,"p":1,"n":"雪林","ID":"118.grove"
+},{
+    "v":118,"p":1,"n":"尖峭山峰","ID":"118.jagged_peaks"
+},{
+    "v":118,"p":1,"n":"草甸","ID":"118.meadow"
+},{
+    "v":118,"p":1,"n":"积雪山坡","ID":"118.snowy_slopes"
+},{
+    "v":118,"p":1,"n":"裸岩山峰","ID":"118.stony_peaks"
+},{
+    "v":118,"n":"（结构）堡垒遗迹","EN":"(Structure) Bastion Remnant","ID":"118.#has_structure/bastion_remnant"
+},{
+    "v":118,"n":"（结构）埋藏的宝藏","EN":"(Structure) Buried Treasure","ID":"118.#has_structure/buried_treasure"
+},{
+    "v":118,"n":"（结构）沙漠神殿","EN":"(Structure) Desert Pyramid","ID":"118.#has_structure/desert_pyramid"
+},{
+    "v":118,"n":"（结构）末地城","EN":"(Structure) End City","ID":"118.#has_structure/end_city"
+},{
+    "v":118,"n":"（结构）雪屋","EN":"(Structure) Igloo","ID":"118.#has_structure/igloo"
+},{
+    "v":118,"n":"（结构）丛林神庙","EN":"(Structure) Jungle Pyramid","ID":"118.#has_structure/jungle_temple"
+},{
+    "v":118,"n":"（结构）废弃矿井","EN":"(Structure) Mineshaft","ID":"118.#has_structure/mineshaft"
+},{
+    "v":118,"n":"（结构）废弃矿井","EN":"(Structure) Mineshaft Mesa","ID":"118.#has_structure/mineshaft_mesa"
+},{
+    "v":118,"n":"（结构）下界要塞","EN":"(Structure) Nether Fortress","ID":"118.#has_structure/nether_fortress"
+},{
+    "v":118,"n":"（结构）下界化石","EN":"(Structure) Nether Fossil","ID":"118.#has_structure/nether_fossil"
+},{
+    "v":118,"n":"（结构）海底神殿","EN":"(Structure) Ocean Monument","ID":"118.#has_structure/ocean_monument"
+},{
+    "v":118,"n":"（结构）冷水海底废墟","EN":"(Structure) Ocean Ruin Cold","ID":"118.#has_structure/ocean_ruin_cold"
+},{
+    "v":118,"n":"（结构）暖水海底废墟","EN":"(Structure) Ocean Ruin Warm","ID":"118.#has_structure/ocean_ruin_warm"
+},{
+    "v":118,"n":"（结构）掠夺者前哨站","EN":"(Structure) Pillager Outpost","ID":"118.#has_structure/pillager_outpost"
+},{
+    "v":118,"n":"（结构）沙漠废弃传送门","EN":"(Structure) Ruined Portal Desert","ID":"118.#has_structure/ruined_portal_desert"
+},{
+    "v":118,"n":"（结构）丛林废弃传送门","EN":"(Structure) Ruined Portal Jungle","ID":"118.#has_structure/ruined_portal_jungle"
+},{
+    "v":118,"n":"（结构）山峦废弃传送门","EN":"(Structure) Ruined Portal Mountain","ID":"118.#has_structure/ruined_portal_mountain"
+},{
+    "v":118,"n":"（结构）下界废弃传送门","EN":"(Structure) Ruined Portal Nether","ID":"118.#has_structure/ruined_portal_nether"
+},{
+    "v":118,"n":"（结构）海洋废弃传送门","EN":"(Structure) Ruined Portal Ocean","ID":"118.#has_structure/ruined_portal_ocean"
+},{
+    "v":118,"n":"（结构）废弃传送门","EN":"(Structure) Ruined Portal Standard","ID":"118.#has_structure/ruined_portal_standard"
+},{
+    "v":118,"n":"（结构）沼泽废弃传送门","EN":"(Structure) Ruined Portal Swamp","ID":"118.#has_structure/ruined_portal_swamp"
+},{
+    "v":118,"n":"（结构）沉船","EN":"(Structure) Shipwreck","ID":"118.#has_structure/shipwreck"
+},{
+    "v":118,"n":"（结构）搁浅的沉船","EN":"(Structure) Shipwreck Beached","ID":"118.#has_structure/shipwreck_beached"
+},{
+    "v":118,"n":"（结构）要塞","EN":"(Structure) Stronghold","ID":"118.#has_structure/stronghold"
+},{
+    "v":118,"n":"（结构）沼泽小屋","EN":"(Structure) Swamp Hut","ID":"118.#has_structure/swamp_hut"
+},{
+    "v":118,"n":"（结构）沙漠村庄","EN":"(Structure) Village Desert","ID":"118.#has_structure/village_desert"
+},{
+    "v":118,"n":"（结构）平原村庄","EN":"(Structure) Village Plains","ID":"118.#has_structure/village_plains"
+},{
+    "v":118,"n":"（结构）热带草原村庄","EN":"(Structure) Village Savanna","ID":"118.#has_structure/village_savanna"
+},{
+    "v":118,"n":"（结构）积雪村庄","EN":"(Structure) Village Snowy","ID":"118.#has_structure/village_snowy"
+},{
+    "v":118,"n":"（结构）针叶林村庄","EN":"(Structure) Village Taiga","ID":"118.#has_structure/village_taige"
+},{
+    "v":118,"n":"（结构）林地府邸","EN":"(Structure) Woodland Mansion","ID":"118.#has_structure/woodland_mansion"
+},{
+    "v":118,"n":"","EN":"Is Badlands","ID":"118.#is_badlands"
+},{
+    "v":118,"n":"","EN":"Is Beach","ID":"118.#is_beach"
+},{
+    "v":118,"n":"","EN":"Is Deep Ocean","ID":"118.#is_deep_ocean"
+},{
+    "v":118,"n":"","EN":"Is Forest","ID":"118.#is_forest"
+},{
+    "v":118,"n":"","EN":"Is Hill","ID":"118.#is_hill"
+},{
+    "v":118,"n":"","EN":"Is Jungle","ID":"118.#is_jungle"
+},{
+    "v":118,"n":"","EN":"Is Mountain","ID":"118.#is_mountain"
+},{
+    "v":118,"n":"","EN":"Is Nether","ID":"118.#is_nether"
+},{
+    "v":118,"n":"","EN":"Is Ocean","ID":"118.#is_ocean"
+},{
+    "v":118,"n":"","EN":"Is River","ID":"118.#is_river"
+},{
+    "v":118,"n":"","EN":"Is Taiga","ID":"118.#is_taiga"
+},{
+    "v":119,"p":1,"n":"深暗之域","ID":"119.deep_dark"
+},{
+    "v":119,"p":1,"n":"红树林沼泽","ID":"119.mangrove_swamp"
+},{
+    "v":119,"n":"","EN":"Allows Surface Slime Spawns","ID":"119.#allows_surface_slime_spawns"
+},{
+    "v":119,"n":"","EN":"Allows Tropical Fish Spawns At Any Height","ID":"119.#allows_tropical_fish_spawns_at_any_height"
+},{
+    "v":119,"n":"","EN":"Has Closer Water Fog","ID":"119.#has_closer_water_fog"
+},{
+    "v":119,"n":"（结构）远古城市","EN":"(Structure) Ancient City","ID":"119.#has_structure/ancient_city"
+},{
+    "v":119,"n":"","EN":"Increased Fire Burnout","ID":"119.#increased_fire_burnout"
+},{
+    "v":119,"n":"","EN":"Is End","ID":"119.#is_end"
+},{
+    "v":119,"n":"","EN":"Is Overworld","ID":"119.#is_overworld"
+},{
+    "v":119,"n":"","EN":"Is Savanna","ID":"119.#is_savanna"
+},{
+    "v":119,"n":"","EN":"Mineshaft Blocking","ID":"119.#mineshaft_blocking"
+},{
+    "v":119,"n":"","EN":"More Frequent Drowned Spawns","ID":"119.#more_frequent_drowned_spawns"
+},{
+    "v":119,"n":"","EN":"Plays Underwater Music","ID":"119.#plays_underwater_music"
+},{
+    "v":119,"n":"","EN":"Polar Bears Spawn On Alternate Blocks","ID":"119.#polar_bears_spawn_on_alternate_blocks"
+},{
+    "v":119,"n":"","EN":"Produces Corals From Bonemeal","ID":"119.#produces_corals_from_bonemeal"
+},{
+    "v":119,"n":"","EN":"Reduce Water Ambient Spawns","ID":"119.#reduce_water_ambient_spawns"
+},{
+    "v":119,"n":"","EN":"Required Ocean Monument Surrounding","ID":"119.#required_ocean_monument_surrounding"
+},{
+    "v":119,"n":"","EN":"Snow Golem Melts","ID":"119.#snow_golem_melts"
+},{
+    "v":119,"n":"","EN":"Spawns Cold Variant Frogs","ID":"119.#spawns_cold_variant_frogs"
+},{
+    "v":119,"n":"","EN":"Spawns Gold Rabbits","ID":"119.#spawns_gold_rabbits"
+},{
+    "v":119,"n":"","EN":"Spawns Snow Foxes","ID":"119.#spawns_snow_foxes"
+},{
+    "v":119,"n":"","EN":"Spawns Warm Variant Frogs","ID":"119.#spawns_warm_variant_frogs"
+},{
+    "v":119,"n":"","EN":"Spawns White Rabbits","ID":"119.#spawns_white_rabbits"
+},{
+    "v":119,"n":"","EN":"Stronghold Biased To","ID":"119.#stronghold_biased_to"
+},{
+    "v":119,"n":"","EN":"Water On Map Outlines","ID":"119.#water_on_map_outlines"
+},{
+    "v":119,"n":"","EN":"Without Patrol Spawns","ID":"119.#without_patrol_spawns"
+},{
+    "v":119,"n":"","EN":"Without Wandering Trader Spawns","ID":"119.#without_wandering_trader_spawns"
+},{
+    "v":119,"n":"","EN":"Without Zombie Sieges","ID":"119.#without_zombie_sieges"
+},{
+    "v":120,"p":1,"n":"樱花树林","ID":"120.cherry_grove"
+},{
+    "v":120,"n":"（结构）古迹废墟","EN":"(Structure) Trail Ruins","ID":"120.#has_structure/trail_ruins"
+},{
+    "v":12104,"p":1,"n":"苍白之园","ID":"12104.pale_garden"
+},{
+    "v":262,"p":1,"n":"硫黄洞穴","ID":"262.sulfur_caves"
+}]
