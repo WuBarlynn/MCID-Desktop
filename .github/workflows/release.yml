@@ -1,0 +1,54 @@
+name: Build and Release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - release-version.txt
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: windows-latest
+    defaults:
+      run:
+        working-directory: client
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: client/package-lock.json
+      - uses: dtolnay/rust-toolchain@stable
+      - name: Install dependencies
+        run: npm install
+      - name: Validate frontend
+        run: npm run build
+      - name: Validate Rust/Tauri
+        run: cargo check --manifest-path src-tauri/Cargo.toml --locked
+      - name: Build portable app
+        run: npm run tauri build
+      - name: Prepare release asset
+        shell: pwsh
+        run: |
+          $tag = (Get-Content "$env:GITHUB_WORKSPACE\release-version.txt").Trim()
+          $asset = "MCID-x64-portable-$tag.exe"
+          Copy-Item "src-tauri\target\release\mcid.exe" "$env:GITHUB_WORKSPACE\$asset"
+          "TAG=$tag" >> $env:GITHUB_ENV
+          "ASSET=$asset" >> $env:GITHUB_ENV
+      - name: Publish GitHub Release
+        working-directory: ${{ github.workspace }}
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view "$env:TAG" --repo "${{ github.repository }}" *> $null
+          if ($LASTEXITCODE -eq 0) {
+            Write-Host "Release $env:TAG already exists; skipping."
+            exit 0
+          }
+          gh release create "$env:TAG" "$env:ASSET" --repo "${{ github.repository }}" --target "${{ github.sha }}" --title "MCID $env:TAG" --notes "更新 Minecraft Java Edition 数据至 26.3，并加入自动构建与发布流程。"
