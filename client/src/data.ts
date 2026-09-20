@@ -4,7 +4,7 @@ export interface VersionedId {
 }
 
 export interface GenericItem {
-  id: string; // The primary unique string ID (e.g. textId)
+  id: string;
   versionedIds: VersionedId[];
   numericId: string | null;
   name: string;
@@ -14,7 +14,7 @@ export interface GenericItem {
   imageUrlFallback: string;
   version: number;
   versionString: string;
-  extraProps: Record<string, any>; // Store everything else dynamically
+  extraProps: Record<string, any>;
 }
 
 const TAG_MAP: Record<number, string> = {
@@ -36,6 +36,11 @@ function parseVersion(v: number): string {
     const minor = v % 100;
     return `${major}.${minor}`;
   }
+  if (v < 1000) {
+    const major = Math.floor(v / 10);
+    const minor = v % 10;
+    return `${major}.${minor}`;
+  }
   if (v >= 10000) {
     const major = Math.floor(v / 10000);
     const minor = Math.floor((v % 10000) / 100);
@@ -45,20 +50,39 @@ function parseVersion(v: number): string {
   return `其它(${v})`;
 }
 
+async function loadRawCategoryData(category: string): Promise<any[]> {
+  const urls = [`/json/cList.${category}.json`];
+
+  if (category === 'BAI') {
+    urls.push('/json/cList.BAI.26.3.json');
+  }
+
+  const datasets = await Promise.all(
+    urls.map(async (url) => {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`Failed to load ${url}: HTTP ${response.status}`);
+      }
+      return (await response.json()) as any[];
+    }),
+  );
+
+  return datasets.flat();
+}
+
 export async function fetchCategory(category: string): Promise<GenericItem[]> {
-  const response = await fetch(`/json/cList.${category}.json`);
-  const rawData: any[] = await response.json();
-  
+  const rawData = await loadRawCategoryData(category);
+
   return rawData.map((item) => {
     let rawId = item.id;
     let numericId = item.num ? String(item.num) : null;
-    let versionedIds: VersionedId[] = [];
+    const versionedIds: VersionedId[] = [];
 
     if (!rawId && item.ID) {
       const idParts = item.ID.split(',');
       const newIdRaw = idParts[idParts.length - 1];
       rawId = newIdRaw.includes('.') ? newIdRaw.split('.')[1] : newIdRaw;
-      
+
       idParts.forEach((part: string) => {
         if (part.startsWith('num.')) {
           numericId = part.substring(4).replace('_', ':');
@@ -78,7 +102,7 @@ export async function fetchCategory(category: string): Promise<GenericItem[]> {
         }
       });
     }
-    
+
     if (!rawId) rawId = 'unknown';
 
     if (versionedIds.length === 0) {
@@ -86,8 +110,13 @@ export async function fetchCategory(category: string): Promise<GenericItem[]> {
       versionedIds.push({ versionStr: vStr, id: rawId });
     }
 
-    const tags = item.t ? item.t.split(',').map((t: string) => TAG_MAP[parseInt(t)] || '').filter(Boolean) : [];
-    
+    const tags = item.t
+      ? item.t
+          .split(',')
+          .map((t: string) => TAG_MAP[parseInt(t)] || '')
+          .filter(Boolean)
+      : [];
+
     let imageUrl = `/img/${rawId}.png`;
     let imageUrlFallback = `/img/${rawId}_i.png`;
 
@@ -123,13 +152,13 @@ export async function fetchCategory(category: string): Promise<GenericItem[]> {
       imageUrl = `/img/show.biome.png`;
       imageUrlFallback = `/img/show.biome.png`;
     } else if (category !== 'BAI') {
-        imageUrl = `/img/${category}_${rawId}.png`;
-        imageUrlFallback = `/img/${category}_${rawId}_i.png`;
+      imageUrl = `/img/${category}_${rawId}.png`;
+      imageUrlFallback = `/img/${category}_${rawId}_i.png`;
     }
 
     if (item.dt && category === 'BAI') {
-        imageUrl = imageUrl.replace('.png', '.gif');
-        imageUrlFallback = imageUrlFallback.replace('.png', '.gif');
+      imageUrl = imageUrl.replace('.png', '.gif');
+      imageUrlFallback = imageUrlFallback.replace('.png', '.gif');
     }
 
     const versionVal = item.v || 0;
@@ -145,7 +174,7 @@ export async function fetchCategory(category: string): Promise<GenericItem[]> {
       imageUrlFallback,
       version: versionVal,
       versionString: versionVal ? parseVersion(versionVal) : '未知',
-      extraProps: item
+      extraProps: item,
     };
   });
 }
